@@ -1,244 +1,244 @@
 sport,model,market,sub,key,game,date,book,odds,dec,stake,result,pnl_flat,pnl_kelly,open_fair,p_close,clv_prob,clv_pct,reconstructed
-CFB,CFB,Spread,Favorite,cfb|401858225|spreads|Pittsburgh||betPARX,cfb|401858225,2026-09-17,betPARX,-108,1.92593,2.2065,W,0.925926,2.04306,0.49422,,,,True
-CFB,CFB,Team Total,Under,cfb|401858225|team_totals|Under|Syracuse|FanDuel,cfb|401858225,2026-09-17,FanDuel,-122,1.81967,1.8077,W,0.819672,1.48172,0.520462,,,,True
-CFB,CFB,Total,Under,cfb|401858225|totals|Under||LowVig.ag,cfb|401858225,2026-09-17,LowVig.ag,-108,1.92593,1.2629,W,0.925926,1.16935,0.5,,,,True
-CFB,CFB,Spread,Favorite,cfb|401856811|spreads|Texas Tech||LowVig.ag,cfb|401856811,2026-09-18,LowVig.ag,-101,1.9901,1.8298,L,-1,-1.8298,0.488053,,,,True
-CFB,CFB,Team Total,Under,cfb|401856811|team_totals|Under|Houston|FanDuel,cfb|401856811,2026-09-18,FanDuel,-115,1.86957,1.0277,L,-1,-1.0277,0.504543,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858226|spreads|Wake Forest||Hard Rock Bet,cfb|401858226,2026-09-18,Hard Rock Bet,-110,1.90909,1.8442,W,0.909091,1.67655,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401858226|team_totals|Under|Miami|FanDuel,cfb|401858226,2026-09-18,FanDuel,100,2,1.1675,W,1,1.1675,0.468353,,,,True
-CFB,CFB,Total,Under,cfb|401858226|totals|Under||Caesars,cfb|401858226,2026-09-18,Caesars,-110,1.90909,1.3402,W,0.909091,1.21836,0.5,,,,True
-CFB,CFB,Team Total,Over,cfb|401856685|team_totals|Over|Florida State|FanDuel,cfb|401856685,2026-09-19,FanDuel,-102,1.98039,0.6051,W,0.980392,0.593235,0.473931,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856686|spreads|Arkansas||LowVig.ag,cfb|401856686,2026-09-19,LowVig.ag,-101,1.9901,2.9446,L,-1,-2.9446,0.488053,,,,True
-CFB,CFB,Team Total,Over,cfb|401856686|team_totals|Over|Arkansas|FanDuel,cfb|401856686,2026-09-19,FanDuel,-130,1.76923,1.8282,W,0.769231,1.40631,0.536142,,,,True
-CFB,CFB,Team Total,Under,cfb|401856686|team_totals|Under|Georgia|FanDuel,cfb|401856686,2026-09-19,FanDuel,-111,1.9009,0.5222,L,-1,-0.5222,0.495457,,,,True
-CFB,CFB,Total,Over,cfb|401856686|totals|Over||betPARX,cfb|401856686,2026-09-19,betPARX,-108,1.92593,0.8662,W,0.925926,0.802037,0.49422,,,,True
-CFB,CFB,Team Total,Under,cfb|401856687|team_totals|Under|Florida|FanDuel,cfb|401856687,2026-09-19,FanDuel,-118,1.84746,0.9759,L,-1,-0.9759,0.511361,,,,True
-CFB,CFB,Total,Under,cfb|401856687|totals|Under||Pinnacle,cfb|401856687,2026-09-19,Pinnacle,100,2,1.8952,L,-1,-1.8952,0.477855,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401856688|h2h|Ole Miss||BetOnline.ag,cfb|401856688,2026-09-19,BetOnline.ag,135,2.35,2.1795,W,1.35,2.94233,0.407392,,,,True
-CFB,CFB,Team Total,Over,cfb|401856688|team_totals|Over|Ole Miss|FanDuel,cfb|401856688,2026-09-19,FanDuel,-108,1.92593,1.0803,W,0.925926,1.00028,0.488639,,,,True
-CFB,CFB,Team Total,Under,cfb|401856688|team_totals|Under|LSU|FanDuel,cfb|401856688,2026-09-19,FanDuel,-102,1.98039,1.8897,W,0.980392,1.85265,0.473931,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856689|spreads|Troy||BetRivers,cfb|401856689,2026-09-19,BetRivers,-113,1.88496,1.8963,W,0.884956,1.67814,0.503443,,,,True
-CFB,CFB,Team Total,Under,cfb|401856689|team_totals|Under|Missouri|FanDuel,cfb|401856689,2026-09-19,FanDuel,102,2.02,1.0258,W,1.02,1.04632,0.463858,,,,True
-CFB,CFB,Total,Under,cfb|401856689|totals|Under||betPARX,cfb|401856689,2026-09-19,betPARX,-108,1.92593,1.075,W,0.925926,0.99537,0.49422,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856690|spreads|New Mexico||DraftKings,cfb|401856690,2026-09-19,DraftKings,-108,1.92593,2.3536,W,0.925926,2.17926,0.495359,,,,True
-CFB,CFB,Team Total,Over,cfb|401856690|team_totals|Over|New Mexico|FanDuel,cfb|401856690,2026-09-19,FanDuel,-113,1.88496,0.7285,L,-1,-0.7285,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401856690|team_totals|Under|Oklahoma|FanDuel,cfb|401856690,2026-09-19,FanDuel,-120,1.83333,1.1342,W,0.833333,0.945167,0.515909,,,,True
-CFB,CFB,Total,Under,cfb|401856690|totals|Under||betPARX,cfb|401856690,2026-09-19,betPARX,-108,1.92593,0.9798,W,0.925926,0.907222,0.49422,,,,True
-CFB,CFB,Team Total,Under,cfb|401856691|team_totals|Under|Mississippi State|FanDuel,cfb|401856691,2026-09-19,FanDuel,-104,1.96154,1.2834,L,-1,-1.2834,0.479538,,,,True
-CFB,CFB,Team Total,Under,cfb|401856691|team_totals|Under|South Carolina|FanDuel,cfb|401856691,2026-09-19,FanDuel,-115,1.86957,0.7237,L,-1,-0.7237,0.504543,,,,True
-CFB,CFB,Total,Under,cfb|401856691|totals|Under||Bovada,cfb|401856691,2026-09-19,Bovada,-105,1.95238,2.282,L,-1,-2.282,0.488396,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856692|spreads|Kennesaw State||DraftKings,cfb|401856692,2026-09-19,DraftKings,-108,1.92593,1.8537,W,0.925926,1.71639,0.495359,,,,True
-CFB,CFB,Team Total,Over,cfb|401856692|team_totals|Over|Kennesaw State|FanDuel,cfb|401856692,2026-09-19,FanDuel,-113,1.88496,1.034,L,-1,-1.034,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401856692|team_totals|Under|Tennessee|FanDuel,cfb|401856692,2026-09-19,FanDuel,-122,1.81967,0.5642,W,0.819672,0.462459,0.520462,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856693|spreads|UTSA||Hard Rock Bet,cfb|401856693,2026-09-19,Hard Rock Bet,-105,1.95238,2.7914,W,0.952381,2.65848,0.488396,,,,True
-CFB,CFB,Team Total,Over,cfb|401856693|team_totals|Over|UTSA|FanDuel,cfb|401856693,2026-09-19,FanDuel,-113,1.88496,0.683,L,-1,-0.683,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401856693|team_totals|Under|Texas|FanDuel,cfb|401856693,2026-09-19,FanDuel,-115,1.86957,1.5194,W,0.869565,1.32122,0.504543,,,,True
-CFB,CFB,Total,Under,cfb|401856693|totals|Under||BetMGM,cfb|401856693,2026-09-19,BetMGM,-112,1.89286,1.1803,W,0.892857,1.05384,0.50821,,,,True
-CFB,CFB,Spread,Favorite,cfb|401856694|spreads|Texas A&M||FanDuel,cfb|401856694,2026-09-19,FanDuel,-110,1.90909,2.0658,L,-1,-2.0658,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401856694|team_totals|Under|Kentucky|FanDuel,cfb|401856694,2026-09-19,FanDuel,-113,1.88496,1.2528,L,-1,-1.2528,0.5,,,,True
-CFB,CFB,Spread,Favorite,cfb|401856695|spreads|Vanderbilt||LowVig.ag,cfb|401856695,2026-09-19,LowVig.ag,102,2.02,0.9963,W,1.02,1.01623,0.480925,,,,True
-CFB,CFB,Team Total,Over,cfb|401856695|team_totals|Over|Vanderbilt|FanDuel,cfb|401856695,2026-09-19,FanDuel,-118,1.84746,1.0682,W,0.847458,0.905254,0.511361,,,,True
-CFB,CFB,Total,Over,cfb|401856695|totals|Over||DraftKings,cfb|401856695,2026-09-19,DraftKings,-105,1.95238,1.9658,W,0.952381,1.87219,0.488396,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856792|spreads|Tulane||Pinnacle,cfb|401856792,2026-09-19,Pinnacle,-108,1.92593,1.1896,W,0.925926,1.10148,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401856792|team_totals|Under|Kansas State|FanDuel,cfb|401856792,2026-09-19,FanDuel,-106,1.9434,0.5006,W,0.943396,0.472264,0.484091,,,,True
-CFB,CFB,Team Total,Over,cfb|401856793|team_totals|Over|Northern Illinois|FanDuel,cfb|401856793,2026-09-19,FanDuel,124,2.24,1.1273,W,1.24,1.39785,0.412884,,,,True
-CFB,CFB,Team Total,Under,cfb|401856793|team_totals|Under|Arizona|FanDuel,cfb|401856793,2026-09-19,FanDuel,-104,1.96154,1.9507,L,-1,-1.9507,0.479538,,,,True
-CFB,CFB,Total,Under,cfb|401856793|totals|Under||FanDuel,cfb|401856793,2026-09-19,FanDuel,-105,1.95238,1.5642,L,-1,-1.5642,0.488396,,,,True
-CFB,CFB,Team Total,Under,cfb|401856796|team_totals|Under|Colorado|FanDuel,cfb|401856796,2026-09-19,FanDuel,-113,1.88496,0.668,W,0.884956,0.59115,0.5,,,,True
-CFB,CFB,Team Total,Over,cfb|401856797|team_totals|Over|Miami (OH)|FanDuel,cfb|401856797,2026-09-19,FanDuel,-130,1.76923,0.9767,W,0.769231,0.751308,0.536142,,,,True
-CFB,CFB,Total,Over,cfb|401856797|totals|Over||LowVig.ag,cfb|401856797,2026-09-19,LowVig.ag,-108,1.92593,1.5206,W,0.925926,1.40796,0.5,,,,True
-CFB,CFB,Team Total,Over,cfb|401856801|team_totals|Over|Utah State|FanDuel,cfb|401856801,2026-09-19,FanDuel,-130,1.76923,0.5853,L,-1,-0.5853,0.536142,,,,True
-CFB,CFB,Total,Over,cfb|401856801|totals|Over||theScore Bet,cfb|401856801,2026-09-19,theScore Bet,-105,1.95238,1.4284,L,-1,-1.4284,0.488396,,,,True
-CFB,CFB,Team Total,Under,cfb|401856802|team_totals|Under|Virginia|FanDuel,cfb|401856802,2026-09-19,FanDuel,-115,1.86957,1.0758,W,0.869565,0.935478,0.504543,,,,True
-CFB,CFB,Team Total,Under,cfb|401856802|team_totals|Under|West Virginia|FanDuel,cfb|401856802,2026-09-19,FanDuel,-122,1.81967,1.1277,L,-1,-1.1277,0.520462,,,,True
-CFB,CFB,Total,Under,cfb|401856802|totals|Under||betPARX,cfb|401856802,2026-09-19,betPARX,-110,1.90909,2.5929,L,-1,-2.5929,0.5,,,,True
-CFB,CFB,Spread,Favorite,cfb|401858229|spreads|Clemson||LowVig.ag,cfb|401858229,2026-09-19,LowVig.ag,-101,1.9901,1.5765,W,0.990099,1.56089,0.488053,,,,True
-CFB,CFB,Team Total,Under,cfb|401858229|team_totals|Under|North Carolina|FanDuel,cfb|401858229,2026-09-19,FanDuel,-118,1.84746,0.5348,W,0.847458,0.45322,0.511361,,,,True
-CFB,CFB,Team Total,Under,cfb|401858230|team_totals|Under|Louisville|FanDuel,cfb|401858230,2026-09-19,FanDuel,-111,1.9009,0.5919,L,-1,-0.5919,0.495457,,,,True
-CFB,CFB,Total,Under,cfb|401858230|totals|Under||Caesars,cfb|401858230,2026-09-19,Caesars,-107,1.93458,0.8884,L,-1,-0.8884,0.493039,,,,True
-CFB,CFB,Spread,Favorite,cfb|401858231|spreads|Duke||LowVig.ag,cfb|401858231,2026-09-19,LowVig.ag,-104,1.96154,2.7506,W,0.961538,2.64481,0.495222,,,,True
-CFB,CFB,Team Total,Over,cfb|401858231|team_totals|Over|Duke|FanDuel,cfb|401858231,2026-09-19,FanDuel,-128,1.78125,1.3807,W,0.78125,1.07867,0.531647,,,,True
-CFB,CFB,Team Total,Under,cfb|401858231|team_totals|Under|Stanford|FanDuel,cfb|401858231,2026-09-19,FanDuel,-118,1.84746,0.5572,W,0.847458,0.472203,0.511361,,,,True
-CFB,CFB,Total,Over,cfb|401858231|totals|Over||BetRivers,cfb|401858231,2026-09-19,BetRivers,-114,1.87719,1.2186,L,-1,-1.2186,0.505739,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401858232|h2h|Maryland||betPARX,cfb|401858232,2026-09-19,betPARX,128,2.28,1.4981,L,-1,-1.4981,0.413452,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858232|spreads|Maryland||theScore Bet,cfb|401858232,2026-09-19,theScore Bet,110,2.1,2.497,L,-1,-2.497,0.454597,,,,True
-CFB,CFB,Team Total,Over,cfb|401858232|team_totals|Over|Maryland|FanDuel,cfb|401858232,2026-09-19,FanDuel,-108,1.92593,0.9436,L,-1,-0.9436,0.488639,,,,True
-CFB,CFB,Team Total,Under,cfb|401858232|team_totals|Under|Virginia Tech|FanDuel,cfb|401858232,2026-09-19,FanDuel,-108,1.92593,0.9998,L,-1,-0.9998,0.488639,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858449|spreads|Western Kentucky||FanDuel,cfb|401858449,2026-09-19,FanDuel,-115,1.86957,3.1758,W,0.869565,2.76157,0.511604,,,,True
-CFB,CFB,Team Total,Over,cfb|401858449|team_totals|Over|Western Kentucky|FanDuel,cfb|401858449,2026-09-19,FanDuel,-148,1.67568,1.491,L,-1,-1.491,0.568911,,,,True
-CFB,CFB,Team Total,Under,cfb|401858449|team_totals|Under|Indiana|FanDuel,cfb|401858449,2026-09-19,FanDuel,-122,1.81967,1.4019,W,0.819672,1.1491,0.520462,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858450|spreads|UTEP||BetMGM,cfb|401858450,2026-09-19,BetMGM,-110,1.90909,1.6405,W,0.909091,1.49136,0.502337,,,,True
-CFB,CFB,Team Total,Over,cfb|401858450|team_totals|Over|UTEP|FanDuel,cfb|401858450,2026-09-19,FanDuel,-130,1.76923,2.0174,W,0.769231,1.55185,0.536142,,,,True
-CFB,CFB,Total,Over,cfb|401858450|totals|Over||theScore Bet,cfb|401858450,2026-09-19,theScore Bet,-110,1.90909,1.2365,W,0.909091,1.12409,0.5,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401858451|h2h|Akron||FanDuel,cfb|401858451,2026-09-19,FanDuel,1600,17,0.6885,L,-1,-0.6885,0.0274941,,,,True
-CFB,CFB,Team Total,Over,cfb|401858451|team_totals|Over|Akron|FanDuel,cfb|401858451,2026-09-19,FanDuel,-115,1.86957,1.4264,L,-1,-1.4264,0.504543,,,,True
-CFB,CFB,Team Total,Under,cfb|401858451|team_totals|Under|Minnesota|FanDuel,cfb|401858451,2026-09-19,FanDuel,-113,1.88496,1.8514,L,-1,-1.8514,0.5,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858454|spreads|Kent State||LowVig.ag,cfb|401858454,2026-09-19,LowVig.ag,-101,1.9901,3.0277,L,-1,-3.0277,0.488053,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858456|spreads|Buffalo||FanDuel,cfb|401858456,2026-09-19,FanDuel,-102,1.98039,3.1942,L,-1,-3.1942,0.479247,,,,True
-CFB,CFB,Team Total,Over,cfb|401858456|team_totals|Over|Buffalo|FanDuel,cfb|401858456,2026-09-19,FanDuel,-180,1.55556,2.8471,W,0.555556,1.58172,0.616501,,,,True
-CFB,CFB,Team Total,Under,cfb|401858456|team_totals|Under|Penn State|FanDuel,cfb|401858456,2026-09-19,FanDuel,-106,1.9434,0.9095,L,-1,-0.9095,0.484091,,,,True
-CFB,CFB,Total,Over,cfb|401858456|totals|Over||BetRivers,cfb|401858456,2026-09-19,BetRivers,-114,1.87719,0.9781,W,0.877193,0.857982,0.506912,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858457|spreads|Rutgers||Hard Rock Bet,cfb|401858457,2026-09-19,Hard Rock Bet,-110,1.90909,2.6047,W,0.909091,2.36791,0.5,,,,True
-CFB,CFB,Team Total,Over,cfb|401858457|team_totals|Over|Rutgers|FanDuel,cfb|401858457,2026-09-19,FanDuel,100,2,1.2725,W,1,1.2725,0.468353,,,,True
-CFB,CFB,Team Total,Under,cfb|401858457|team_totals|Under|USC|FanDuel,cfb|401858457,2026-09-19,FanDuel,-108,1.92593,0.653,L,-1,-0.653,0.488639,,,,True
-CFB,CFB,Team Total,Over,cfb|401858458|team_totals|Over|Purdue|FanDuel,cfb|401858458,2026-09-19,FanDuel,-108,1.92593,0.6306,W,0.925926,0.583889,0.488639,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401858460|h2h|Eastern Michigan||theScore Bet,cfb|401858460,2026-09-19,theScore Bet,1500,16,0.6152,L,-1,-0.6152,0.0257873,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858460|spreads|Eastern Michigan||FanDuel,cfb|401858460,2026-09-19,FanDuel,-110,1.90909,3.4221,L,-1,-3.4221,0.5,,,,True
-CFB,CFB,Team Total,Over,cfb|401858460|team_totals|Over|Eastern Michigan|FanDuel,cfb|401858460,2026-09-19,FanDuel,-140,1.71429,1.2653,W,0.714286,0.903786,0.555168,,,,True
-CFB,CFB,Team Total,Under,cfb|401858460|team_totals|Under|Wisconsin|FanDuel,cfb|401858460,2026-09-19,FanDuel,100,2,1.8376,L,-1,-1.8376,0.468353,,,,True
-CFB,CFB,Total,Under,cfb|401858460|totals|Under||DraftKings,cfb|401858460,2026-09-19,DraftKings,-108,1.92593,1.102,L,-1,-1.102,0.495359,,,,True
-CFB,CFB,Spread,Underdog,cfb|401860887|spreads|James Madison||Bovada,cfb|401860887,2026-09-19,Bovada,-105,1.95238,1.1278,W,0.952381,1.0741,0.488396,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401860889|h2h|North Texas||DraftKings,cfb|401860889,2026-09-19,DraftKings,130,2.3,1.3871,L,-1,-1.3871,0.411677,,,,True
-CFB,CFB,Spread,Underdog,cfb|401860889|spreads|North Texas||FanDuel,cfb|401860889,2026-09-19,FanDuel,100,2,2.1352,L,-1,-2.1352,0.474624,,,,True
-CFB,CFB,Team Total,Over,cfb|401860889|team_totals|Over|North Texas|FanDuel,cfb|401860889,2026-09-19,FanDuel,-122,1.81967,1.9984,W,0.819672,1.63803,0.520462,,,,True
-CFB,CFB,Total,Over,cfb|401860889|totals|Over||DraftKings,cfb|401860889,2026-09-19,DraftKings,-105,1.95238,2.5387,W,0.952381,2.41781,0.488396,,,,True
-CFB,CFB,Spread,Underdog,cfb|401861963|spreads|Southern Miss||Hard Rock Bet,cfb|401861963,2026-09-19,Hard Rock Bet,105,2.05,1.3522,L,-1,-1.3522,0.460281,,,,True
-CFB,CFB,Team Total,Over,cfb|401861963|team_totals|Over|Southern Miss|FanDuel,cfb|401861963,2026-09-19,FanDuel,-113,1.88496,1.2094,L,-1,-1.2094,0.5,,,,True
-CFB,CFB,Total,Over,cfb|401861963|totals|Over||LowVig.ag,cfb|401861963,2026-09-19,LowVig.ag,-108,1.92593,1.57,W,0.925926,1.4537,0.5,,,,True
-CFB,CFB,Spread,Favorite,cfb|401862710|spreads|Old Dominion||BetRivers,cfb|401862710,2026-09-19,BetRivers,-113,1.88496,0.9913,L,-1,-0.9913,0.503443,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401862771|h2h|Florida International||Bovada,cfb|401862771,2026-09-19,Bovada,220,3.2,0.9126,L,-1,-0.9126,0.286943,,,,True
-CFB,CFB,Spread,Underdog,cfb|401862771|spreads|Florida International||Hard Rock Bet,cfb|401862771,2026-09-19,Hard Rock Bet,100,2,1.3552,W,1,1.3552,0.476771,,,,True
-CFB,CFB,Team Total,Under,cfb|401862771|team_totals|Under|Florida Atlantic|FanDuel,cfb|401862771,2026-09-19,FanDuel,-104,1.96154,0.9659,W,0.961538,0.92875,0.479538,,,,True
-CFB,CFB,Moneyline,Favorite,cfb|401862774|h2h|Toledo||theScore Bet,cfb|401862774,2026-09-19,theScore Bet,-195,1.51282,2.4674,W,0.512821,1.26533,0.644485,,,,True
-CFB,CFB,Spread,Favorite,cfb|401862774|spreads|Toledo||DraftKings,cfb|401862774,2026-09-19,DraftKings,-110,1.90909,3.4693,L,-1,-3.4693,0.5,,,,True
-CFB,CFB,Team Total,Over,cfb|401862774|team_totals|Over|Toledo|FanDuel,cfb|401862774,2026-09-19,FanDuel,100,2,1.0955,W,1,1.0955,0.468353,,,,True
-CFB,CFB,Team Total,Under,cfb|401862774|team_totals|Under|Temple|FanDuel,cfb|401862774,2026-09-19,FanDuel,-111,1.9009,2.0249,L,-1,-2.0249,0.495457,,,,True
-CFB,CFB,Spread,Favorite,cfb|401862776|spreads|Louisiana||Pinnacle,cfb|401862776,2026-09-19,Pinnacle,-102,1.98039,1.0036,L,-1,-1.0036,0.484747,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401864443|h2h|Middle Tennessee||betPARX,cfb|401864443,2026-09-19,betPARX,163,2.63,1.9966,W,1.63,3.25446,0.353444,,,,True
-CFB,CFB,Spread,Underdog,cfb|401864443|spreads|Middle Tennessee||betPARX,cfb|401864443,2026-09-19,betPARX,-110,1.90909,3.3554,W,0.909091,3.05036,0.5,,,,True
-CFB,CFB,Team Total,Over,cfb|401864443|team_totals|Over|Middle Tennessee|FanDuel,cfb|401864443,2026-09-19,FanDuel,-120,1.83333,0.9172,W,0.833333,0.764333,0.515909,,,,True
-CFB,CFB,Team Total,Under,cfb|401864443|team_totals|Under|Nevada|FanDuel,cfb|401864443,2026-09-19,FanDuel,-113,1.88496,1.9496,W,0.884956,1.72531,0.5,,,,True
-CFB,CFB,Total,Under,cfb|401864443|totals|Under||BetMGM,cfb|401864443,2026-09-19,BetMGM,-112,1.89286,0.9797,W,0.892857,0.874732,0.50821,,,,True
-CFB,CFB,Spread,Favorite,cfb|401864508|spreads|Central Michigan||LowVig.ag,cfb|401864508,2026-09-19,LowVig.ag,-101,1.9901,0.9549,W,0.990099,0.945446,0.488053,,,,True
-CFB,CFB,Team Total,Under,cfb|401864508|team_totals|Under|Wyoming|FanDuel,cfb|401864508,2026-09-19,FanDuel,-108,1.92593,0.8515,W,0.925926,0.788426,0.488639,,,,True
-CFB,CFB,Total,Under,cfb|401864508|totals|Under||Bovada,cfb|401864508,2026-09-19,Bovada,-105,1.95238,1.1588,W,0.952381,1.10362,0.488396,,,,True
-CFB,CFB,Spread,Favorite,cfb|401864574|spreads|App State||LowVig.ag,cfb|401864574,2026-09-19,LowVig.ag,-101,1.9901,1.5469,L,-1,-1.5469,0.488053,,,,True
-CFB,CFB,Team Total,Over,cfb|401864574|team_totals|Over|App State|FanDuel,cfb|401864574,2026-09-19,FanDuel,-108,1.92593,0.8297,L,-1,-0.8297,0.488639,,,,True
-CFB,CFB,Total,Over,cfb|401864574|totals|Over||theScore Bet,cfb|401864574,2026-09-19,theScore Bet,100,2,0.9465,L,-1,-0.9465,0.476771,,,,True
-CFB,CFB,Team Total,Under,cfb|401866423|team_totals|Under|South Alabama|FanDuel,cfb|401866423,2026-09-19,FanDuel,-122,1.81967,0.6696,L,-1,-0.6696,0.520462,,,,True
-CFB,CFB,Total,Under,cfb|401866423|totals|Under||betPARX,cfb|401866423,2026-09-19,betPARX,-109,1.91743,1.5535,L,-1,-1.5535,0.496532,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401867804|h2h|Louisiana Tech||theScore Bet,cfb|401867804,2026-09-19,theScore Bet,800,9,0.6966,L,-1,-0.6966,0.0705463,,,,True
-CFB,CFB,Spread,Underdog,cfb|401867804|spreads|Louisiana Tech||Hard Rock Bet,cfb|401867804,2026-09-19,Hard Rock Bet,-105,1.95238,2.3296,W,0.952381,2.21867,0.488396,,,,True
-CFB,CFB,Team Total,Over,cfb|401867804|team_totals|Over|Louisiana Tech|FanDuel,cfb|401867804,2026-09-19,FanDuel,-122,1.81967,1.0066,W,0.819672,0.825082,0.520462,,,,True
-CFB,CFB,Team Total,Under,cfb|401867804|team_totals|Under|Baylor|FanDuel,cfb|401867804,2026-09-19,FanDuel,-120,1.83333,0.7671,L,-1,-0.7671,0.515909,,,,True
-CFB,CFB,Spread,Favorite,cfb|401869940|spreads|Delaware||DraftKings,cfb|401869940,2026-09-19,DraftKings,-105,1.95238,1.6272,W,0.952381,1.54971,0.488396,,,,True
-CFB,CFB,Team Total,Under,cfb|401869940|team_totals|Under|Coastal Carolina|FanDuel,cfb|401869940,2026-09-19,FanDuel,-115,1.86957,1.0468,W,0.869565,0.910261,0.504543,,,,True
-CFB,CFB,Spread,Favorite,cfb|401869948|spreads|Jacksonville State||LowVig.ag,cfb|401869948,2026-09-19,LowVig.ag,-106,1.9434,1.9459,W,0.943396,1.83575,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401869948|team_totals|Under|Georgia Southern|FanDuel,cfb|401869948,2026-09-19,FanDuel,-122,1.81967,1.2158,L,-1,-1.2158,0.520462,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401871047|h2h|Missouri State||Hard Rock Bet,cfb|401871047,2026-09-19,Hard Rock Bet,150,2.5,1.1736,L,-1,-1.1736,0.376022,,,,True
-CFB,CFB,Spread,Underdog,cfb|401871047|spreads|Missouri State||LowVig.ag,cfb|401871047,2026-09-19,LowVig.ag,-106,1.9434,1.6917,L,-1,-1.6917,0.5,,,,True
-CFB,CFB,Team Total,Over,cfb|401871047|team_totals|Over|Missouri State|FanDuel,cfb|401871047,2026-09-19,FanDuel,-130,1.76923,1.1381,W,0.769231,0.875462,0.536142,,,,True
-CFB,CFB,Spread,Underdog,cfb|401869941|spreads|Coastal Carolina||LowVig.ag,cfb|401869941,2026-09-24,LowVig.ag,-101,1.9901,1.0637,L,-1,-1.0637,0.488053,,,,True
-CFB,CFB,Team Total,Under,cfb|401869941|team_totals|Under|Liberty|theScore Bet,cfb|401869941,2026-09-24,theScore Bet,-120,1.83333,1.045,L,-1,-1.045,0.511204,,,,True
-CFB,CFB,Total,Under,cfb|401869941|totals|Under||FanDuel,cfb|401869941,2026-09-24,FanDuel,-110,1.90909,1.3016,W,0.909091,1.18327,0.5,,,,True
-CFB,CFB,Spread,Favorite,cfb|401858461|spreads|Indiana||theScore Bet,cfb|401858461,2026-09-25,theScore Bet,-110,1.90909,1.6521,L,-1,-1.6521,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401858461|team_totals|Under|Northwestern|FanDuel,cfb|401858461,2026-09-25,FanDuel,102,2.02,1.0673,L,-1,-1.0673,0.463858,,,,True
-CFB,CFB,Spread,Underdog,cfb|401862778|spreads|UAB||theScore Bet,cfb|401862778,2026-09-25,theScore Bet,-115,1.86957,1.355,W,0.869565,1.17826,0.511604,,,,True
-CFB,CFB,Team Total,Over,cfb|401862778|team_totals|Over|UAB|Hard Rock Bet,cfb|401862778,2026-09-25,Hard Rock Bet,-135,1.74074,0.9527,W,0.740741,0.705704,0.526671,,,,True
-CFB,CFB,Spread,Favorite,cfb|401856696|spreads|Alabama||LowVig.ag,cfb|401856696,2026-09-26,LowVig.ag,-106,1.9434,1.9891,W,0.943396,1.87651,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401856696|team_totals|Under|South Carolina|FanDuel,cfb|401856696,2026-09-26,FanDuel,-106,1.9434,1.4639,W,0.943396,1.38104,0.484091,,,,True
-CFB,CFB,Total,Under,cfb|401856696|totals|Under||BetOnline.ag,cfb|401856696,2026-09-26,BetOnline.ag,-115,1.86957,1.4364,L,-1,-1.4364,0.511604,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856698|spreads|Vanderbilt||Hard Rock Bet,cfb|401856698,2026-09-26,Hard Rock Bet,-105,1.95238,1.3313,W,0.952381,1.2679,0.488396,,,,True
-CFB,CFB,Team Total,Under,cfb|401856698|team_totals|Under|Auburn|FanDuel,cfb|401856698,2026-09-26,FanDuel,-104,1.96154,0.9119,W,0.961538,0.876827,0.479538,,,,True
-CFB,CFB,Team Total,Over,cfb|401856699|team_totals|Over|Florida|FanDuel,cfb|401856699,2026-09-26,FanDuel,-113,1.88496,0.6821,W,0.884956,0.603628,0.497744,,,,True
-CFB,CFB,Total,Over,cfb|401856699|totals|Over||BetRivers,cfb|401856699,2026-09-26,BetRivers,-113,1.88496,1.2016,W,0.884956,1.06336,0.503443,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401856702|h2h|Texas A&M||BetRivers,cfb|401856702,2026-09-26,BetRivers,300,4,0.806,L,-1,-0.806,0.21236,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856702|spreads|Texas A&M||Hard Rock Bet,cfb|401856702,2026-09-26,Hard Rock Bet,-105,1.95238,1.4873,L,-1,-1.4873,0.488396,,,,True
-CFB,CFB,Team Total,Under,cfb|401856702|team_totals|Under|LSU|FanDuel,cfb|401856702,2026-09-26,FanDuel,-130,1.76923,1.5686,L,-1,-1.5686,0.536142,,,,True
-CFB,CFB,Total,Under,cfb|401856702|totals|Under||betPARX,cfb|401856702,2026-09-26,betPARX,-109,1.91743,2.0144,W,0.917431,1.84807,0.496532,,,,True
-CFB,CFB,Team Total,Under,cfb|401856703|team_totals|Under|Mississippi State|FanDuel,cfb|401856703,2026-09-26,FanDuel,-115,1.86957,0.6192,W,0.869565,0.538435,0.504543,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401856704|h2h|Tennessee||Pinnacle,cfb|401856704,2026-09-26,Pinnacle,190,2.9,1.0098,L,-1,-1.0098,0.319163,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856704|spreads|Tennessee||theScore Bet,cfb|401856704,2026-09-26,theScore Bet,-105,1.95238,1.5283,W,0.952381,1.45552,0.488396,,,,True
-CFB,CFB,Team Total,Under,cfb|401856704|team_totals|Under|Texas|FanDuel,cfb|401856704,2026-09-26,FanDuel,102,2.02,0.8235,W,1.02,0.83997,0.463858,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401856804|h2h|Washington State||FanDuel,cfb|401856804,2026-09-26,FanDuel,350,4.5,1.4768,L,-1,-1.4768,0.192276,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856804|spreads|Washington State||theScore Bet,cfb|401856804,2026-09-26,theScore Bet,-105,1.95238,3.1786,W,0.952381,3.02724,0.488396,,,,True
-CFB,CFB,Team Total,Over,cfb|401856804|team_totals|Over|Washington State|FanDuel,cfb|401856804,2026-09-26,FanDuel,-106,1.9434,0.6818,W,0.943396,0.643208,0.484091,,,,True
-CFB,CFB,Team Total,Under,cfb|401856804|team_totals|Under|Arizona|FanDuel,cfb|401856804,2026-09-26,FanDuel,-120,1.83333,2.2729,L,-1,-2.2729,0.515909,,,,True
-CFB,CFB,Total,Under,cfb|401856804|totals|Under||FanDuel,cfb|401856804,2026-09-26,FanDuel,-105,1.95238,1.6641,L,-1,-1.6641,0.488396,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856805|spreads|Sam Houston||Hard Rock Bet,cfb|401856805,2026-09-26,Hard Rock Bet,-115,1.86957,1.6262,W,0.869565,1.41409,0.511604,,,,True
-CFB,CFB,Team Total,Over,cfb|401856805|team_totals|Over|Sam Houston|Hard Rock Bet,cfb|401856805,2026-09-26,Hard Rock Bet,-115,1.86957,0.876,W,0.869565,0.761739,0.489168,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401856806|h2h|Georgia Southern||BetRivers,cfb|401856806,2026-09-26,BetRivers,700,8,0.7443,L,-1,-0.7443,0.0865757,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856806|spreads|Georgia Southern||Hard Rock Bet,cfb|401856806,2026-09-26,Hard Rock Bet,-110,1.90909,2.6942,W,0.909091,2.44927,0.5,,,,True
-CFB,CFB,Team Total,Over,cfb|401856806|team_totals|Over|Georgia Southern|FanDuel,cfb|401856806,2026-09-26,FanDuel,104,2.04,0.9464,W,1.04,0.984256,0.459451,,,,True
-CFB,CFB,Team Total,Under,cfb|401856806|team_totals|Under|Houston|FanDuel,cfb|401856806,2026-09-26,FanDuel,-113,1.88496,1.2165,L,-1,-1.2165,0.5,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856814|spreads|Cincinnati||LowVig.ag,cfb|401856814,2026-09-26,LowVig.ag,-106,1.9434,1.1057,W,0.943396,1.04311,0.5,,,,True
-CFB,CFB,Team Total,Over,cfb|401856814|team_totals|Over|Cincinnati|FanDuel,cfb|401856814,2026-09-26,FanDuel,-104,1.96154,0.6379,W,0.961538,0.613365,0.479538,,,,True
-CFB,CFB,Spread,Underdog,cfb|401856815|spreads|UCF||FanDuel,cfb|401856815,2026-09-26,FanDuel,-115,1.86957,1.4267,W,0.869565,1.24061,0.511604,,,,True
-CFB,CFB,Team Total,Under,cfb|401856815|team_totals|Under|TCU|FanDuel,cfb|401856815,2026-09-26,FanDuel,100,2,0.803,W,1,0.803,0.468353,,,,True
-CFB,CFB,Spread,Favorite,cfb|401856881|spreads|West Virginia||FanDuel,cfb|401856881,2026-09-26,FanDuel,-110,1.90909,1.2034,L,-1,-1.2034,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401856881|team_totals|Under|Oklahoma State|FanDuel,cfb|401856881,2026-09-26,FanDuel,-108,1.92593,1.2794,L,-1,-1.2794,0.488639,,,,True
-CFB,CFB,Total,Under,cfb|401856881|totals|Under||FanDuel,cfb|401856881,2026-09-26,FanDuel,-105,1.95238,1.5652,L,-1,-1.5652,0.488396,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858238|spreads|Central Michigan||FanDuel,cfb|401858238,2026-09-26,FanDuel,-105,1.95238,3.0184,L,-1,-3.0184,0.488396,,,,True
-CFB,CFB,Team Total,Over,cfb|401858238|team_totals|Over|Central Michigan|FanDuel,cfb|401858238,2026-09-26,FanDuel,102,2.02,0.8651,L,-1,-0.8651,0.463858,,,,True
-CFB,CFB,Team Total,Under,cfb|401858238|team_totals|Under|Miami|FanDuel,cfb|401858238,2026-09-26,FanDuel,-122,1.81967,1.7219,L,-1,-1.7219,0.520462,,,,True
-CFB,CFB,Total,Under,cfb|401858238|totals|Under||theScore Bet,cfb|401858238,2026-09-26,theScore Bet,-110,1.90909,1.7182,L,-1,-1.7182,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401858239|team_totals|Under|Virginia|FanDuel,cfb|401858239,2026-09-26,FanDuel,-113,1.88496,0.6269,L,-1,-0.6269,0.5,,,,True
-CFB,CFB,Total,Under,cfb|401858239|totals|Under||betPARX,cfb|401858239,2026-09-26,betPARX,-110,1.90909,1.1005,W,0.909091,1.00045,0.5,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858241|spreads|Missouri State||Fanatics,cfb|401858241,2026-09-26,Fanatics,-105,1.95238,1.5511,W,0.952381,1.47724,0.488396,,,,True
-CFB,CFB,Team Total,Over,cfb|401858241|team_totals|Over|Missouri State|FanDuel,cfb|401858241,2026-09-26,FanDuel,-111,1.9009,1.1525,W,0.900901,1.03829,0.495457,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858242|spreads|Boston College||betPARX,cfb|401858242,2026-09-26,betPARX,-109,1.91743,1.2625,W,0.917431,1.15826,0.496532,,,,True
-CFB,CFB,Team Total,Over,cfb|401858242|team_totals|Over|Boston College|theScore Bet,cfb|401858242,2026-09-26,theScore Bet,-105,1.95238,1.263,L,-1,-1.263,0.477574,,,,True
-CFB,CFB,Total,Over,cfb|401858242|totals|Over||theScore Bet,cfb|401858242,2026-09-26,theScore Bet,100,2,1.8333,L,-1,-1.8333,0.476771,,,,True
-CFB,CFB,Team Total,Under,cfb|401858243|team_totals|Under|Louisville|theScore Bet,cfb|401858243,2026-09-26,theScore Bet,-110,1.90909,0.8149,W,0.909091,0.740818,0.488796,,,,True
-CFB,CFB,Total,Under,cfb|401858243|totals|Under||FanDuel,cfb|401858243,2026-09-26,FanDuel,-105,1.95238,0.9928,W,0.952381,0.945524,0.488396,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858462|spreads|Maryland||DraftKings,cfb|401858462,2026-09-26,DraftKings,-105,1.95238,1.3764,L,-1,-1.3764,0.488396,,,,True
-CFB,CFB,Team Total,Under,cfb|401858462|team_totals|Under|UCLA|FanDuel,cfb|401858462,2026-09-26,FanDuel,-106,1.9434,0.5341,L,-1,-0.5341,0.484091,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858463|spreads|Iowa||theScore Bet,cfb|401858463,2026-09-26,theScore Bet,100,2,1.0337,W,1,1.0337,0.476771,,,,True
-CFB,CFB,Team Total,Over,cfb|401858463|team_totals|Over|Iowa|FanDuel,cfb|401858463,2026-09-26,FanDuel,-120,1.83333,1.0003,W,0.833333,0.833583,0.51354,,,,True
-CFB,CFB,Total,Over,cfb|401858463|totals|Over||Hard Rock Bet,cfb|401858463,2026-09-26,Hard Rock Bet,-110,1.90909,1.6452,W,0.909091,1.49564,0.5,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858465|spreads|Illinois||betPARX,cfb|401858465,2026-09-26,betPARX,-108,1.92593,1.2811,W,0.925926,1.1862,0.49422,,,,True
-CFB,CFB,Team Total,Under,cfb|401858465|team_totals|Under|Ohio State|FanDuel,cfb|401858465,2026-09-26,FanDuel,-113,1.88496,0.5336,L,-1,-0.5336,0.5,,,,True
-CFB,CFB,Spread,Favorite,cfb|401858466|spreads|Penn State||BetRivers,cfb|401858466,2026-09-26,BetRivers,-114,1.87719,1.4829,L,-1,-1.4829,0.505739,,,,True
-CFB,CFB,Team Total,Under,cfb|401858466|team_totals|Under|Wisconsin|FanDuel,cfb|401858466,2026-09-26,FanDuel,-104,1.96154,0.6338,L,-1,-0.6338,0.479538,,,,True
-CFB,CFB,Spread,Underdog,cfb|401858469|spreads|USC||theScore Bet,cfb|401858469,2026-09-26,theScore Bet,105,2.05,0.8751,L,-1,-0.8751,0.465414,,,,True
-CFB,CFB,Team Total,Under,cfb|401858469|team_totals|Under|Oregon|theScore Bet,cfb|401858469,2026-09-26,theScore Bet,-110,1.90909,0.579,L,-1,-0.579,0.488796,,,,True
-CFB,CFB,Spread,Favorite,cfb|401858470|spreads|Washington||BetRivers,cfb|401858470,2026-09-26,BetRivers,-113,1.88496,1.1162,L,-1,-1.1162,0.503443,,,,True
-CFB,CFB,Spread,Favorite,cfb|401860891|spreads|Fresno State||FanDuel,cfb|401860891,2026-09-26,FanDuel,-105,1.95238,0.9087,W,0.952381,0.865429,0.488396,,,,True
-CFB,CFB,Team Total,Under,cfb|401860891|team_totals|Under|Rice|FanDuel,cfb|401860891,2026-09-26,FanDuel,-111,1.9009,0.7914,L,-1,-0.7914,0.495457,,,,True
-CFB,CFB,Spread,Favorite,cfb|401860893|spreads|Toledo||theScore Bet,cfb|401860893,2026-09-26,theScore Bet,100,2,1.886,W,1,1.886,0.476771,,,,True
-CFB,CFB,Team Total,Over,cfb|401860893|team_totals|Over|Toledo|Hard Rock Bet,cfb|401860893,2026-09-26,Hard Rock Bet,-120,1.83333,0.5515,W,0.833333,0.459583,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401860893|team_totals|Under|San Diego State|theScore Bet,cfb|401860893,2026-09-26,theScore Bet,100,2,1.1102,W,1,1.1102,0.466316,,,,True
-CFB,CFB,Team Total,Under,cfb|401860894|team_totals|Under|Troy|FanDuel,cfb|401860894,2026-09-26,FanDuel,-115,1.86957,0.6918,W,0.869565,0.601565,0.504543,,,,True
-CFB,CFB,Spread,Favorite,cfb|401860896|spreads|UTSA||Bovada,cfb|401860896,2026-09-26,Bovada,-110,1.90909,2.1322,W,0.909091,1.93836,0.5,,,,True
-CFB,CFB,Team Total,Over,cfb|401860896|team_totals|Over|UTSA|FanDuel,cfb|401860896,2026-09-26,FanDuel,-106,1.9434,1.013,W,0.943396,0.95566,0.484091,,,,True
-CFB,CFB,Team Total,Under,cfb|401860896|team_totals|Under|Colorado State|theScore Bet,cfb|401860896,2026-09-26,theScore Bet,-115,1.86957,0.4778,L,-1,-0.4778,0.5,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401860897|h2h|Western Michigan||Hard Rock Bet,cfb|401860897,2026-09-26,Hard Rock Bet,250,3.5,1.2964,L,-1,-1.2964,0.254197,,,,True
-CFB,CFB,Spread,Underdog,cfb|401860897|spreads|Western Michigan||BetRivers,cfb|401860897,2026-09-26,BetRivers,-113,1.88496,2.3108,L,-1,-2.3108,0.504608,,,,True
-CFB,CFB,Team Total,Over,cfb|401860897|team_totals|Over|Western Michigan|FanDuel,cfb|401860897,2026-09-26,FanDuel,-111,1.9009,0.6172,L,-1,-0.6172,0.495457,,,,True
-CFB,CFB,Team Total,Under,cfb|401860897|team_totals|Under|Boise State|theScore Bet,cfb|401860897,2026-09-26,theScore Bet,-125,1.8,1.3742,L,-1,-1.3742,0.522426,,,,True
-CFB,CFB,Team Total,Over,cfb|401861970|team_totals|Over|UConn|FanDuel,cfb|401861970,2026-09-26,FanDuel,-128,1.78125,0.715,L,-1,-0.715,0.531647,,,,True
-CFB,CFB,Total,Over,cfb|401861970|totals|Over||DraftKings,cfb|401861970,2026-09-26,DraftKings,-108,1.92593,1.3633,L,-1,-1.3633,0.495359,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401862782|h2h|UL Monroe||theScore Bet,cfb|401862782,2026-09-26,theScore Bet,425,5.25,0.7579,L,-1,-0.7579,0.150684,,,,True
-CFB,CFB,Spread,Underdog,cfb|401862782|spreads|UL Monroe||Bovada,cfb|401862782,2026-09-26,Bovada,-105,1.95238,1.6229,L,-1,-1.6229,0.488396,,,,True
-CFB,CFB,Team Total,Under,cfb|401862782|team_totals|Under|Florida Atlantic|FanDuel,cfb|401862782,2026-09-26,FanDuel,-122,1.81967,0.9519,L,-1,-0.9519,0.520462,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401862784|h2h|Southern Miss||FanDuel,cfb|401862784,2026-09-26,FanDuel,860,9.6,0.9234,L,-1,-0.9234,0.0691155,,,,True
-CFB,CFB,Spread,Underdog,cfb|401862784|spreads|Southern Miss||FanDuel,cfb|401862784,2026-09-26,FanDuel,-108,1.92593,2.733,W,0.925926,2.53056,0.495359,,,,True
-CFB,CFB,Team Total,Over,cfb|401862784|team_totals|Over|Southern Miss|FanDuel,cfb|401862784,2026-09-26,FanDuel,-113,1.88496,1.0407,W,0.884956,0.920973,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401862784|team_totals|Under|Tulane|FanDuel,cfb|401862784,2026-09-26,FanDuel,-104,1.96154,1.5895,W,0.961538,1.52837,0.479538,,,,True
+CFB,CFB,Spread,Favorite,cfb|401858225|spreads|Pittsburgh||betPARX,cfb|401858225,2026-09-17,betPARX,-108,1.92593,2.2065,W,0.925926,2.04306,0.49422,0.501214,0.00699435,0.0141523,True
+CFB,CFB,Team Total,Under,cfb|401858225|team_totals|Under|Syracuse|FanDuel,cfb|401858225,2026-09-17,FanDuel,-122,1.81967,1.8077,W,0.819672,1.48172,0.520462,0.526069,0.0056071,0.0107733,True
+CFB,CFB,Total,Under,cfb|401858225|totals|Under||LowVig.ag,cfb|401858225,2026-09-17,LowVig.ag,-108,1.92593,1.2629,W,0.925926,1.16935,0.5,0.517912,0.0179122,0.0358244,True
+CFB,CFB,Spread,Favorite,cfb|401856811|spreads|Texas Tech||LowVig.ag,cfb|401856811,2026-09-18,LowVig.ag,-101,1.9901,1.8298,L,-1,-1.8298,0.488053,0.512615,0.0245621,0.0503267,True
+CFB,CFB,Team Total,Under,cfb|401856811|team_totals|Under|Houston|FanDuel,cfb|401856811,2026-09-18,FanDuel,-115,1.86957,1.0277,L,-1,-1.0277,0.504543,0.511361,0.00681742,0.0135121,True
+CFB,CFB,Spread,Underdog,cfb|401858226|spreads|Wake Forest||Hard Rock Bet,cfb|401858226,2026-09-18,Hard Rock Bet,-110,1.90909,1.8442,W,0.909091,1.67655,0.5,0.536787,0.0367873,0.0735747,True
+CFB,CFB,Team Total,Under,cfb|401858226|team_totals|Under|Miami|FanDuel,cfb|401858226,2026-09-18,FanDuel,100,2,1.1675,W,1,1.1675,0.468353,0.468353,0,0,True
+CFB,CFB,Total,Under,cfb|401858226|totals|Under||Caesars,cfb|401858226,2026-09-18,Caesars,-110,1.90909,1.3402,W,0.909091,1.21836,0.5,0.488396,-0.0116045,-0.0232089,True
+CFB,CFB,Team Total,Over,cfb|401856685|team_totals|Over|Florida State|FanDuel,cfb|401856685,2026-09-19,FanDuel,-102,1.98039,0.6051,W,0.980392,0.593235,0.473931,0.495457,0.0215256,0.0454192,True
+CFB,CFB,Spread,Underdog,cfb|401856686|spreads|Arkansas||LowVig.ag,cfb|401856686,2026-09-19,LowVig.ag,-101,1.9901,2.9446,L,-1,-2.9446,0.488053,0.513282,0.0252293,0.0516938,True
+CFB,CFB,Team Total,Over,cfb|401856686|team_totals|Over|Arkansas|FanDuel,cfb|401856686,2026-09-19,FanDuel,-130,1.76923,1.8282,W,0.769231,1.40631,0.536142,0.495877,-0.0402656,-0.0751024,True
+CFB,CFB,Team Total,Under,cfb|401856686|team_totals|Under|Georgia|FanDuel,cfb|401856686,2026-09-19,FanDuel,-111,1.9009,0.5222,L,-1,-0.5222,0.495457,0.468082,-0.027375,-0.0552521,True
+CFB,CFB,Total,Over,cfb|401856686|totals|Over||betPARX,cfb|401856686,2026-09-19,betPARX,-108,1.92593,0.8662,W,0.925926,0.802037,0.49422,0.503468,0.0092483,0.0187129,True
+CFB,CFB,Team Total,Under,cfb|401856687|team_totals|Under|Florida|FanDuel,cfb|401856687,2026-09-19,FanDuel,-118,1.84746,0.9759,L,-1,-0.9759,0.511361,0.526069,0.0147082,0.0287628,True
+CFB,CFB,Total,Under,cfb|401856687|totals|Under||Pinnacle,cfb|401856687,2026-09-19,Pinnacle,100,2,1.8952,L,-1,-1.8952,0.477855,0.486792,0.00893699,0.0187023,True
+CFB,CFB,Moneyline,Underdog,cfb|401856688|h2h|Ole Miss||BetOnline.ag,cfb|401856688,2026-09-19,BetOnline.ag,135,2.35,2.1795,W,1.35,2.94233,0.407392,0.416017,0.0086255,0.0211725,True
+CFB,CFB,Team Total,Over,cfb|401856688|team_totals|Over|Ole Miss|FanDuel,cfb|401856688,2026-09-19,FanDuel,-108,1.92593,1.0803,W,0.925926,1.00028,0.488639,0.495457,0.00681742,0.0139518,True
+CFB,CFB,Team Total,Under,cfb|401856688|team_totals|Under|LSU|FanDuel,cfb|401856688,2026-09-19,FanDuel,-102,1.98039,1.8897,W,0.980392,1.85265,0.473931,0.473931,0,0,True
+CFB,CFB,Spread,Underdog,cfb|401856689|spreads|Troy||BetRivers,cfb|401856689,2026-09-19,BetRivers,-113,1.88496,1.8963,W,0.884956,1.67814,0.503443,0.516056,0.0126125,0.0250524,True
+CFB,CFB,Team Total,Under,cfb|401856689|team_totals|Under|Missouri|FanDuel,cfb|401856689,2026-09-19,FanDuel,102,2.02,1.0258,W,1.02,1.04632,0.463858,0.499696,0.0358386,0.0772621,True
+CFB,CFB,Total,Under,cfb|401856689|totals|Under||betPARX,cfb|401856689,2026-09-19,betPARX,-108,1.92593,1.075,W,0.925926,0.99537,0.49422,0.503468,0.0092483,0.0187129,True
+CFB,CFB,Spread,Underdog,cfb|401856690|spreads|New Mexico||DraftKings,cfb|401856690,2026-09-19,DraftKings,-108,1.92593,2.3536,W,0.925926,2.17926,0.495359,0.529846,0.0344871,0.0696203,True
+CFB,CFB,Team Total,Over,cfb|401856690|team_totals|Over|New Mexico|FanDuel,cfb|401856690,2026-09-19,FanDuel,-113,1.88496,0.7285,L,-1,-0.7285,0.5,0.568114,0.0681137,0.136227,True
+CFB,CFB,Team Total,Under,cfb|401856690|team_totals|Under|Oklahoma|FanDuel,cfb|401856690,2026-09-19,FanDuel,-120,1.83333,1.1342,W,0.833333,0.945167,0.515909,0.510407,-0.00550192,-0.0106645,True
+CFB,CFB,Total,Under,cfb|401856690|totals|Under||betPARX,cfb|401856690,2026-09-19,betPARX,-108,1.92593,0.9798,W,0.925926,0.907222,0.49422,0.560697,0.0664777,0.134511,True
+CFB,CFB,Team Total,Under,cfb|401856691|team_totals|Under|Mississippi State|FanDuel,cfb|401856691,2026-09-19,FanDuel,-104,1.96154,1.2834,L,-1,-1.2834,0.479538,0.474883,-0.00465522,-0.00970772,True
+CFB,CFB,Team Total,Under,cfb|401856691|team_totals|Under|South Carolina|FanDuel,cfb|401856691,2026-09-19,FanDuel,-115,1.86957,0.7237,L,-1,-0.7237,0.504543,0.556773,0.0522301,0.10352,True
+CFB,CFB,Total,Under,cfb|401856691|totals|Under||Bovada,cfb|401856691,2026-09-19,Bovada,-105,1.95238,2.282,L,-1,-2.282,0.488396,0.501604,0.0132084,0.0270444,True
+CFB,CFB,Spread,Underdog,cfb|401856692|spreads|Kennesaw State||DraftKings,cfb|401856692,2026-09-19,DraftKings,-108,1.92593,1.8537,W,0.925926,1.71639,0.495359,0.504641,0.00928132,0.0187365,True
+CFB,CFB,Team Total,Over,cfb|401856692|team_totals|Over|Kennesaw State|FanDuel,cfb|401856692,2026-09-19,FanDuel,-113,1.88496,1.034,L,-1,-1.034,0.5,0.572586,0.0725862,0.145172,True
+CFB,CFB,Team Total,Under,cfb|401856692|team_totals|Under|Tennessee|FanDuel,cfb|401856692,2026-09-19,FanDuel,-122,1.81967,0.5642,W,0.819672,0.462459,0.520462,0.520462,0,0,True
+CFB,CFB,Spread,Underdog,cfb|401856693|spreads|UTSA||Hard Rock Bet,cfb|401856693,2026-09-19,Hard Rock Bet,-105,1.95238,2.7914,W,0.952381,2.65848,0.488396,0.5,0.0116045,0.0237604,True
+CFB,CFB,Team Total,Over,cfb|401856693|team_totals|Over|UTSA|FanDuel,cfb|401856693,2026-09-19,FanDuel,-113,1.88496,0.683,L,-1,-0.683,0.5,0.540549,0.0405489,0.0810978,True
+CFB,CFB,Team Total,Under,cfb|401856693|team_totals|Under|Texas|FanDuel,cfb|401856693,2026-09-19,FanDuel,-115,1.86957,1.5194,W,0.869565,1.32122,0.504543,0.504543,0,0,True
+CFB,CFB,Total,Under,cfb|401856693|totals|Under||BetMGM,cfb|401856693,2026-09-19,BetMGM,-112,1.89286,1.1803,W,0.892857,1.05384,0.50821,0.49179,-0.0164203,-0.0323101,True
+CFB,CFB,Spread,Favorite,cfb|401856694|spreads|Texas A&M||FanDuel,cfb|401856694,2026-09-19,FanDuel,-110,1.90909,2.0658,L,-1,-2.0658,0.5,0.5,0,0,True
+CFB,CFB,Team Total,Under,cfb|401856694|team_totals|Under|Kentucky|FanDuel,cfb|401856694,2026-09-19,FanDuel,-113,1.88496,1.2528,L,-1,-1.2528,0.5,0.515909,0.0159091,0.0318181,True
+CFB,CFB,Spread,Favorite,cfb|401856695|spreads|Vanderbilt||LowVig.ag,cfb|401856695,2026-09-19,LowVig.ag,102,2.02,0.9963,W,1.02,1.01623,0.480925,0.500792,0.0198674,0.0413108,True
+CFB,CFB,Team Total,Over,cfb|401856695|team_totals|Over|Vanderbilt|FanDuel,cfb|401856695,2026-09-19,FanDuel,-118,1.84746,1.0682,W,0.847458,0.905254,0.511361,0.495185,-0.0161757,-0.0316326,True
+CFB,CFB,Total,Over,cfb|401856695|totals|Over||DraftKings,cfb|401856695,2026-09-19,DraftKings,-105,1.95238,1.9658,W,0.952381,1.87219,0.488396,0.478232,-0.010164,-0.020811,True
+CFB,CFB,Spread,Underdog,cfb|401856792|spreads|Tulane||Pinnacle,cfb|401856792,2026-09-19,Pinnacle,-108,1.92593,1.1896,W,0.925926,1.10148,0.5,0.507167,0.00716701,0.014334,True
+CFB,CFB,Team Total,Under,cfb|401856792|team_totals|Under|Kansas State|FanDuel,cfb|401856792,2026-09-19,FanDuel,-106,1.9434,0.5006,W,0.943396,0.472264,0.484091,0.479538,-0.00455262,-0.00940448,True
+CFB,CFB,Team Total,Over,cfb|401856793|team_totals|Over|Northern Illinois|FanDuel,cfb|401856793,2026-09-19,FanDuel,124,2.24,1.1273,W,1.24,1.39785,0.412884,0.545838,0.132954,0.322014,True
+CFB,CFB,Team Total,Under,cfb|401856793|team_totals|Under|Arizona|FanDuel,cfb|401856793,2026-09-19,FanDuel,-104,1.96154,1.9507,L,-1,-1.9507,0.479538,0.484091,0.00455262,0.00949376,True
+CFB,CFB,Total,Under,cfb|401856793|totals|Under||FanDuel,cfb|401856793,2026-09-19,FanDuel,-105,1.95238,1.5642,L,-1,-1.5642,0.488396,0.490717,0.00232185,0.00475405,True
+CFB,CFB,Team Total,Under,cfb|401856796|team_totals|Under|Colorado|FanDuel,cfb|401856796,2026-09-19,FanDuel,-113,1.88496,0.668,W,0.884956,0.59115,0.5,0.531918,0.0319182,0.0638365,True
+CFB,CFB,Team Total,Over,cfb|401856797|team_totals|Over|Miami (OH)|FanDuel,cfb|401856797,2026-09-19,FanDuel,-130,1.76923,0.9767,W,0.769231,0.751308,0.536142,0.540549,0.00440656,0.00821901,True
+CFB,CFB,Total,Over,cfb|401856797|totals|Over||LowVig.ag,cfb|401856797,2026-09-19,LowVig.ag,-108,1.92593,1.5206,W,0.925926,1.40796,0.5,0.500303,0.000303315,0.00060663,True
+CFB,CFB,Team Total,Over,cfb|401856801|team_totals|Over|Utah State|FanDuel,cfb|401856801,2026-09-19,FanDuel,-130,1.76923,0.5853,L,-1,-0.5853,0.536142,0.485322,-0.0508201,-0.0947885,True
+CFB,CFB,Total,Over,cfb|401856801|totals|Over||theScore Bet,cfb|401856801,2026-09-19,theScore Bet,-105,1.95238,1.4284,L,-1,-1.4284,0.488396,0.473599,-0.0147963,-0.0302957,True
+CFB,CFB,Team Total,Under,cfb|401856802|team_totals|Under|Virginia|FanDuel,cfb|401856802,2026-09-19,FanDuel,-115,1.86957,1.0758,W,0.869565,0.935478,0.504543,0.556773,0.0522301,0.10352,True
+CFB,CFB,Team Total,Under,cfb|401856802|team_totals|Under|West Virginia|FanDuel,cfb|401856802,2026-09-19,FanDuel,-122,1.81967,1.1277,L,-1,-1.1277,0.520462,0.552369,0.0319077,0.0613065,True
+CFB,CFB,Total,Under,cfb|401856802|totals|Under||betPARX,cfb|401856802,2026-09-19,betPARX,-110,1.90909,2.5929,L,-1,-2.5929,0.5,0.552686,0.0526859,0.105372,True
+CFB,CFB,Spread,Favorite,cfb|401858229|spreads|Clemson||LowVig.ag,cfb|401858229,2026-09-19,LowVig.ag,-101,1.9901,1.5765,W,0.990099,1.56089,0.488053,0.4985,0.010447,0.0214055,True
+CFB,CFB,Team Total,Under,cfb|401858229|team_totals|Under|North Carolina|FanDuel,cfb|401858229,2026-09-19,FanDuel,-118,1.84746,0.5348,W,0.847458,0.45322,0.511361,0.479538,-0.0318223,-0.0622307,True
+CFB,CFB,Team Total,Under,cfb|401858230|team_totals|Under|Louisville|FanDuel,cfb|401858230,2026-09-19,FanDuel,-111,1.9009,0.5919,L,-1,-0.5919,0.495457,0.504543,0.00908642,0.0183395,True
+CFB,CFB,Total,Under,cfb|401858230|totals|Under||Caesars,cfb|401858230,2026-09-19,Caesars,-107,1.93458,0.8884,L,-1,-0.8884,0.493039,0.54347,0.0504316,0.102287,True
+CFB,CFB,Spread,Favorite,cfb|401858231|spreads|Duke||LowVig.ag,cfb|401858231,2026-09-19,LowVig.ag,-104,1.96154,2.7506,W,0.961538,2.64481,0.495222,0.512615,0.0173924,0.0351204,True
+CFB,CFB,Team Total,Over,cfb|401858231|team_totals|Over|Duke|FanDuel,cfb|401858231,2026-09-19,FanDuel,-128,1.78125,1.3807,W,0.78125,1.07867,0.531647,0.500304,-0.0313435,-0.0589555,True
+CFB,CFB,Team Total,Under,cfb|401858231|team_totals|Under|Stanford|FanDuel,cfb|401858231,2026-09-19,FanDuel,-118,1.84746,0.5572,W,0.847458,0.472203,0.511361,0.526069,0.0147082,0.0287628,True
+CFB,CFB,Total,Over,cfb|401858231|totals|Over||BetRivers,cfb|401858231,2026-09-19,BetRivers,-114,1.87719,1.2186,L,-1,-1.2186,0.505739,0.516649,0.0109093,0.021571,True
+CFB,CFB,Moneyline,Underdog,cfb|401858232|h2h|Maryland||betPARX,cfb|401858232,2026-09-19,betPARX,128,2.28,1.4981,L,-1,-1.4981,0.413452,0.429065,0.0156128,0.037762,True
+CFB,CFB,Spread,Underdog,cfb|401858232|spreads|Maryland||theScore Bet,cfb|401858232,2026-09-19,theScore Bet,110,2.1,2.497,L,-1,-2.497,0.454597,0.5,0.0454027,0.0998746,True
+CFB,CFB,Team Total,Over,cfb|401858232|team_totals|Over|Maryland|FanDuel,cfb|401858232,2026-09-19,FanDuel,-108,1.92593,0.9436,L,-1,-0.9436,0.488639,0.504543,0.0159038,0.0325472,True
+CFB,CFB,Team Total,Under,cfb|401858232|team_totals|Under|Virginia Tech|FanDuel,cfb|401858232,2026-09-19,FanDuel,-108,1.92593,0.9998,L,-1,-0.9998,0.488639,0.520462,0.0318223,0.0651243,True
+CFB,CFB,Spread,Underdog,cfb|401858449|spreads|Western Kentucky||FanDuel,cfb|401858449,2026-09-19,FanDuel,-115,1.86957,3.1758,W,0.869565,2.76157,0.511604,0.513625,0.00202035,0.00394904,True
+CFB,CFB,Team Total,Over,cfb|401858449|team_totals|Over|Western Kentucky|FanDuel,cfb|401858449,2026-09-19,FanDuel,-148,1.67568,1.491,L,-1,-1.491,0.568911,0.540549,-0.0283619,-0.049853,True
+CFB,CFB,Team Total,Under,cfb|401858449|team_totals|Under|Indiana|FanDuel,cfb|401858449,2026-09-19,FanDuel,-122,1.81967,1.4019,W,0.819672,1.1491,0.520462,0.516021,-0.00444096,-0.00853274,True
+CFB,CFB,Spread,Underdog,cfb|401858450|spreads|UTEP||BetMGM,cfb|401858450,2026-09-19,BetMGM,-110,1.90909,1.6405,W,0.909091,1.49136,0.502337,0.535466,0.0331295,0.0659507,True
+CFB,CFB,Team Total,Over,cfb|401858450|team_totals|Over|UTEP|FanDuel,cfb|401858450,2026-09-19,FanDuel,-130,1.76923,2.0174,W,0.769231,1.55185,0.536142,0.576637,0.0404948,0.0755299,True
+CFB,CFB,Total,Over,cfb|401858450|totals|Over||theScore Bet,cfb|401858450,2026-09-19,theScore Bet,-110,1.90909,1.2365,W,0.909091,1.12409,0.5,0.537969,0.0379686,0.0759372,True
+CFB,CFB,Moneyline,Underdog,cfb|401858451|h2h|Akron||FanDuel,cfb|401858451,2026-09-19,FanDuel,1600,17,0.6885,L,-1,-0.6885,0.0274941,0.0311388,0.00364469,0.132563,True
+CFB,CFB,Team Total,Over,cfb|401858451|team_totals|Over|Akron|FanDuel,cfb|401858451,2026-09-19,FanDuel,-115,1.86957,1.4264,L,-1,-1.4264,0.504543,0.540967,0.0364235,0.0721911,True
+CFB,CFB,Team Total,Under,cfb|401858451|team_totals|Under|Minnesota|FanDuel,cfb|401858451,2026-09-19,FanDuel,-113,1.88496,1.8514,L,-1,-1.8514,0.5,0.583729,0.0837292,0.167458,True
+CFB,CFB,Spread,Underdog,cfb|401858454|spreads|Kent State||LowVig.ag,cfb|401858454,2026-09-19,LowVig.ag,-101,1.9901,3.0277,L,-1,-3.0277,0.488053,0.495222,0.00716968,0.0146904,True
+CFB,CFB,Spread,Underdog,cfb|401858456|spreads|Buffalo||FanDuel,cfb|401858456,2026-09-19,FanDuel,-102,1.98039,3.1942,L,-1,-3.1942,0.479247,0.5,0.0207527,0.0433027,True
+CFB,CFB,Team Total,Over,cfb|401858456|team_totals|Over|Buffalo|FanDuel,cfb|401858456,2026-09-19,FanDuel,-180,1.55556,2.8471,W,0.555556,1.58172,0.616501,0.602343,-0.0141583,-0.0229656,True
+CFB,CFB,Team Total,Under,cfb|401858456|team_totals|Under|Penn State|FanDuel,cfb|401858456,2026-09-19,FanDuel,-106,1.9434,0.9095,L,-1,-0.9095,0.484091,0.531918,0.0478273,0.0987982,True
+CFB,CFB,Total,Over,cfb|401858456|totals|Over||BetRivers,cfb|401858456,2026-09-19,BetRivers,-114,1.87719,0.9781,W,0.877193,0.857982,0.506912,0.532125,0.0252129,0.0497382,True
+CFB,CFB,Spread,Underdog,cfb|401858457|spreads|Rutgers||Hard Rock Bet,cfb|401858457,2026-09-19,Hard Rock Bet,-110,1.90909,2.6047,W,0.909091,2.36791,0.5,0.550333,0.0503328,0.100666,True
+CFB,CFB,Team Total,Over,cfb|401858457|team_totals|Over|Rutgers|FanDuel,cfb|401858457,2026-09-19,FanDuel,100,2,1.2725,W,1,1.2725,0.468353,0.484091,0.0157382,0.0336033,True
+CFB,CFB,Team Total,Under,cfb|401858457|team_totals|Under|USC|FanDuel,cfb|401858457,2026-09-19,FanDuel,-108,1.92593,0.653,L,-1,-0.653,0.488639,0.531918,0.0432789,0.0885702,True
+CFB,CFB,Team Total,Over,cfb|401858458|team_totals|Over|Purdue|FanDuel,cfb|401858458,2026-09-19,FanDuel,-108,1.92593,0.6306,W,0.925926,0.583889,0.488639,0.592614,0.103975,0.212784,True
+CFB,CFB,Moneyline,Underdog,cfb|401858460|h2h|Eastern Michigan||theScore Bet,cfb|401858460,2026-09-19,theScore Bet,1500,16,0.6152,L,-1,-0.6152,0.0257873,0.0257873,0,0,True
+CFB,CFB,Spread,Underdog,cfb|401858460|spreads|Eastern Michigan||FanDuel,cfb|401858460,2026-09-19,FanDuel,-110,1.90909,3.4221,L,-1,-3.4221,0.5,0.520584,0.0205836,0.0411673,True
+CFB,CFB,Team Total,Over,cfb|401858460|team_totals|Over|Eastern Michigan|FanDuel,cfb|401858460,2026-09-19,FanDuel,-140,1.71429,1.2653,W,0.714286,0.903786,0.555168,0.546825,-0.0083427,-0.0150273,True
+CFB,CFB,Team Total,Under,cfb|401858460|team_totals|Under|Wisconsin|FanDuel,cfb|401858460,2026-09-19,FanDuel,100,2,1.8376,L,-1,-1.8376,0.468353,0.516021,0.047668,0.101778,True
+CFB,CFB,Total,Under,cfb|401858460|totals|Under||DraftKings,cfb|401858460,2026-09-19,DraftKings,-108,1.92593,1.102,L,-1,-1.102,0.495359,0.534216,0.0388564,0.0784409,True
+CFB,CFB,Spread,Underdog,cfb|401860887|spreads|James Madison||Bovada,cfb|401860887,2026-09-19,Bovada,-105,1.95238,1.1278,W,0.952381,1.0741,0.488396,0.510624,0.0222286,0.0455136,True
+CFB,CFB,Moneyline,Underdog,cfb|401860889|h2h|North Texas||DraftKings,cfb|401860889,2026-09-19,DraftKings,130,2.3,1.3871,L,-1,-1.3871,0.411677,0.432563,0.0208869,0.0507363,True
+CFB,CFB,Spread,Underdog,cfb|401860889|spreads|North Texas||FanDuel,cfb|401860889,2026-09-19,FanDuel,100,2,2.1352,L,-1,-2.1352,0.474624,0.479247,0.00462326,0.0097409,True
+CFB,CFB,Team Total,Over,cfb|401860889|team_totals|Over|North Texas|FanDuel,cfb|401860889,2026-09-19,FanDuel,-122,1.81967,1.9984,W,0.819672,1.63803,0.520462,0.488639,-0.0318223,-0.0611425,True
+CFB,CFB,Total,Over,cfb|401860889|totals|Over||DraftKings,cfb|401860889,2026-09-19,DraftKings,-105,1.95238,2.5387,W,0.952381,2.41781,0.488396,0.468971,-0.019425,-0.039773,True
+CFB,CFB,Spread,Underdog,cfb|401861963|spreads|Southern Miss||Hard Rock Bet,cfb|401861963,2026-09-19,Hard Rock Bet,105,2.05,1.3522,L,-1,-1.3522,0.460281,0.498009,0.0377278,0.081967,True
+CFB,CFB,Team Total,Over,cfb|401861963|team_totals|Over|Southern Miss|FanDuel,cfb|401861963,2026-09-19,FanDuel,-113,1.88496,1.2094,L,-1,-1.2094,0.5,0.468082,-0.0319182,-0.0638365,True
+CFB,CFB,Total,Over,cfb|401861963|totals|Over||LowVig.ag,cfb|401861963,2026-09-19,LowVig.ag,-108,1.92593,1.57,W,0.925926,1.4537,0.5,0.5,0,0,True
+CFB,CFB,Spread,Favorite,cfb|401862710|spreads|Old Dominion||BetRivers,cfb|401862710,2026-09-19,BetRivers,-113,1.88496,0.9913,L,-1,-0.9913,0.503443,0.49542,-0.00802393,-0.0159381,True
+CFB,CFB,Moneyline,Underdog,cfb|401862771|h2h|Florida International||Bovada,cfb|401862771,2026-09-19,Bovada,220,3.2,0.9126,L,-1,-0.9126,0.286943,0.349178,0.0622349,0.21689,True
+CFB,CFB,Spread,Underdog,cfb|401862771|spreads|Florida International||Hard Rock Bet,cfb|401862771,2026-09-19,Hard Rock Bet,100,2,1.3552,W,1,1.3552,0.476771,0.550333,0.0735618,0.154292,True
+CFB,CFB,Team Total,Under,cfb|401862771|team_totals|Under|Florida Atlantic|FanDuel,cfb|401862771,2026-09-19,FanDuel,-104,1.96154,0.9659,W,0.961538,0.92875,0.479538,0.526069,0.0465305,0.0970318,True
+CFB,CFB,Moneyline,Favorite,cfb|401862774|h2h|Toledo||theScore Bet,cfb|401862774,2026-09-19,theScore Bet,-195,1.51282,2.4674,W,0.512821,1.26533,0.644485,0.637908,-0.00657706,-0.0102051,True
+CFB,CFB,Spread,Favorite,cfb|401862774|spreads|Toledo||DraftKings,cfb|401862774,2026-09-19,DraftKings,-110,1.90909,3.4693,L,-1,-3.4693,0.5,0.486375,-0.0136248,-0.0272496,True
+CFB,CFB,Team Total,Over,cfb|401862774|team_totals|Over|Toledo|FanDuel,cfb|401862774,2026-09-19,FanDuel,100,2,1.0955,W,1,1.0955,0.468353,0.432154,-0.0361986,-0.0772891,True
+CFB,CFB,Team Total,Under,cfb|401862774|team_totals|Under|Temple|FanDuel,cfb|401862774,2026-09-19,FanDuel,-111,1.9009,2.0249,L,-1,-2.0249,0.495457,0.540967,0.0455099,0.0918545,True
+CFB,CFB,Spread,Favorite,cfb|401862776|spreads|Louisiana||Pinnacle,cfb|401862776,2026-09-19,Pinnacle,-102,1.98039,1.0036,L,-1,-1.0036,0.484747,0.473062,-0.0116853,-0.024106,True
+CFB,CFB,Moneyline,Underdog,cfb|401864443|h2h|Middle Tennessee||betPARX,cfb|401864443,2026-09-19,betPARX,163,2.63,1.9966,W,1.63,3.25446,0.353444,0.379673,0.0262299,0.0742124,True
+CFB,CFB,Spread,Underdog,cfb|401864443|spreads|Middle Tennessee||betPARX,cfb|401864443,2026-09-19,betPARX,-110,1.90909,3.3554,W,0.909091,3.05036,0.5,0.502304,0.00230376,0.00460753,True
+CFB,CFB,Team Total,Over,cfb|401864443|team_totals|Over|Middle Tennessee|FanDuel,cfb|401864443,2026-09-19,FanDuel,-120,1.83333,0.9172,W,0.833333,0.764333,0.515909,0.504543,-0.0113659,-0.0220307,True
+CFB,CFB,Team Total,Under,cfb|401864443|team_totals|Under|Nevada|FanDuel,cfb|401864443,2026-09-19,FanDuel,-113,1.88496,1.9496,W,0.884956,1.72531,0.5,0.515909,0.0159091,0.0318181,True
+CFB,CFB,Total,Under,cfb|401864443|totals|Under||BetMGM,cfb|401864443,2026-09-19,BetMGM,-112,1.89286,0.9797,W,0.892857,0.874732,0.50821,0.518203,0.00999279,0.0196627,True
+CFB,CFB,Spread,Favorite,cfb|401864508|spreads|Central Michigan||LowVig.ag,cfb|401864508,2026-09-19,LowVig.ag,-101,1.9901,0.9549,W,0.990099,0.945446,0.488053,0.407743,-0.0803098,-0.164551,True
+CFB,CFB,Team Total,Under,cfb|401864508|team_totals|Under|Wyoming|FanDuel,cfb|401864508,2026-09-19,FanDuel,-108,1.92593,0.8515,W,0.925926,0.788426,0.488639,0.468082,-0.0205576,-0.0420712,True
+CFB,CFB,Total,Under,cfb|401864508|totals|Under||Bovada,cfb|401864508,2026-09-19,Bovada,-105,1.95238,1.1588,W,0.952381,1.10362,0.488396,0.498396,0.0100005,0.0204763,True
+CFB,CFB,Spread,Favorite,cfb|401864574|spreads|App State||LowVig.ag,cfb|401864574,2026-09-19,LowVig.ag,-101,1.9901,1.5469,L,-1,-1.5469,0.488053,0.462206,-0.0258462,-0.0529578,True
+CFB,CFB,Team Total,Over,cfb|401864574|team_totals|Over|App State|FanDuel,cfb|401864574,2026-09-19,FanDuel,-108,1.92593,0.8297,L,-1,-0.8297,0.488639,0.511361,0.0227213,0.046499,True
+CFB,CFB,Total,Over,cfb|401864574|totals|Over||theScore Bet,cfb|401864574,2026-09-19,theScore Bet,100,2,0.9465,L,-1,-0.9465,0.476771,0.552686,0.075915,0.159227,True
+CFB,CFB,Team Total,Under,cfb|401866423|team_totals|Under|South Alabama|FanDuel,cfb|401866423,2026-09-19,FanDuel,-122,1.81967,0.6696,L,-1,-0.6696,0.520462,0.526069,0.0056071,0.0107733,True
+CFB,CFB,Total,Under,cfb|401866423|totals|Under||betPARX,cfb|401866423,2026-09-19,betPARX,-109,1.91743,1.5535,L,-1,-1.5535,0.496532,0.594517,0.097985,0.197339,True
+CFB,CFB,Moneyline,Underdog,cfb|401867804|h2h|Louisiana Tech||theScore Bet,cfb|401867804,2026-09-19,theScore Bet,800,9,0.6966,L,-1,-0.6966,0.0705463,0.0705463,0,0,True
+CFB,CFB,Spread,Underdog,cfb|401867804|spreads|Louisiana Tech||Hard Rock Bet,cfb|401867804,2026-09-19,Hard Rock Bet,-105,1.95238,2.3296,W,0.952381,2.21867,0.488396,0.474783,-0.0136123,-0.0278714,True
+CFB,CFB,Team Total,Over,cfb|401867804|team_totals|Over|Louisiana Tech|FanDuel,cfb|401867804,2026-09-19,FanDuel,-122,1.81967,1.0066,W,0.819672,0.825082,0.520462,0.40193,-0.118531,-0.227743,True
+CFB,CFB,Team Total,Under,cfb|401867804|team_totals|Under|Baylor|FanDuel,cfb|401867804,2026-09-19,FanDuel,-120,1.83333,0.7671,L,-1,-0.7671,0.515909,0.516021,0.000111657,0.000216428,True
+CFB,CFB,Spread,Favorite,cfb|401869940|spreads|Delaware||DraftKings,cfb|401869940,2026-09-19,DraftKings,-105,1.95238,1.6272,W,0.952381,1.54971,0.488396,0.486375,-0.00202035,-0.0041367,True
+CFB,CFB,Team Total,Under,cfb|401869940|team_totals|Under|Coastal Carolina|FanDuel,cfb|401869940,2026-09-19,FanDuel,-115,1.86957,1.0468,W,0.869565,0.910261,0.504543,0.504543,0,0,True
+CFB,CFB,Spread,Favorite,cfb|401869948|spreads|Jacksonville State||LowVig.ag,cfb|401869948,2026-09-19,LowVig.ag,-106,1.9434,1.9459,W,0.943396,1.83575,0.5,0.5,0,0,True
+CFB,CFB,Team Total,Under,cfb|401869948|team_totals|Under|Georgia Southern|FanDuel,cfb|401869948,2026-09-19,FanDuel,-122,1.81967,1.2158,L,-1,-1.2158,0.520462,0.516021,-0.00444096,-0.00853274,True
+CFB,CFB,Moneyline,Underdog,cfb|401871047|h2h|Missouri State||Hard Rock Bet,cfb|401871047,2026-09-19,Hard Rock Bet,150,2.5,1.1736,L,-1,-1.1736,0.376022,0.362092,-0.0139297,-0.037045,True
+CFB,CFB,Spread,Underdog,cfb|401871047|spreads|Missouri State||LowVig.ag,cfb|401871047,2026-09-19,LowVig.ag,-106,1.9434,1.6917,L,-1,-1.6917,0.5,0.487385,-0.0126147,-0.0252293,True
+CFB,CFB,Team Total,Over,cfb|401871047|team_totals|Over|Missouri State|FanDuel,cfb|401871047,2026-09-19,FanDuel,-130,1.76923,1.1381,W,0.769231,0.875462,0.536142,0.51817,-0.0179724,-0.0335218,True
+CFB,CFB,Spread,Underdog,cfb|401869941|spreads|Coastal Carolina||LowVig.ag,cfb|401869941,2026-09-24,LowVig.ag,-101,1.9901,1.0637,L,-1,-1.0637,0.488053,0.5,0.0119474,0.0244797,True
+CFB,CFB,Team Total,Under,cfb|401869941|team_totals|Under|Liberty|theScore Bet,cfb|401869941,2026-09-24,theScore Bet,-120,1.83333,1.045,L,-1,-1.045,0.511204,0.525273,0.0140693,0.0275218,True
+CFB,CFB,Total,Under,cfb|401869941|totals|Under||FanDuel,cfb|401869941,2026-09-24,FanDuel,-110,1.90909,1.3016,W,0.909091,1.18327,0.5,0.54347,0.0434702,0.0869404,True
+CFB,CFB,Spread,Favorite,cfb|401858461|spreads|Indiana||theScore Bet,cfb|401858461,2026-09-25,theScore Bet,-110,1.90909,1.6521,L,-1,-1.6521,0.5,0.5,0,0,True
+CFB,CFB,Team Total,Under,cfb|401858461|team_totals|Under|Northwestern|FanDuel,cfb|401858461,2026-09-25,FanDuel,102,2.02,1.0673,L,-1,-1.0673,0.463858,0.499696,0.0358386,0.0772621,True
+CFB,CFB,Spread,Underdog,cfb|401862778|spreads|UAB||theScore Bet,cfb|401862778,2026-09-25,theScore Bet,-115,1.86957,1.355,W,0.869565,1.17826,0.511604,0.513625,0.00202035,0.00394904,True
+CFB,CFB,Team Total,Over,cfb|401862778|team_totals|Over|UAB|Hard Rock Bet,cfb|401862778,2026-09-25,Hard Rock Bet,-135,1.74074,0.9527,W,0.740741,0.705704,0.526671,0.5089,-0.0177708,-0.0337417,True
+CFB,CFB,Spread,Favorite,cfb|401856696|spreads|Alabama||LowVig.ag,cfb|401856696,2026-09-26,LowVig.ag,-106,1.9434,1.9891,W,0.943396,1.87651,0.5,0.525217,0.0252167,0.0504335,True
+CFB,CFB,Team Total,Under,cfb|401856696|team_totals|Under|South Carolina|FanDuel,cfb|401856696,2026-09-26,FanDuel,-106,1.9434,1.4639,W,0.943396,1.38104,0.484091,0.504543,0.0204523,0.0422488,True
+CFB,CFB,Total,Under,cfb|401856696|totals|Under||BetOnline.ag,cfb|401856696,2026-09-26,BetOnline.ag,-115,1.86957,1.4364,L,-1,-1.4364,0.511604,0.554275,0.042671,0.0834062,True
+CFB,CFB,Spread,Underdog,cfb|401856698|spreads|Vanderbilt||Hard Rock Bet,cfb|401856698,2026-09-26,Hard Rock Bet,-105,1.95238,1.3313,W,0.952381,1.2679,0.488396,0.486375,-0.00202035,-0.0041367,True
+CFB,CFB,Team Total,Under,cfb|401856698|team_totals|Under|Auburn|FanDuel,cfb|401856698,2026-09-26,FanDuel,-104,1.96154,0.9119,W,0.961538,0.876827,0.479538,0.504543,0.0250049,0.0521437,True
+CFB,CFB,Team Total,Over,cfb|401856699|team_totals|Over|Florida|FanDuel,cfb|401856699,2026-09-26,FanDuel,-113,1.88496,0.6821,W,0.884956,0.603628,0.497744,0.495457,-0.00228744,-0.00459562,True
+CFB,CFB,Total,Over,cfb|401856699|totals|Over||BetRivers,cfb|401856699,2026-09-26,BetRivers,-113,1.88496,1.2016,W,0.884956,1.06336,0.503443,0.473599,-0.0298442,-0.0592801,True
+CFB,CFB,Moneyline,Underdog,cfb|401856702|h2h|Texas A&M||BetRivers,cfb|401856702,2026-09-26,BetRivers,300,4,0.806,L,-1,-0.806,0.21236,0.245713,0.033353,0.157059,True
+CFB,CFB,Spread,Underdog,cfb|401856702|spreads|Texas A&M||Hard Rock Bet,cfb|401856702,2026-09-26,Hard Rock Bet,-105,1.95238,1.4873,L,-1,-1.4873,0.488396,0.525217,0.0368212,0.0753921,True
+CFB,CFB,Team Total,Under,cfb|401856702|team_totals|Under|LSU|FanDuel,cfb|401856702,2026-09-26,FanDuel,-130,1.76923,1.5686,L,-1,-1.5686,0.536142,0.500304,-0.0358386,-0.0668453,True
+CFB,CFB,Total,Under,cfb|401856702|totals|Under||betPARX,cfb|401856702,2026-09-26,betPARX,-109,1.91743,2.0144,W,0.917431,1.84807,0.496532,0.50578,0.0092483,0.0186258,True
+CFB,CFB,Team Total,Under,cfb|401856703|team_totals|Under|Mississippi State|FanDuel,cfb|401856703,2026-09-26,FanDuel,-115,1.86957,0.6192,W,0.869565,0.538435,0.504543,0.603483,0.0989401,0.196098,True
+CFB,CFB,Moneyline,Underdog,cfb|401856704|h2h|Tennessee||Pinnacle,cfb|401856704,2026-09-26,Pinnacle,190,2.9,1.0098,L,-1,-1.0098,0.319163,0.341387,0.0222242,0.0696328,True
+CFB,CFB,Spread,Underdog,cfb|401856704|spreads|Tennessee||theScore Bet,cfb|401856704,2026-09-26,theScore Bet,-105,1.95238,1.5283,W,0.952381,1.45552,0.488396,0.5,0.0116045,0.0237604,True
+CFB,CFB,Team Total,Under,cfb|401856704|team_totals|Under|Texas|FanDuel,cfb|401856704,2026-09-26,FanDuel,102,2.02,0.8235,W,1.02,0.83997,0.463858,0.5,0.0361423,0.0779169,True
+CFB,CFB,Moneyline,Underdog,cfb|401856804|h2h|Washington State||FanDuel,cfb|401856804,2026-09-26,FanDuel,350,4.5,1.4768,L,-1,-1.4768,0.192276,0.192276,0,0,True
+CFB,CFB,Spread,Underdog,cfb|401856804|spreads|Washington State||theScore Bet,cfb|401856804,2026-09-26,theScore Bet,-105,1.95238,3.1786,W,0.952381,3.02724,0.488396,0.4612,-0.0271952,-0.0556827,True
+CFB,CFB,Team Total,Over,cfb|401856804|team_totals|Over|Washington State|FanDuel,cfb|401856804,2026-09-26,FanDuel,-106,1.9434,0.6818,W,0.943396,0.643208,0.484091,0.463858,-0.0202333,-0.0417965,True
+CFB,CFB,Team Total,Under,cfb|401856804|team_totals|Under|Arizona|FanDuel,cfb|401856804,2026-09-26,FanDuel,-120,1.83333,2.2729,L,-1,-2.2729,0.515909,0.515909,0,0,True
+CFB,CFB,Total,Under,cfb|401856804|totals|Under||FanDuel,cfb|401856804,2026-09-26,FanDuel,-105,1.95238,1.6641,L,-1,-1.6641,0.488396,0.490717,0.00232185,0.00475405,True
+CFB,CFB,Spread,Underdog,cfb|401856805|spreads|Sam Houston||Hard Rock Bet,cfb|401856805,2026-09-26,Hard Rock Bet,-115,1.86957,1.6262,W,0.869565,1.41409,0.511604,0.525217,0.0136123,0.026607,True
+CFB,CFB,Team Total,Over,cfb|401856805|team_totals|Over|Sam Houston|Hard Rock Bet,cfb|401856805,2026-09-26,Hard Rock Bet,-115,1.86957,0.876,W,0.869565,0.761739,0.489168,0.549504,0.0603356,0.123343,True
+CFB,CFB,Moneyline,Underdog,cfb|401856806|h2h|Georgia Southern||BetRivers,cfb|401856806,2026-09-26,BetRivers,700,8,0.7443,L,-1,-0.7443,0.0865757,0.0976049,0.0110292,0.127394,True
+CFB,CFB,Spread,Underdog,cfb|401856806|spreads|Georgia Southern||Hard Rock Bet,cfb|401856806,2026-09-26,Hard Rock Bet,-110,1.90909,2.6942,W,0.909091,2.44927,0.5,0.550333,0.0503328,0.100666,True
+CFB,CFB,Team Total,Over,cfb|401856806|team_totals|Over|Georgia Southern|FanDuel,cfb|401856806,2026-09-26,FanDuel,104,2.04,0.9464,W,1.04,0.984256,0.459451,0.588174,0.128723,0.280167,True
+CFB,CFB,Team Total,Under,cfb|401856806|team_totals|Under|Houston|FanDuel,cfb|401856806,2026-09-26,FanDuel,-113,1.88496,1.2165,L,-1,-1.2165,0.5,0.468082,-0.0319182,-0.0638365,True
+CFB,CFB,Spread,Underdog,cfb|401856814|spreads|Cincinnati||LowVig.ag,cfb|401856814,2026-09-26,LowVig.ag,-106,1.9434,1.1057,W,0.943396,1.04311,0.5,0.512615,0.0126147,0.0252293,True
+CFB,CFB,Team Total,Over,cfb|401856814|team_totals|Over|Cincinnati|FanDuel,cfb|401856814,2026-09-26,FanDuel,-104,1.96154,0.6379,W,0.961538,0.613365,0.479538,0.497228,0.0176896,0.0368889,True
+CFB,CFB,Spread,Underdog,cfb|401856815|spreads|UCF||FanDuel,cfb|401856815,2026-09-26,FanDuel,-115,1.86957,1.4267,W,0.869565,1.24061,0.511604,0.520753,0.00914825,0.0178815,True
+CFB,CFB,Team Total,Under,cfb|401856815|team_totals|Under|TCU|FanDuel,cfb|401856815,2026-09-26,FanDuel,100,2,0.803,W,1,0.803,0.468353,0.511361,0.0430079,0.091828,True
+CFB,CFB,Spread,Favorite,cfb|401856881|spreads|West Virginia||FanDuel,cfb|401856881,2026-09-26,FanDuel,-110,1.90909,1.2034,L,-1,-1.2034,0.5,0.511604,0.0116045,0.0232089,True
+CFB,CFB,Team Total,Under,cfb|401856881|team_totals|Under|Oklahoma State|FanDuel,cfb|401856881,2026-09-26,FanDuel,-108,1.92593,1.2794,L,-1,-1.2794,0.488639,0.495457,0.00681742,0.0139518,True
+CFB,CFB,Total,Under,cfb|401856881|totals|Under||FanDuel,cfb|401856881,2026-09-26,FanDuel,-105,1.95238,1.5652,L,-1,-1.5652,0.488396,0.485189,-0.00320607,-0.00656449,True
+CFB,CFB,Spread,Underdog,cfb|401858238|spreads|Central Michigan||FanDuel,cfb|401858238,2026-09-26,FanDuel,-105,1.95238,3.0184,L,-1,-3.0184,0.488396,0.511604,0.0232089,0.0475207,True
+CFB,CFB,Team Total,Over,cfb|401858238|team_totals|Over|Central Michigan|FanDuel,cfb|401858238,2026-09-26,FanDuel,102,2.02,0.8651,L,-1,-0.8651,0.463858,0.468353,0.00449508,0.00969064,True
+CFB,CFB,Team Total,Under,cfb|401858238|team_totals|Under|Miami|FanDuel,cfb|401858238,2026-09-26,FanDuel,-122,1.81967,1.7219,L,-1,-1.7219,0.520462,0.536445,0.0159832,0.0307096,True
+CFB,CFB,Total,Under,cfb|401858238|totals|Under||theScore Bet,cfb|401858238,2026-09-26,theScore Bet,-110,1.90909,1.7182,L,-1,-1.7182,0.5,0.564167,0.0641669,0.128334,True
+CFB,CFB,Team Total,Under,cfb|401858239|team_totals|Under|Virginia|FanDuel,cfb|401858239,2026-09-26,FanDuel,-113,1.88496,0.6269,L,-1,-0.6269,0.5,0.463555,-0.0364448,-0.0728897,True
+CFB,CFB,Total,Under,cfb|401858239|totals|Under||betPARX,cfb|401858239,2026-09-26,betPARX,-110,1.90909,1.1005,W,0.909091,1.00045,0.5,0.503468,0.00346801,0.00693603,True
+CFB,CFB,Spread,Underdog,cfb|401858241|spreads|Missouri State||Fanatics,cfb|401858241,2026-09-26,Fanatics,-105,1.95238,1.5511,W,0.952381,1.47724,0.488396,0.588587,0.100192,0.205145,True
+CFB,CFB,Team Total,Over,cfb|401858241|team_totals|Over|Missouri State|FanDuel,cfb|401858241,2026-09-26,FanDuel,-111,1.9009,1.1525,W,0.900901,1.03829,0.495457,0.608421,0.112964,0.227999,True
+CFB,CFB,Spread,Underdog,cfb|401858242|spreads|Boston College||betPARX,cfb|401858242,2026-09-26,betPARX,-109,1.91743,1.2625,W,0.917431,1.15826,0.496532,0.513828,0.0172961,0.0348338,True
+CFB,CFB,Team Total,Over,cfb|401858242|team_totals|Over|Boston College|theScore Bet,cfb|401858242,2026-09-26,theScore Bet,-105,1.95238,1.263,L,-1,-1.263,0.477574,0.381124,-0.0964507,-0.20196,True
+CFB,CFB,Total,Over,cfb|401858242|totals|Over||theScore Bet,cfb|401858242,2026-09-26,theScore Bet,100,2,1.8333,L,-1,-1.8333,0.476771,0.381313,-0.0954578,-0.200217,True
+CFB,CFB,Team Total,Under,cfb|401858243|team_totals|Under|Louisville|theScore Bet,cfb|401858243,2026-09-26,theScore Bet,-110,1.90909,0.8149,W,0.909091,0.740818,0.488796,0.56154,0.0727438,0.148822,True
+CFB,CFB,Total,Under,cfb|401858243|totals|Under||FanDuel,cfb|401858243,2026-09-26,FanDuel,-105,1.95238,0.9928,W,0.952381,0.945524,0.488396,0.526401,0.0380052,0.0778164,True
+CFB,CFB,Spread,Underdog,cfb|401858462|spreads|Maryland||DraftKings,cfb|401858462,2026-09-26,DraftKings,-105,1.95238,1.3764,L,-1,-1.3764,0.488396,0.456272,-0.0321234,-0.0657733,True
+CFB,CFB,Team Total,Under,cfb|401858462|team_totals|Under|UCLA|FanDuel,cfb|401858462,2026-09-26,FanDuel,-106,1.9434,0.5341,L,-1,-0.5341,0.484091,0.504543,0.0204523,0.0422488,True
+CFB,CFB,Spread,Underdog,cfb|401858463|spreads|Iowa||theScore Bet,cfb|401858463,2026-09-26,theScore Bet,100,2,1.0337,W,1,1.0337,0.476771,0.5,0.023229,0.0487216,True
+CFB,CFB,Team Total,Over,cfb|401858463|team_totals|Over|Iowa|FanDuel,cfb|401858463,2026-09-26,FanDuel,-120,1.83333,1.0003,W,0.833333,0.833583,0.51354,0.540549,0.0270092,0.0525942,True
+CFB,CFB,Total,Over,cfb|401858463|totals|Over||Hard Rock Bet,cfb|401858463,2026-09-26,Hard Rock Bet,-110,1.90909,1.6452,W,0.909091,1.49564,0.5,0.564167,0.0641669,0.128334,True
+CFB,CFB,Spread,Underdog,cfb|401858465|spreads|Illinois||betPARX,cfb|401858465,2026-09-26,betPARX,-108,1.92593,1.2811,W,0.925926,1.1862,0.49422,0.521755,0.027535,0.055714,True
+CFB,CFB,Team Total,Under,cfb|401858465|team_totals|Under|Ohio State|FanDuel,cfb|401858465,2026-09-26,FanDuel,-113,1.88496,0.5336,L,-1,-0.5336,0.5,0.531918,0.0319182,0.0638365,True
+CFB,CFB,Spread,Favorite,cfb|401858466|spreads|Penn State||BetRivers,cfb|401858466,2026-09-26,BetRivers,-114,1.87719,1.4829,L,-1,-1.4829,0.505739,0.516056,0.0103166,0.020399,True
+CFB,CFB,Team Total,Under,cfb|401858466|team_totals|Under|Wisconsin|FanDuel,cfb|401858466,2026-09-26,FanDuel,-104,1.96154,0.6338,L,-1,-0.6338,0.479538,0.488639,0.00910105,0.0189788,True
+CFB,CFB,Spread,Underdog,cfb|401858469|spreads|USC||theScore Bet,cfb|401858469,2026-09-26,theScore Bet,105,2.05,0.8751,L,-1,-0.8751,0.465414,0.474783,0.0093695,0.0201316,True
+CFB,CFB,Team Total,Under,cfb|401858469|team_totals|Under|Oregon|theScore Bet,cfb|401858469,2026-09-26,theScore Bet,-110,1.90909,0.579,L,-1,-0.579,0.488796,0.525273,0.0364773,0.0746268,True
+CFB,CFB,Spread,Favorite,cfb|401858470|spreads|Washington||BetRivers,cfb|401858470,2026-09-26,BetRivers,-113,1.88496,1.1162,L,-1,-1.1162,0.503443,0.546915,0.0434714,0.0863482,True
+CFB,CFB,Spread,Favorite,cfb|401860891|spreads|Fresno State||FanDuel,cfb|401860891,2026-09-26,FanDuel,-105,1.95238,0.9087,W,0.952381,0.865429,0.488396,0.474783,-0.0136123,-0.0278714,True
+CFB,CFB,Team Total,Under,cfb|401860891|team_totals|Under|Rice|FanDuel,cfb|401860891,2026-09-26,FanDuel,-111,1.9009,0.7914,L,-1,-0.7914,0.495457,0.511361,0.0159038,0.0320993,True
+CFB,CFB,Spread,Favorite,cfb|401860893|spreads|Toledo||theScore Bet,cfb|401860893,2026-09-26,theScore Bet,100,2,1.886,W,1,1.886,0.476771,0.486375,0.00960425,0.0201444,True
+CFB,CFB,Team Total,Over,cfb|401860893|team_totals|Over|Toledo|Hard Rock Bet,cfb|401860893,2026-09-26,Hard Rock Bet,-120,1.83333,0.5515,W,0.833333,0.459583,0.5,0.5,0,0,True
+CFB,CFB,Team Total,Under,cfb|401860893|team_totals|Under|San Diego State|theScore Bet,cfb|401860893,2026-09-26,theScore Bet,100,2,1.1102,W,1,1.1102,0.466316,0.485945,0.0196284,0.0420924,True
+CFB,CFB,Team Total,Under,cfb|401860894|team_totals|Under|Troy|FanDuel,cfb|401860894,2026-09-26,FanDuel,-115,1.86957,0.6918,W,0.869565,0.601565,0.504543,0.536445,0.0319016,0.0632287,True
+CFB,CFB,Spread,Favorite,cfb|401860896|spreads|UTSA||Bovada,cfb|401860896,2026-09-26,Bovada,-110,1.90909,2.1322,W,0.909091,1.93836,0.5,0.560855,0.0608546,0.121709,True
+CFB,CFB,Team Total,Over,cfb|401860896|team_totals|Over|UTSA|FanDuel,cfb|401860896,2026-09-26,FanDuel,-106,1.9434,1.013,W,0.943396,0.95566,0.484091,0.495457,0.0113659,0.0234788,True
+CFB,CFB,Team Total,Under,cfb|401860896|team_totals|Under|Colorado State|theScore Bet,cfb|401860896,2026-09-26,theScore Bet,-115,1.86957,0.4778,L,-1,-0.4778,0.5,0.56154,0.0615398,0.12308,True
+CFB,CFB,Moneyline,Underdog,cfb|401860897|h2h|Western Michigan||Hard Rock Bet,cfb|401860897,2026-09-26,Hard Rock Bet,250,3.5,1.2964,L,-1,-1.2964,0.254197,0.242608,-0.0115886,-0.0455892,True
+CFB,CFB,Spread,Underdog,cfb|401860897|spreads|Western Michigan||BetRivers,cfb|401860897,2026-09-26,BetRivers,-113,1.88496,2.3108,L,-1,-2.3108,0.504608,0.491992,-0.0126161,-0.0250019,True
+CFB,CFB,Team Total,Over,cfb|401860897|team_totals|Over|Western Michigan|FanDuel,cfb|401860897,2026-09-26,FanDuel,-111,1.9009,0.6172,L,-1,-0.6172,0.495457,0.511361,0.0159038,0.0320993,True
+CFB,CFB,Team Total,Under,cfb|401860897|team_totals|Under|Boise State|theScore Bet,cfb|401860897,2026-09-26,theScore Bet,-125,1.8,1.3742,L,-1,-1.3742,0.522426,0.416424,-0.106002,-0.202903,True
+CFB,CFB,Team Total,Over,cfb|401861970|team_totals|Over|UConn|FanDuel,cfb|401861970,2026-09-26,FanDuel,-128,1.78125,0.715,L,-1,-0.715,0.531647,0.577049,0.0454021,0.0853988,True
+CFB,CFB,Total,Over,cfb|401861970|totals|Over||DraftKings,cfb|401861970,2026-09-26,DraftKings,-108,1.92593,1.3633,L,-1,-1.3633,0.495359,0.514811,0.0194512,0.0392668,True
+CFB,CFB,Moneyline,Underdog,cfb|401862782|h2h|UL Monroe||theScore Bet,cfb|401862782,2026-09-26,theScore Bet,425,5.25,0.7579,L,-1,-0.7579,0.150684,0.197327,0.0466425,0.309539,True
+CFB,CFB,Spread,Underdog,cfb|401862782|spreads|UL Monroe||Bovada,cfb|401862782,2026-09-26,Bovada,-105,1.95238,1.6229,L,-1,-1.6229,0.488396,0.550333,0.0619373,0.126818,True
+CFB,CFB,Team Total,Under,cfb|401862782|team_totals|Under|Florida Atlantic|FanDuel,cfb|401862782,2026-09-26,FanDuel,-122,1.81967,0.9519,L,-1,-0.9519,0.520462,0.504543,-0.0159185,-0.0305853,True
+CFB,CFB,Moneyline,Underdog,cfb|401862784|h2h|Southern Miss||FanDuel,cfb|401862784,2026-09-26,FanDuel,860,9.6,0.9234,L,-1,-0.9234,0.0691155,0.0882221,0.0191067,0.276445,True
+CFB,CFB,Spread,Underdog,cfb|401862784|spreads|Southern Miss||FanDuel,cfb|401862784,2026-09-26,FanDuel,-108,1.92593,2.733,W,0.925926,2.53056,0.495359,0.504641,0.00928132,0.0187365,True
+CFB,CFB,Team Total,Over,cfb|401862784|team_totals|Over|Southern Miss|FanDuel,cfb|401862784,2026-09-26,FanDuel,-113,1.88496,1.0407,W,0.884956,0.920973,0.5,0.540967,0.0409667,0.0819335,True
+CFB,CFB,Team Total,Under,cfb|401862784|team_totals|Under|Tulane|FanDuel,cfb|401862784,2026-09-26,FanDuel,-104,1.96154,1.5895,W,0.961538,1.52837,0.479538,0.479427,-0.000111599,-0.000232721,True
 CFB,CFB,Total,Under,cfb|401862784|totals|Under||Fanatics,cfb|401862784,2026-09-26,Fanatics,-105,1.95238,1.032,W,0.952381,0.982857,0.488396,,,,True
-CFB,CFB,Team Total,Under,cfb|401864510|team_totals|Under|Hawai'i|FanDuel,cfb|401864510,2026-09-26,FanDuel,-130,1.76923,1.4435,W,0.769231,1.11038,0.536142,,,,True
-CFB,CFB,Team Total,Under,cfb|401864510|team_totals|Under|Wyoming|FanDuel,cfb|401864510,2026-09-26,FanDuel,-104,1.96154,0.5049,L,-1,-0.5049,0.479538,,,,True
-CFB,CFB,Total,Under,cfb|401864510|totals|Under||LowVig.ag,cfb|401864510,2026-09-26,LowVig.ag,-108,1.92593,2.4589,W,0.925926,2.27676,0.5,,,,True
-CFB,CFB,Spread,Favorite,cfb|401864511|spreads|Georgia State||Hard Rock Bet,cfb|401864511,2026-09-26,Hard Rock Bet,-105,1.95238,1.6093,W,0.952381,1.53267,0.488396,,,,True
-CFB,CFB,Team Total,Under,cfb|401864511|team_totals|Under|Northern Illinois|theScore Bet,cfb|401864511,2026-09-26,theScore Bet,-115,1.86957,1.1408,W,0.869565,0.992,0.5,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401864512|h2h|Akron||BetRivers,cfb|401864512,2026-09-26,BetRivers,450,5.5,1.0197,L,-1,-1.0197,0.134053,,,,True
-CFB,CFB,Spread,Underdog,cfb|401864512|spreads|Akron||Hard Rock Bet,cfb|401864512,2026-09-26,Hard Rock Bet,100,2,2.3525,L,-1,-2.3525,0.476771,,,,True
-CFB,CFB,Team Total,Over,cfb|401864512|team_totals|Over|Akron|Hard Rock Bet,cfb|401864512,2026-09-26,Hard Rock Bet,-105,1.95238,1.313,L,-1,-1.313,0.467441,,,,True
-CFB,CFB,Team Total,Under,cfb|401864512|team_totals|Under|UNLV|FanDuel,cfb|401864512,2026-09-26,FanDuel,-113,1.88496,0.8812,L,-1,-0.8812,0.5,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401864576|h2h|South Alabama||theScore Bet,cfb|401864576,2026-09-26,theScore Bet,1000,11,0.9468,L,-1,-0.9468,0.0567175,,,,True
-CFB,CFB,Spread,Underdog,cfb|401864576|spreads|South Alabama||betPARX,cfb|401864576,2026-09-26,betPARX,-109,1.91743,3.2169,L,-1,-3.2169,0.496532,,,,True
-CFB,CFB,Team Total,Over,cfb|401864576|team_totals|Over|South Alabama|FanDuel,cfb|401864576,2026-09-26,FanDuel,-120,1.83333,1.7102,W,0.833333,1.42517,0.515909,,,,True
-CFB,CFB,Team Total,Under,cfb|401864576|team_totals|Under|Kentucky|FanDuel,cfb|401864576,2026-09-26,FanDuel,-111,1.9009,1.3443,L,-1,-1.3443,0.495457,,,,True
-CFB,CFB,Moneyline,Underdog,cfb|401864579|h2h|New Mexico State||Hard Rock Bet,cfb|401864579,2026-09-26,Hard Rock Bet,400,5,0.8016,L,-1,-0.8016,0.168675,,,,True
-CFB,CFB,Spread,Underdog,cfb|401864579|spreads|New Mexico State||Hard Rock Bet,cfb|401864579,2026-09-26,Hard Rock Bet,-105,1.95238,1.7979,L,-1,-1.7979,0.488396,,,,True
-CFB,CFB,Team Total,Over,cfb|401864579|team_totals|Over|New Mexico State|Hard Rock Bet,cfb|401864579,2026-09-26,Hard Rock Bet,100,2,0.6522,W,1,0.6522,0.456514,,,,True
-CFB,CFB,Team Total,Under,cfb|401864579|team_totals|Under|New Mexico|Hard Rock Bet,cfb|401864579,2026-09-26,Hard Rock Bet,-110,1.90909,0.8206,L,-1,-0.8206,0.478321,,,,True
-CFB,CFB,Spread,Favorite,cfb|401866425|spreads|Kent State||FanDuel,cfb|401866425,2026-09-26,FanDuel,100,2,0.9328,W,1,0.9328,0.474624,,,,True
-CFB,CFB,Team Total,Over,cfb|401866425|team_totals|Over|Kent State|Hard Rock Bet,cfb|401866425,2026-09-26,Hard Rock Bet,-125,1.8,0.5325,L,-1,-0.5325,0.510832,,,,True
-CFB,CFB,Spread,Favorite,cfb|401869931|spreads|Arkansas State||FanDuel,cfb|401869931,2026-09-26,FanDuel,-110,1.90909,0.8895,L,-1,-0.8895,0.5,,,,True
-CFB,CFB,Team Total,Under,cfb|401869931|team_totals|Under|Kennesaw State|FanDuel,cfb|401869931,2026-09-26,FanDuel,-102,1.98039,0.719,W,0.980392,0.704902,0.473931,,,,True
-CFB,CFB,Spread,Favorite,cfb|401871048|spreads|Jacksonville State||theScore Bet,cfb|401871048,2026-09-26,theScore Bet,105,2.05,1.4672,W,1.05,1.54056,0.465414,,,,True
-CFB,CFB,Team Total,Under,cfb|401871048|team_totals|Under|Middle Tennessee|FanDuel,cfb|401871048,2026-09-26,FanDuel,-125,1.8,0.701,W,0.8,0.5608,0.526069,,,,True
+CFB,CFB,Team Total,Under,cfb|401864510|team_totals|Under|Hawai'i|FanDuel,cfb|401864510,2026-09-26,FanDuel,-130,1.76923,1.4435,W,0.769231,1.11038,0.536142,0.552259,0.0161163,0.0300597,True
+CFB,CFB,Team Total,Under,cfb|401864510|team_totals|Under|Wyoming|FanDuel,cfb|401864510,2026-09-26,FanDuel,-104,1.96154,0.5049,L,-1,-0.5049,0.479538,0.489593,0.0100545,0.0209671,True
+CFB,CFB,Total,Under,cfb|401864510|totals|Under||LowVig.ag,cfb|401864510,2026-09-26,LowVig.ag,-108,1.92593,2.4589,W,0.925926,2.27676,0.5,0.539263,0.0392631,0.0785262,True
+CFB,CFB,Spread,Favorite,cfb|401864511|spreads|Georgia State||Hard Rock Bet,cfb|401864511,2026-09-26,Hard Rock Bet,-105,1.95238,1.6093,W,0.952381,1.53267,0.488396,0.474783,-0.0136123,-0.0278714,True
+CFB,CFB,Team Total,Under,cfb|401864511|team_totals|Under|Northern Illinois|theScore Bet,cfb|401864511,2026-09-26,theScore Bet,-115,1.86957,1.1408,W,0.869565,0.992,0.5,0.452412,-0.0475878,-0.0951755,True
+CFB,CFB,Moneyline,Underdog,cfb|401864512|h2h|Akron||BetRivers,cfb|401864512,2026-09-26,BetRivers,450,5.5,1.0197,L,-1,-1.0197,0.134053,0.15467,0.0206164,0.153793,True
+CFB,CFB,Spread,Underdog,cfb|401864512|spreads|Akron||Hard Rock Bet,cfb|401864512,2026-09-26,Hard Rock Bet,100,2,2.3525,L,-1,-2.3525,0.476771,0.488396,0.0116246,0.0243819,True
+CFB,CFB,Team Total,Over,cfb|401864512|team_totals|Over|Akron|Hard Rock Bet,cfb|401864512,2026-09-26,Hard Rock Bet,-105,1.95238,1.313,L,-1,-1.313,0.467441,0.572586,0.105145,0.224937,True
+CFB,CFB,Team Total,Under,cfb|401864512|team_totals|Under|UNLV|FanDuel,cfb|401864512,2026-09-26,FanDuel,-113,1.88496,0.8812,L,-1,-0.8812,0.5,0.468082,-0.0319182,-0.0638365,True
+CFB,CFB,Moneyline,Underdog,cfb|401864576|h2h|South Alabama||theScore Bet,cfb|401864576,2026-09-26,theScore Bet,1000,11,0.9468,L,-1,-0.9468,0.0567175,0.0628919,0.00617442,0.108863,True
+CFB,CFB,Spread,Underdog,cfb|401864576|spreads|South Alabama||betPARX,cfb|401864576,2026-09-26,betPARX,-109,1.91743,3.2169,L,-1,-3.2169,0.496532,0.49422,-0.00231227,-0.00465685,True
+CFB,CFB,Team Total,Over,cfb|401864576|team_totals|Over|South Alabama|FanDuel,cfb|401864576,2026-09-26,FanDuel,-120,1.83333,1.7102,W,0.833333,1.42517,0.515909,0.540967,0.0250577,0.0485699,True
+CFB,CFB,Team Total,Under,cfb|401864576|team_totals|Under|Kentucky|FanDuel,cfb|401864576,2026-09-26,FanDuel,-111,1.9009,1.3443,L,-1,-1.3443,0.495457,0.459033,-0.0364235,-0.073515,True
+CFB,CFB,Moneyline,Underdog,cfb|401864579|h2h|New Mexico State||Hard Rock Bet,cfb|401864579,2026-09-26,Hard Rock Bet,400,5,0.8016,L,-1,-0.8016,0.168675,0.181178,0.0125027,0.0741226,True
+CFB,CFB,Spread,Underdog,cfb|401864579|spreads|New Mexico State||Hard Rock Bet,cfb|401864579,2026-09-26,Hard Rock Bet,-105,1.95238,1.7979,L,-1,-1.7979,0.488396,0.525217,0.0368212,0.0753921,True
+CFB,CFB,Team Total,Over,cfb|401864579|team_totals|Over|New Mexico State|Hard Rock Bet,cfb|401864579,2026-09-26,Hard Rock Bet,100,2,0.6522,W,1,0.6522,0.456514,0.508286,0.0517726,0.113409,True
+CFB,CFB,Team Total,Under,cfb|401864579|team_totals|Under|New Mexico|Hard Rock Bet,cfb|401864579,2026-09-26,Hard Rock Bet,-110,1.90909,0.8206,L,-1,-0.8206,0.478321,0.511204,0.0328832,0.0687473,True
+CFB,CFB,Spread,Favorite,cfb|401866425|spreads|Kent State||FanDuel,cfb|401866425,2026-09-26,FanDuel,100,2,0.9328,W,1,0.9328,0.474624,0.490907,0.0162827,0.0343066,True
+CFB,CFB,Team Total,Over,cfb|401866425|team_totals|Over|Kent State|Hard Rock Bet,cfb|401866425,2026-09-26,Hard Rock Bet,-125,1.8,0.5325,L,-1,-0.5325,0.510832,0.527573,0.0167414,0.0327728,True
+CFB,CFB,Spread,Favorite,cfb|401869931|spreads|Arkansas State||FanDuel,cfb|401869931,2026-09-26,FanDuel,-110,1.90909,0.8895,L,-1,-0.8895,0.5,0.525217,0.0252167,0.0504335,True
+CFB,CFB,Team Total,Under,cfb|401869931|team_totals|Under|Kennesaw State|FanDuel,cfb|401869931,2026-09-26,FanDuel,-102,1.98039,0.719,W,0.980392,0.704902,0.473931,0.504543,0.030612,0.0645916,True
+CFB,CFB,Spread,Favorite,cfb|401871048|spreads|Jacksonville State||theScore Bet,cfb|401871048,2026-09-26,theScore Bet,105,2.05,1.4672,W,1.05,1.54056,0.465414,0.488396,0.0229818,0.0493792,True
+CFB,CFB,Team Total,Under,cfb|401871048|team_totals|Under|Middle Tennessee|FanDuel,cfb|401871048,2026-09-26,FanDuel,-125,1.8,0.701,W,0.8,0.5608,0.526069,0.515909,-0.0101597,-0.0193125,True
 MLB,F5,Run Line,Underdog,f5|823933|Run Line,mlb|823933,2026-07-03,betonlineag,140,2.4,0.98,W,1.4,1.372,0.4037,,,,True
 MLB,F5,Run Line,Favorite,f5|824659|Run Line,mlb|824659,2026-07-03,betonlineag,115,2.15,1.67,L,-1,-1.67,0.4514,,,,True
 MLB,F5,Run Line,Underdog,f5|822716|Run Line,mlb|822716,2026-07-04,mybookieag,109,2.09,0.81,L,-1,-0.81,0.4673,,,,True
