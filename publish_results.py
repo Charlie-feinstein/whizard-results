@@ -401,6 +401,7 @@ def stats(d: pd.DataFrame, rng) -> dict:
         cg = c.groupby("game")
         s["clv"] = round(float(c["clv_ev"].mean()), 4)
         s["clv_ci"] = _ci(cg["clv_ev"].sum().to_numpy(float), cg.size().to_numpy(float), rng)
+        s["clv_line"] = round(float(c["clv_prob"].mean()), 4)   # hold-free line value
         moved = c[c["clv_prob"].abs() > 1e-9]
         s["clv_moved"] = int(len(moved))
         s["beat_close"] = round(float((moved["clv_prob"] > 0).mean()), 4) if len(moved) else None
