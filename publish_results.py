@@ -55,7 +55,7 @@ OUT = ROOT / "results.json"
 FREEZE_DAYS = 7          # a new official bet can only enter the record this close to its game
 VOID_AFTER_DAYS = 4      # ungraded this long after the game = void (NFL DNP props never settle)
 THIN_N = 50              # below this a cell is flagged as too small to read
-HEARTBEAT_H = 0.9        # re-stamp `checked` every hourly run, so "Updated" is never >1h old
+HEARTBEAT_H = 0.5        # below the 1h run interval, so every hourly run re-stamps `checked`
 BOOT = 2000
 SEED = 20260928
 
