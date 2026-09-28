@@ -20,11 +20,13 @@ export). A bet can only ENTER the archive while its game is recent (FREEZE_DAYS)
 so loosening a rule later cannot slide old winners into the record. The very
 first run backfills everything and marks it reconstructed.
 
-CLV -- one definition for every sport (ncaaf shared/betting/clv.py):
-    p_close = that SAME book's no-vig closing probability of OUR bet
-    clv_ev  = p_close * decimal - 1      (headline; unmoved = minus the hold)
-    clv_prob= p_close - open_fair        ("did the line move our way")
-    No valid close  =>  NaN, never 0.
+CLV -- one definition for every sport (user, 2026-09-28): the odds we got versus
+where the odds closed, with the vig taken out of both.
+    clv_prob = p_close - open_fair
+    both are the SAME book's no-vig probability of OUR side at OUR number;
+    positive means the market moved toward us. No valid close  =>  NaN, never 0.
+There is deliberately no EV-at-close figure: p_close * decimal - 1 carries the vig,
+so an unmoved line scores minus the hold, which reads as a loss that is not one.
 Where a sport cannot meet that definition the bet gets NaN, not a guess:
     NFL   one-sided rows (anytime TD, alt rungs) have no no-vig fair -> NaN
     WNBA  close read from the per-book snapshot tape; the line moved -> NaN
@@ -55,8 +57,7 @@ BOOT = 2000
 SEED = 20260928
 
 COLS = ["sport", "model", "market", "sub", "key", "game", "date", "book", "odds", "dec",
-        "stake", "result", "pnl_flat", "pnl_kelly", "open_fair", "p_close", "clv_ev",
-        "clv_prob"]
+        "stake", "result", "pnl_flat", "pnl_kelly", "open_fair", "p_close", "clv_prob"]
 
 
 # --------------------------------------------------------------------------- helpers
@@ -74,11 +75,11 @@ def settle(dec, stake, result):
     return flat, kel
 
 
-def clv(p_close, dec, open_fair):
-    p = pd.to_numeric(p_close, errors="coerce")
-    ok = (p > 0) & (p < 1)
-    p = p.where(ok)
-    return p, p * dec - 1, p - open_fair
+def clv(p_close, open_fair):
+    """No-vig close minus no-vig open, our side. NaN when either is missing."""
+    p = pd.to_numeric(pd.Series(p_close), errors="coerce")
+    p = p.where((p > 0) & (p < 1))
+    return p.to_numpy(), (p - pd.to_numeric(pd.Series(open_fair), errors="coerce").to_numpy()).to_numpy()
 
 
 def utc(s, naive_tz="UTC"):
@@ -152,8 +153,7 @@ def load_nfl() -> pd.DataFrame:
         # a close is the book's last quote within 24h before kickoff
         ct = utc(d["current_time"])
         good = two_sided & (ct < d["kick"]) & (d["kick"] - ct <= timedelta(hours=24))
-        d["p_close"], d["clv_ev"], d["clv_prob"] = clv(d["current_fair"].where(good), d["dec"],
-                                                       d["open_fair"])
+        d["p_close"], d["clv_prob"] = clv(d["current_fair"].where(good), d["open_fair"])
         d["sport"] = "NFL"
         out.append(d)
     return pd.concat(out, ignore_index=True) if out else pd.DataFrame(columns=COLS)
@@ -187,7 +187,7 @@ def load_cfb() -> pd.DataFrame:
     d["game"] = "cfb|" + d["gid"].astype(str)
     d["odds"] = d["price"]
     d["open_fair"] = d["market_prob"].fillna(d["kp"])
-    d["p_close"], d["clv_ev"], d["clv_prob"] = clv(d["p_close"], d["dec"], d["open_fair"])
+    d["p_close"], d["clv_prob"] = clv(d["p_close"], d["open_fair"])
     return d
 
 
@@ -265,7 +265,7 @@ def load_wnba() -> pd.DataFrame:
     graded = d["flat_profit"].notna() & d["bet_won"].isna()
     d.loc[graded, "result"] = np.where(d.loc[graded, "model"].eq("Rebounds"), "V", "P")
     d["open_fair"] = d["mkt_prob"]
-    d["p_close"], d["clv_ev"], d["clv_prob"] = clv(p_close, d["dec"], d["open_fair"])
+    d["p_close"], d["clv_prob"] = clv(p_close, d["open_fair"])
     return d
 
 
@@ -284,8 +284,7 @@ def load_f5() -> pd.DataFrame:
     d["result"] = d["result"].map({"win": "W", "loss": "L", "push": "P"})
     d["open_fair"] = d["fair_prob"]
     refreshed = utc(d["current_time"]) > utc(d["open_time"])
-    d["p_close"], d["clv_ev"], d["clv_prob"] = clv(d["current_fair_prob"].where(refreshed),
-                                                   d["dec"], d["open_fair"])
+    d["p_close"], d["clv_prob"] = clv(d["current_fair_prob"].where(refreshed), d["open_fair"])
     return d
 
 
@@ -312,9 +311,7 @@ def load_k() -> pd.DataFrame:
     close = pd.Series(np.where(over, co / (co + cu), cu / (co + cu)), index=d.index)
     good = (utc(d["current_time"]) > utc(d["open_time"])) & \
            ((d["current_line"] - d["line"]).abs() < 0.25)
-    book_dec = dec_from_american(pd.Series(np.where(over, d["over_price"], d["under_price"]),
-                                           index=d.index))
-    d["p_close"], d["clv_ev"], d["clv_prob"] = clv(close.where(good), book_dec, d["open_fair"])
+    d["p_close"], d["clv_prob"] = clv(close.where(good), d["open_fair"])
     return d
 
 
@@ -340,6 +337,7 @@ def build_record() -> tuple[pd.DataFrame, list[str]]:
     today = pd.Timestamp.now(tz="America/New_York").normalize().tz_localize(None)
     if STATE.exists():
         arch = pd.read_csv(STATE, dtype={"key": str})
+        arch = arch.drop(columns=["clv_ev"], errors="ignore")   # retired: carried the vig
         known = set(arch["key"])
         fresh = ~live["key"].isin(known)
         recent = pd.to_datetime(live["date"]) >= today - timedelta(days=FREEZE_DAYS)
@@ -395,13 +393,12 @@ def stats(d: pd.DataFrame, rng) -> dict:
         "flat_roi_ci": _ci(flat_g, cnt_g, rng),
         "thin": s["n"] < THIN_N,
     })
-    c = d[d["clv_ev"].notna()]
+    c = d[d["clv_prob"].notna()]
     s["clv_n"] = int(len(c))
     if len(c):
         cg = c.groupby("game")
-        s["clv"] = round(float(c["clv_ev"].mean()), 4)
-        s["clv_ci"] = _ci(cg["clv_ev"].sum().to_numpy(float), cg.size().to_numpy(float), rng)
-        s["clv_line"] = round(float(c["clv_prob"].mean()), 4)   # hold-free line value
+        s["clv_line"] = round(float(c["clv_prob"].mean()), 4)   # no-vig points moved toward us
+        s["clv_ci"] = _ci(cg["clv_prob"].sum().to_numpy(float), cg.size().to_numpy(float), rng)
         moved = c[c["clv_prob"].abs() > 1e-9]
         s["clv_moved"] = int(len(moved))
         s["beat_close"] = round(float((moved["clv_prob"] > 0).mean()), 4) if len(moved) else None
@@ -431,7 +428,7 @@ def bets_payload(rec):
     return [{"s": x.sport, "m": x.model, "k": x.market, "u": x.sub, "d": x.date, "g": x.game,
              "o": None if pd.isna(x.odds) else int(float(x.odds)), "st": r(x.stake, 3),
              "r": None if pd.isna(x.result) else x.result, "pf": r(x.pnl_flat), "pk": r(x.pnl_kelly),
-             "c": r(x.clv_ev), "cp": r(x.clv_prob)} for x in rec.itertuples()]
+             "cp": r(x.clv_prob)} for x in rec.itertuples()]
 
 
 def git(*args):
@@ -443,7 +440,7 @@ def main():
     body = {"groups": summarize(rec), "bets": bets_payload(rec), "errors": errors,
             "method": {"roi": "kelly units won / kelly units staked; pushes and voids excluded",
                        "ci": f"95% bootstrap, resampling whole games ({BOOT} draws)",
-                       "clv": "p_close*decimal-1 at the same book's no-vig close for our exact bet; "
+                       "clv": "no-vig close minus no-vig open for our side, same book, same number; "
                               "blank when no close was captured",
                        "thin_n": THIN_N}}
     digest = hashlib.sha256(json.dumps(body, sort_keys=True, default=str).encode()).hexdigest()[:16]
