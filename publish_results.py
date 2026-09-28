@@ -55,6 +55,7 @@ OUT = ROOT / "results.json"
 FREEZE_DAYS = 7          # a new official bet can only enter the record this close to its game
 VOID_AFTER_DAYS = 4      # ungraded this long after the game = void (NFL DNP props never settle)
 THIN_N = 50              # below this a cell is flagged as too small to read
+HEARTBEAT_H = 0.9        # re-stamp `checked` every hourly run, so "Updated" is never >1h old
 BOOT = 2000
 SEED = 20260928
 
@@ -452,14 +453,34 @@ def main():
                        "thin_n": THIN_N}}
     digest = hashlib.sha256(json.dumps(body, sort_keys=True, default=str).encode()).hexdigest()[:16]
     old = json.loads(OUT.read_text()) if OUT.exists() else {}
+    now = datetime.now(timezone.utc)
+    stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
     if old.get("hash") == digest:
-        print("results unchanged")
+        # Heartbeat. Nothing new was graded, but the page still needs to know
+        # the job is alive, or "no new results" and "the job stopped" look the
+        # same. Re-stamp `checked` at most every HEARTBEAT_H hours so the repo
+        # does not take a commit every hour.
+        last = old.get("checked") or old.get("generated") or ""
+        try:
+            age_h = (now - datetime.strptime(last, "%Y-%m-%dT%H:%M:%SZ")
+                     .replace(tzinfo=timezone.utc)).total_seconds() / 3600
+        except ValueError:
+            age_h = 1e9
+        # --heartbeat forces one now: an end-to-end test that touches no results
+        if (age_h < HEARTBEAT_H and "--heartbeat" not in sys.argv) or "--no-push" in sys.argv:
+            print("results unchanged")
+            return 0
+        old["checked"] = stamp
+        OUT.write_text(json.dumps(old, separators=(",", ":"), default=str))
+        git("add", "-A")
+        git("commit", "-m", f"heartbeat {stamp}")
+        p = git("push", "-q")
+        print("heartbeat pushed" if p.returncode == 0 else f"push failed: {p.stderr.strip()}")
         return 0
     # A dry run must not record the hash, or the next real run would see
     # "unchanged" and never push what the dry run computed.
     dry = "--no-push" in sys.argv
-    body = {"generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-            "hash": "" if dry else digest, **body}
+    body = {"generated": stamp, "checked": stamp, "hash": "" if dry else digest, **body}
     OUT.write_text(json.dumps(body, separators=(",", ":"), default=str))
     tops = [g for g in body["groups"] if g["level"] == 2]
     for g in tops:
