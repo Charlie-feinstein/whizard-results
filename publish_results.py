@@ -22,7 +22,9 @@ first run backfills everything and marks it reconstructed.
 
 CLV -- one definition for every sport (user, 2026-09-28): the odds we got versus
 where the odds closed, with the vig taken out of both.
-    clv_prob = p_close - open_fair
+    clv_prob = p_close - open_fair          (points)
+    clv_pct  = p_close / open_fair - 1      (the CLV % shown on the page: how much
+                                             better our fair odds were than the close's)
     both are the SAME book's no-vig probability of OUR side at OUR number;
     positive means the market moved toward us. No valid close  =>  NaN, never 0.
 There is deliberately no EV-at-close figure: p_close * decimal - 1 carries the vig,
@@ -57,7 +59,7 @@ BOOT = 2000
 SEED = 20260928
 
 COLS = ["sport", "model", "market", "sub", "key", "game", "date", "book", "odds", "dec",
-        "stake", "result", "pnl_flat", "pnl_kelly", "open_fair", "p_close", "clv_prob"]
+        "stake", "result", "pnl_flat", "pnl_kelly", "open_fair", "p_close", "clv_prob", "clv_pct"]
 
 
 # --------------------------------------------------------------------------- helpers
@@ -325,6 +327,7 @@ def build_record() -> tuple[pd.DataFrame, list[str]]:
         try:
             d = fn()
             d = d.drop_duplicates("key", keep="last")
+            d["clv_pct"] = np.nan
             flat, kel = settle(d["dec"].astype(float), d["stake"].astype(float),
                                d["result"].astype(object))
             d["pnl_flat"], d["pnl_kelly"] = flat, kel
@@ -351,6 +354,9 @@ def build_record() -> tuple[pd.DataFrame, list[str]]:
         live["reconstructed"] = True                 # first run: backfilled from today's ledgers
         record = live
     record = record.sort_values(["sport", "model", "date", "key"]).reset_index(drop=True)
+    # CLV %, recomputed for every row so archived snapshots carry it too
+    of = pd.to_numeric(record["open_fair"], errors="coerce")
+    record["clv_pct"] = pd.to_numeric(record["p_close"], errors="coerce") / of.where(of > 0) - 1
     STATE.parent.mkdir(exist_ok=True)
     record.to_csv(STATE, index=False, float_format="%.6g")
     return record, errors
@@ -398,6 +404,7 @@ def stats(d: pd.DataFrame, rng) -> dict:
     if len(c):
         cg = c.groupby("game")
         s["clv_line"] = round(float(c["clv_prob"].mean()), 4)   # no-vig points moved toward us
+        s["clv_pct"] = round(float(c["clv_pct"].mean()), 4)     # headline CLV %
         s["clv_ci"] = _ci(cg["clv_prob"].sum().to_numpy(float), cg.size().to_numpy(float), rng)
         moved = c[c["clv_prob"].abs() > 1e-9]
         s["clv_moved"] = int(len(moved))
@@ -428,7 +435,7 @@ def bets_payload(rec):
     return [{"s": x.sport, "m": x.model, "k": x.market, "u": x.sub, "d": x.date, "g": x.game,
              "o": None if pd.isna(x.odds) else int(float(x.odds)), "st": r(x.stake, 3),
              "r": None if pd.isna(x.result) else x.result, "pf": r(x.pnl_flat), "pk": r(x.pnl_kelly),
-             "cp": r(x.clv_prob)} for x in rec.itertuples()]
+             "cp": r(x.clv_prob), "cr": r(x.clv_pct)} for x in rec.itertuples()]
 
 
 def git(*args):
@@ -448,8 +455,11 @@ def main():
     if old.get("hash") == digest:
         print("results unchanged")
         return 0
+    # A dry run must not record the hash, or the next real run would see
+    # "unchanged" and never push what the dry run computed.
+    dry = "--no-push" in sys.argv
     body = {"generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-            "hash": digest, **body}
+            "hash": "" if dry else digest, **body}
     OUT.write_text(json.dumps(body, separators=(",", ":"), default=str))
     tops = [g for g in body["groups"] if g["level"] == 2]
     for g in tops:
@@ -457,7 +467,7 @@ def main():
               f"roi={g.get('roi')}  clv_n={g.get('clv_n', 0)}  pending={g['pending']}")
     for e in errors:
         print("LOADER FAILED", e, file=sys.stderr)
-    if "--no-push" in sys.argv:
+    if dry:
         return 0
     git("add", "-A")
     git("commit", "-m", f"results {body['generated']}")
