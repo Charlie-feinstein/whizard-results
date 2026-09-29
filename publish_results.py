@@ -60,7 +60,11 @@ BOOT = 2000
 SEED = 20260928
 
 COLS = ["sport", "model", "market", "sub", "key", "game", "date", "book", "odds", "dec",
-        "stake", "result", "pnl_flat", "pnl_kelly", "open_fair", "p_close", "clv_prob", "clv_pct"]
+        "stake", "result", "pnl_flat", "pnl_kelly", "open_fair", "p_close", "clv_prob", "clv_pct",
+        "edge"]
+# edge = model prob minus no-vig market prob for our side, at bet time. Every ledger
+# stores it under `edge` with that definition (checked 2026-09-29), so it is comparable
+# within a model. The page bands plays by it to show whether bigger edges pay more.
 
 
 # --------------------------------------------------------------------------- helpers
@@ -436,7 +440,7 @@ def bets_payload(rec):
     return [{"s": x.sport, "m": x.model, "k": x.market, "u": x.sub, "d": x.date, "g": x.game,
              "o": None if pd.isna(x.odds) else int(float(x.odds)), "st": r(x.stake, 3),
              "r": None if pd.isna(x.result) else x.result, "pf": r(x.pnl_flat), "pk": r(x.pnl_kelly),
-             "cp": r(x.clv_prob), "cr": r(x.clv_pct)} for x in rec.itertuples()]
+             "cp": r(x.clv_prob), "cr": r(x.clv_pct), "e": r(x.edge)} for x in rec.itertuples()]
 
 
 def git(*args):
