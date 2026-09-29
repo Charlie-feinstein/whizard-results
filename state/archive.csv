@@ -1612,6 +1612,8 @@ WNBA,Mainlines,Moneyline,Favorite,wnba|g|2026-09-24|Connecticut Sun|Toronto Temp
 WNBA,Mainlines,Total,Under,wnba|g|2026-09-24|Connecticut Sun|Toronto Tempo|under,wnba|2026-09-24|Connecticut Sun|Toronto Tempo,2026-09-24,fanduel,-110,1.90909,0.8568,L,-1,-0.8568,0.5,,,,True
 WNBA,Mainlines,Spread,Favorite,wnba|g|2026-09-24|Washington Mystics|Chicago Sky|home_ats,wnba|2026-09-24|Washington Mystics|Chicago Sky,2026-09-24,betmgm,-115,1.86957,1.79446,L,-1,-1.79446,0.510834,,,,True
 WNBA,Mainlines,Total,Over,wnba|g|2026-09-24|Washington Mystics|Chicago Sky|over,wnba|2026-09-24|Washington Mystics|Chicago Sky,2026-09-24,fanduel,-114,1.87719,0.51096,W,0.877193,0.44821,0.508664,,,,True
+WNBA,Mainlines,Total,Under,wnba|g|2026-09-27|Las Vegas Aces|Indiana Fever|under,wnba|2026-09-27|Las Vegas Aces|Indiana Fever,2026-09-27,draftkings,-105,1.95238,0.693942,L,-1,-0.693942,0.489166,,,,False
+WNBA,Mainlines,Spread,Favorite,wnba|g|2026-09-27|Minnesota Lynx|New York Liberty|home_ats,wnba|2026-09-27|Minnesota Lynx|New York Liberty,2026-09-27,betonlineag,-105,1.95238,1.91514,L,-1,-1.91514,0.489166,,,,False
 WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-06-16|204330|rebounds|under,wnba|2026-06-16|Indiana Fever|Toronto Tempo,2026-06-16,draftkings,-134,1.74627,1.92091,L,-1,-1.92091,0.532629,0.557522,0.0248928,0.0467357,True
 WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-06-17|1627673|rebounds|under,wnba|2026-06-17|Chicago Sky|New York Liberty,2026-06-17,draftkings,-120,1.83333,2.14058,W,0.833333,1.78382,0.506942,0.506942,0,0,True
 WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-06-17|1627674|rebounds|over,wnba|2026-06-17|Phoenix Mercury|Las Vegas Aces,2026-06-17,fanduel,134,2.34,1.33965,W,1.34,1.79512,0.399315,0.399315,0,0,True
@@ -2334,3 +2336,30 @@ WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-24|1629498|rebounds|under,wnba|202
 WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-09-24|1642289|rebounds|over,wnba|2026-09-24|Washington Mystics|Chicago Sky,2026-09-24,betonlineag,-152,1.65789,1.28243,W,0.657895,0.843705,0.565757,,,,True
 WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-09-24|1642785|rebounds|over,wnba|2026-09-24|Washington Mystics|Chicago Sky,2026-09-24,betonlineag,112,2.12,1.51801,W,1.12,1.70017,0.443519,,,,True
 WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-24|203826|rebounds|under,wnba|2026-09-24|Phoenix Mercury|Las Vegas Aces,2026-09-24,betonlineag,-115,1.86957,1.75665,W,0.869565,1.52752,0.503095,,,,True
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1627675|rebounds|under,wnba|2026-09-27|Minnesota Lynx|New York Liberty,2026-09-27,draftkings,-137,1.72993,2.45676,W,0.729927,1.79326,0.537444,,,,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-09-27|1628277|rebounds|over,wnba|2026-09-27|Atlanta Dream|Washington Mystics,2026-09-27,betonlineag,106,2.06,1.86786,L,-1,-1.86786,0.456454,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1628508|rebounds|under,wnba|2026-09-27|Golden State Valkyries|Dallas Wings,2026-09-27,fanduel,-144,1.69444,1.46886,W,0.694444,1.02004,0.551074,,,,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-09-27|1628909|rebounds|over,wnba|2026-09-27|Las Vegas Aces|Indiana Fever,2026-09-27,fanduel,-188,1.53191,1.2725,L,-1,-1.2725,0.61039,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1628931|rebounds|under,wnba|2026-09-27|Golden State Valkyries|Dallas Wings,2026-09-27,draftkings,-119,1.84034,1.19443,W,0.840336,1.00372,0.504957,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1629483|rebounds|under,wnba|2026-09-27|Minnesota Lynx|New York Liberty,2026-09-27,draftkings,106,2.06,2.40003,W,1.06,2.54403,0.451317,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1629488|rebounds|under,wnba|2026-09-27|Las Vegas Aces|Indiana Fever,2026-09-27,betonlineag,100,2,3,W,1,3,0.469388,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1629491|rebounds|under,wnba|2026-09-27|Golden State Valkyries|Dallas Wings,2026-09-27,fanduel,108,2.08,2.51594,W,1.08,2.71722,0.448926,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1630386|rebounds|under,wnba|2026-09-27|Golden State Valkyries|Dallas Wings,2026-09-27,betonlineag,121,2.21,2.59273,W,1.21,3.1372,0.426127,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1630446|rebounds|under,wnba|2026-09-27|Atlanta Dream|Washington Mystics,2026-09-27,betonlineag,-125,1.8,2.06543,L,-1,-2.06543,0.522657,,,,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-09-27|1631009|rebounds|over,wnba|2026-09-27|Atlanta Dream|Washington Mystics,2026-09-27,williamhill_us,-125,1.8,1.11942,L,-1,-1.11942,0.518018,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1631086|rebounds|under,wnba|2026-09-27|Las Vegas Aces|Indiana Fever,2026-09-27,draftkings,-142,1.70423,3,W,0.704225,2.11268,0.544839,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1641648|rebounds|under,wnba|2026-09-27|Las Vegas Aces|Indiana Fever,2026-09-27,draftkings,103,2.03,2.05656,W,1.03,2.11826,0.458584,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1641652|rebounds|under,wnba|2026-09-27|Golden State Valkyries|Dallas Wings,2026-09-27,betonlineag,-133,1.75188,2.6931,W,0.75188,2.02489,0.53677,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1642291|rebounds|under,wnba|2026-09-27|Atlanta Dream|Washington Mystics,2026-09-27,draftkings,-121,1.82645,2.52878,W,0.826446,2.0899,0.507882,,,,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-09-27|1642785|rebounds|over,wnba|2026-09-27|Atlanta Dream|Washington Mystics,2026-09-27,betonlineag,113,2.13,2.05975,W,1.13,2.32752,0.440985,,,,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-09-27|1642792|rebounds|over,wnba|2026-09-27|Atlanta Dream|Washington Mystics,2026-09-27,betonlineag,-143,1.6993,1.08907,W,0.699301,0.761585,0.552733,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|1642815|rebounds|under,wnba|2026-09-27|Las Vegas Aces|Indiana Fever,2026-09-27,betonlineag,118,2.18,3,L,-1,-3,0.430713,,,,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-09-27|1643427|rebounds|over,wnba|2026-09-27|Atlanta Dream|Washington Mystics,2026-09-27,betonlineag,-185,1.54054,1.43237,W,0.540541,0.774254,0.610043,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|201886|rebounds|under,wnba|2026-09-27|Atlanta Dream|Washington Mystics,2026-09-27,betonlineag,-125,1.8,1.32303,W,0.8,1.05842,0.522657,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|203825|rebounds|under,wnba|2026-09-27|Minnesota Lynx|New York Liberty,2026-09-27,betonlineag,130,2.3,1.66359,W,1.3,2.16267,0.409001,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|203827|rebounds|under,wnba|2026-09-27|Minnesota Lynx|New York Liberty,2026-09-27,betonlineag,-106,1.9434,1.98519,W,0.943396,1.87282,0.483561,,,,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-09-27|203833|rebounds|over,wnba|2026-09-27|Las Vegas Aces|Indiana Fever,2026-09-27,draftkings,124,2.24,1.45794,W,1.24,1.80785,0.415406,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|203855|rebounds|under,wnba|2026-09-27|Las Vegas Aces|Indiana Fever,2026-09-27,betonlineag,-120,1.83333,2.23685,W,0.833333,1.86404,0.512315,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|203866|rebounds|under,wnba|2026-09-27|Golden State Valkyries|Dallas Wings,2026-09-27,draftkings,-106,1.9434,1.62127,L,-1,-1.62127,0.478233,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|204319|rebounds|under,wnba|2026-09-27|Las Vegas Aces|Indiana Fever,2026-09-27,betonlineag,-112,1.89286,1.61375,W,0.892857,1.44085,0.496905,,,,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-09-27|204329|rebounds|under,wnba|2026-09-27|Golden State Valkyries|Dallas Wings,2026-09-27,betonlineag,119,2.19,1.66329,L,-1,-1.66329,0.429591,,,,False
