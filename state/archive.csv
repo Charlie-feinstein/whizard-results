@@ -1131,6 +1131,14 @@ MLB,K Props,Strikeouts,Under,k|2026-09-26|608379,mlb|2026-09-26|CLE-KC,2026-09-2
 MLB,K Props,Strikeouts,Under,k|2026-09-26|621111,mlb|2026-09-26|AZ-SD,2026-09-26,draftkings,112,2.12,2.33,W,1.12,2.6096,0.444925,,,,0.1501,True
 MLB,K Props,Strikeouts,Under,k|2026-09-26|641927,mlb|2026-09-26|MIN-TEX,2026-09-26,fanduel,-115,1.86957,1.19,L,-1,-1.19,0.540004,,,,0.0837,True
 MLB,K Props,Strikeouts,Under,k|2026-09-26|663436,mlb|2026-09-26|COL-CWS,2026-09-26,draftkings,-138,1.72464,1.34,W,0.724638,0.971014,0.546701,,,,0.0893,True
+MLB,K Props,Strikeouts,Under,k|2026-09-27|453286,mlb|2026-09-27|CIN-TOR,2026-09-27,betmgm,-140,1.71429,1.45,L,-1,-1.45,0.561318,,,,0.0926,False
+MLB,K Props,Strikeouts,Over,k|2026-09-27|641743,mlb|2026-09-27|COL-CWS,2026-09-27,betonlineag,-114,1.87719,1.44,W,0.877193,1.26316,0.504155,,,,0.0978,False
+MLB,K Props,Strikeouts,Over,k|2026-09-27|647336,mlb|2026-09-27|AZ-SD,2026-09-27,betonlineag,-149,1.67114,2.81,W,0.671141,1.88591,0.562659,,,,0.1485,False
+MLB,K Props,Strikeouts,Over,k|2026-09-27|665152,mlb|2026-09-27|MIN-TEX,2026-09-27,betmgm,-110,1.90909,1.15,L,-1,-1.15,0.523859,,,,0.0829,False
+MLB,K Props,Strikeouts,Over,k|2026-09-27|669302,mlb|2026-09-27|LAA-SEA,2026-09-27,draftkings,111,2.11,1.66,W,1.11,1.8426,0.446808,,,,0.1143,False
+MLB,K Props,Strikeouts,Over,k|2026-09-27|681190,mlb|2026-09-27|AZ-SD,2026-09-27,betonlineag,144,2.44,1.08,L,-1,-1.08,0.385251,,,,0.0882,False
+MLB,K Props,Strikeouts,Over,k|2026-09-27|683003,mlb|2026-09-27|DET-PIT,2026-09-27,betmgm,-140,1.71429,1.25,L,-1,-1.25,0.556944,,,,0.0845,False
+MLB,K Props,Strikeouts,Over,k|2026-09-27|702275,mlb|2026-09-27|ATL-MIA,2026-09-27,betmgm,115,2.15,2,L,-1,-2,0.447531,,,,0.1317,False
 NFL,Derivatives,H1 Spread,Favorite,nfl|derivatives|2026_03_ATL_GB|period|spreads_h1|GB|-3.0|williamhill_us,nfl|2026_03_ATL_GB,2026-09-24,williamhill_us,-113,1.88496,1.94408,L,-1,-1.94408,0.506961,0.50578,-0.0011811,-0.00232957,0.147009,True
 NFL,Derivatives,H1 Spread,Favorite,nfl|derivatives|2026_03_ATL_GB|period|spreads_h1|home|-3.0|williamhill_us,nfl|2026_03_ATL_GB,2026-09-24,williamhill_us,-113,1.88496,1.94408,L,-1,-1.94408,0.506961,0.50578,-0.0011811,-0.00232977,0.147009,False
 NFL,Derivatives,Team Total,Under,nfl|derivatives|2026_03_ATL_GB|period|team_totals:ATL|Under|19.5|fanduel,nfl|2026_03_ATL_GB,2026-09-24,fanduel,-115,1.86957,1.45309,L,-1,-1.45309,0.504543,0.515909,0.0113659,0.022527,0.121757,True
