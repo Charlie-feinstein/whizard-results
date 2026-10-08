@@ -505,6 +505,7 @@ MLB,F5,Run Line,Underdog,f5|849848|Run Line,mlb|849848,2026-09-30,bovada,-120,1.
 MLB,F5,Run Line,Underdog,f5|849844|Run Line,mlb|849844,2026-10-01,betonlineag,-130,1.76923,1.66,W,0.769231,1.27692,0.5427,,,,0.0946,False
 MLB,F5,Run Line,Underdog,f5|849830|Run Line,mlb|849830,2026-10-03,mybookieag,-145,1.68966,0.75,W,0.689655,0.517241,0.5689,,,,0.0537,False
 MLB,F5,Run Line,Underdog,f5|849835|Run Line,mlb|849835,2026-10-03,mybookieag,-120,1.83333,1.13,L,-1,-1.13,0.5217,,,,0.0749,False
+MLB,F5,Run Line,Favorite,f5|849833|Run Line,mlb|849833,2026-10-07,betonlineag,120,2.2,1.33,L,-1,-1.33,0.4394,,,,0.0875,False
 MLB,K Props,Strikeouts,Over,k|2026-04-16|621111,mlb|2026-04-16|SD-SEA,2026-04-16,betonlineag,103,2.03,1.58,W,1.03,1.6274,0.502077,0.485429,-0.0166486,-0.0331595,0.1046,True
 MLB,K Props,Strikeouts,Over,k|2026-04-16|687075,mlb|2026-04-16|MIL-TOR,2026-04-16,draftkings,114,2.14,1.9,W,1.14,2.166,0.441203,,,,0.127,True
 MLB,K Props,Strikeouts,Over,k|2026-04-17|608372,mlb|2026-04-17|COL-LAD,2026-04-17,draftkings,119,2.19,2.26,L,-1,-2.26,0.430858,0.439364,0.00850656,0.0197433,0.1487,True
