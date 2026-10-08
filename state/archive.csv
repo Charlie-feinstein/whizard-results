@@ -1779,7 +1779,7 @@ NFL,Props,Receptions,Under,nfl|props|2026_04_LA_PHI|props|receptions|00-0040867|
 NFL,Props,Rush Yds,Under,nfl|props|2026_04_LA_PHI|props|rush_yds|00-0034844|Under|78.5|draftkings,nfl|2026_04_LA_PHI,2026-10-04,draftkings,-109,1.91743,0.255915,W,0.917431,0.234784,0.493137,,,,0.172488,False
 NFL,Props,Anytime TD,Yes,nfl|props|2026_04_MIA_MIN|props|anytime_td|00-0036259|Yes|0.5|fanatics,nfl|2026_04_MIA_MIN,2026-10-04,fanatics,450,5.5,0.216169,L,-1,-0.216169,,,,,0.0480568,False
 NFL,Props,Anytime TD,Yes,nfl|props|2026_04_MIA_MIN|props|anytime_td|00-0039880|Yes|0.5|fanduel,nfl|2026_04_MIA_MIN,2026-10-04,fanduel,470,5.7,0.210054,L,-1,-0.210054,,,,,0.0470614,False
-NFL,Props,Anytime TD,Yes,nfl|props|2026_04_MIA_MIN|props|anytime_td|00-0041523|Yes|0.5|betonlineag,nfl|2026_04_MIA_MIN,2026-10-04,betonlineag,500,6,0.116851,,0,0,,,,,0.0264583,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_04_MIA_MIN|props|anytime_td|00-0041523|Yes|0.5|betonlineag,nfl|2026_04_MIA_MIN,2026-10-04,betonlineag,500,6,0.116851,V,0,0,,,,,0.0264583,False
 NFL,Props,Anytime TD,Yes,nfl|props|2026_04_MIA_MIN|props|anytime_td|00-0041523|Yes|0.5|fanatics,nfl|2026_04_MIA_MIN,2026-10-04,fanatics,430,5.3,0.105666,,0,0,,,,,0.0234459,False
 NFL,Props,Pass Attempts,Over,nfl|props|2026_04_MIA_MIN|props|pass_attempts|00-0035228|Over|27.5|draftkings,nfl|2026_04_MIA_MIN,2026-10-04,draftkings,-125,1.8,0.672793,W,0.8,0.538234,0.526069,,,,0.102803,False
 NFL,Props,Pass Attempts,Under,nfl|props|2026_04_MIA_MIN|props|pass_attempts|00-0038128|Under|28.5|draftkings,nfl|2026_04_MIA_MIN,2026-10-04,draftkings,-117,1.8547,0.882916,W,0.854701,0.754629,0.509088,0.50114,-0.00794787,-0.015612,0.125162,False
