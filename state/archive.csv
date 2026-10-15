@@ -1485,8 +1485,8 @@ NFL,Derivatives,H1 Total,Under,nfl|derivatives|2026_05_PHI_JAX|period|totals_h1|
 NFL,Derivatives,Q1 Total,Under,nfl|derivatives|2026_05_PHI_JAX|period|totals_q1|Under|7.5|betus,nfl|2026_05_PHI_JAX,2026-10-11,betus,-120,1.83333,0.676545,W,0.833333,0.563788,0.511204,0.511204,0,0,0.0760293,False
 NFL,Derivatives,H2 Total,Under,nfl|derivatives|2026_05_BUF_LA|period|totals_h2|Under|27.5|fanduel,nfl|2026_05_BUF_LA,2026-10-12,fanduel,-115,1.86957,0.91497,L,-1,-0.91497,0.511604,0.5,-0.0116045,-0.0226825,0.0810955,False
 NFL,Derivatives,Q4 Total,Under,nfl|derivatives|2026_05_BUF_LA|period|totals_q4|Under|15.5|draftkings,nfl|2026_05_BUF_LA,2026-10-12,draftkings,-105,1.95238,0.858158,L,-1,-0.858158,0.477574,0.461696,-0.015878,-0.0332472,0.0914925,False
-NFL,Derivatives,H1 Total,Under,nfl|derivatives|2026_06_SEA_DEN|period|totals_h1|Under|20.5|draftkings,nfl|2026_06_SEA_DEN,2026-10-15,draftkings,-112,1.89286,0.878513,,0,0,0.504641,,,,0.0799593,False
-NFL,Derivatives,H2 Total,Over,nfl|derivatives|2026_06_SEA_DEN|period|totals_h2|Over|19.5|betrivers,nfl|2026_06_SEA_DEN,2026-10-15,betrivers,-121,1.82645,0.805038,,0,0,0.520606,,,,0.0763939,False
+NFL,Derivatives,H1 Total,Under,nfl|derivatives|2026_06_SEA_DEN|period|totals_h1|Under|20.5|draftkings,nfl|2026_06_SEA_DEN,2026-10-15,draftkings,-112,1.89286,0.878513,,0,0,0.504641,0.534586,0.0299456,0.0593404,0.0799593,False
+NFL,Derivatives,H2 Total,Over,nfl|derivatives|2026_06_SEA_DEN|period|totals_h2|Over|19.5|betrivers,nfl|2026_06_SEA_DEN,2026-10-15,betrivers,-121,1.82645,0.805038,,0,0,0.520606,0.520606,0,0,0.0763939,False
 NFL,Derivatives,Q2 Total,Under,nfl|derivatives|2026_06_SEA_DEN|period|totals_q2|Under|12.5|bovada,nfl|2026_06_SEA_DEN,2026-10-15,bovada,110,2.1,0.703682,,0,0,0.444832,,,,0.0814346,False
 NFL,Derivatives,Q1 Spread,Underdog,nfl|derivatives|2026_06_ARI_LA|period|spreads_q1|away|4.0|bovada,nfl|2026_06_ARI_LA,2026-10-18,bovada,-120,1.83333,1.29001,,0,0,0.511204,,,,0.113913,False
 NFL,Derivatives,Team Total,Under,nfl|derivatives|2026_06_ARI_LA|period|team_totals:LA|Under|33.5|betonlineag,nfl|2026_06_ARI_LA,2026-10-18,betonlineag,-115,1.86957,1.59019,,0,0,0.5,,,,0.135367,False
