@@ -1731,6 +1731,7 @@ NFL,Derivatives,H1 Spread,Favorite,nfl|derivatives|2026_08_BAL_BUF|period|spread
 NFL,Derivatives,Q2 Spread,Favorite,nfl|derivatives|2026_08_BAL_BUF|period|spreads_q2|home|-1.5|fanduel,nfl|2026_08_BAL_BUF,2026-11-01,fanduel,102,2.02,0.900828,,0,0,0.470043,,,,0.0898233,False
 NFL,Derivatives,H1 Total,Over,nfl|derivatives|2026_08_CLE_PIT|period|totals_h1|Over|19.5|betrivers,nfl|2026_08_CLE_PIT,2026-11-01,betrivers,-112,1.89286,1.06785,,0,0,0.5,,,,0.0967333,False
 NFL,Derivatives,H2 Total,Over,nfl|derivatives|2026_08_CLE_PIT|period|totals_h2|Over|19.5|betrivers,nfl|2026_08_CLE_PIT,2026-11-01,betrivers,-114,1.87719,1.05626,,0,0,0.506912,,,,0.0928547,False
+NFL,Derivatives,Team Total,Over,nfl|derivatives|2026_08_KC_DEN|period|team_totals:DEN|Over|20.5|williamhill_us,nfl|2026_08_KC_DEN,2026-11-01,williamhill_us,102,2.02,0.701406,,0,0,0.457907,,,,0.08526,False
 NFL,Derivatives,H1 Total,Over,nfl|derivatives|2026_08_KC_DEN|period|totals_h1|Over|19.5|williamhill_us,nfl|2026_08_KC_DEN,2026-11-01,williamhill_us,-115,1.86957,1.0299,,0,0,0.511604,,,,0.0900955,False
 NFL,Derivatives,H2 Total,Over,nfl|derivatives|2026_08_KC_DEN|period|totals_h2|Over|19.5|fanduel,nfl|2026_08_KC_DEN,2026-11-01,fanduel,-125,1.8,1.88437,,0,0,0.534586,,,,0.141147,False
 NFL,Derivatives,Q3 Total,Over,nfl|derivatives|2026_08_KC_DEN|period|totals_q3|Over|7.5|fanduel,nfl|2026_08_KC_DEN,2026-11-01,fanduel,106,2.06,0.850047,,0,0,0.461149,,,,0.101551,False
@@ -1739,6 +1740,7 @@ NFL,Derivatives,H2 Total,Under,nfl|derivatives|2026_08_LV_NYJ|period|totals_h2|U
 NFL,Derivatives,Q4 Total,Under,nfl|derivatives|2026_08_LV_NYJ|period|totals_q4|Under|13.5|fanduel,nfl|2026_08_LV_NYJ,2026-11-01,fanduel,-112,1.89286,0.924286,,0,0,0.504641,,,,0.0828927,False
 NFL,Derivatives,H1 Total,Over,nfl|derivatives|2026_08_MIN_DET|period|totals_h1|Over|22.5|bovada,nfl|2026_08_MIN_DET,2026-11-01,bovada,-110,1.90909,1.37196,,0,0,0.5,,,,0.112567,False
 NFL,Derivatives,H1 Spread,Underdog,nfl|derivatives|2026_08_NE_MIA|period|spreads_h1|home|4.5|fanduel,nfl|2026_08_NE_MIA,2026-11-01,fanduel,-110,1.90909,1.0118,,0,0,0.5,,,,0.0892667,False
+NFL,Derivatives,Team Total,Under,nfl|derivatives|2026_08_NE_MIA|period|team_totals:NE|Under|26.5|williamhill_us,nfl|2026_08_NE_MIA,2026-11-01,williamhill_us,-112,1.89286,1.37162,,0,0,0.491099,,,,0.125101,False
 NFL,Derivatives,H2 Total,Under,nfl|derivatives|2026_08_NE_MIA|period|totals_h2|Under|22.5|fanduel,nfl|2026_08_NE_MIA,2026-11-01,fanduel,-115,1.86957,0.82582,,0,0,0.511604,,,,0.0754622,False
 NFL,Derivatives,H1 Spread,Favorite,nfl|derivatives|2026_08_PHI_WAS|period|spreads_h1|home|-2.5|betrivers,nfl|2026_08_PHI_WAS,2026-11-01,betrivers,-115,1.86957,1.73315,,0,0,0.508036,,,,0.136364,False
 NFL,Derivatives,Q2 Spread,Favorite,nfl|derivatives|2026_08_PHI_WAS|period|spreads_q2|home|-1.5|fanduel,nfl|2026_08_PHI_WAS,2026-11-01,fanduel,-108,1.92593,0.546792,,0,0,0.495359,,,,0.089274,False
