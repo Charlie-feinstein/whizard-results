@@ -2591,6 +2591,75 @@ NFL,Props,Rush Attempts,Over,nfl|props|2026_07_TB_CAR|props|rush_attempts|00-003
 NFL,Props,Pass Attempts,Under,nfl|props|2026_07_DAL_PHI|props|pass_attempts|00-0038400|Under|34.5|bovada,nfl|2026_07_DAL_PHI,2026-10-26,bovada,-110,1.90909,2.10437,L,-1,-2.10437,0.488796,0.522426,0.0336298,0.0688014,0.235829,False
 NFL,Props,Pass Yds,Under,nfl|props|2026_07_DAL_PHI|props|pass_yds|00-0038400|Under|215.5|betonlineag,nfl|2026_07_DAL_PHI,2026-10-26,betonlineag,-112,1.89286,0.723086,W,0.892857,0.645612,0.496605,,,,0.12552,False
 NFL,Props,Receptions,Under,nfl|props|2026_07_DAL_PHI|props|receptions|00-0034351|Under|4.5|bovada,nfl|2026_07_DAL_PHI,2026-10-26,bovada,110,2.1,0.169529,L,-1,-0.169529,0.440173,,,,0.180327,False
+NFL,Props,Pass Attempts,Under,nfl|props|2026_08_CAR_GB|props|pass_attempts|00-0036264|Under|34.5|bovada,nfl|2026_08_CAR_GB,2026-10-29,bovada,100,2,0.994173,,0,0,0.466316,,,,0.154309,False
+NFL,Props,Pass Attempts,Under,nfl|props|2026_08_CAR_GB|props|pass_attempts|00-0039150|Under|36.5|betonlineag,nfl|2026_08_CAR_GB,2026-10-29,betonlineag,-120,1.83333,1.35829,,0,0,0.51354,,,,0.16896,False
+NFL,Props,Pass Completions,Under,nfl|props|2026_08_CAR_GB|props|pass_completions|00-0039150|Under|22.5|draftkings,nfl|2026_08_CAR_GB,2026-10-29,draftkings,-112,1.89286,1.23906,,0,0,0.497728,,,,0.160772,False
+NFL,Props,Pass Rush Yds,Under,nfl|props|2026_08_CAR_GB|props|pass_rush_yds|00-0036264|Under|269.5|betrivers,nfl|2026_08_CAR_GB,2026-10-29,betrivers,-117,1.8547,0.621104,,0,0,0.503349,,,,0.126431,False
+NFL,Props,Pass Rush Yds,Under,nfl|props|2026_08_CAR_GB|props|pass_rush_yds|00-0039150|Under|270.5|fanduel,nfl|2026_08_CAR_GB,2026-10-29,fanduel,-114,1.87719,2.16945,,0,0,0.5,,,,0.232375,False
+NFL,Props,Pass TDs,Under,nfl|props|2026_08_CAR_GB|props|pass_tds|00-0039150|Under|1.5|fanatics,nfl|2026_08_CAR_GB,2026-10-29,fanatics,-115,1.86957,0.696895,,0,0,0.5,,,,0.130177,False
+NFL,Props,Pass Yds,Under,nfl|props|2026_08_CAR_GB|props|pass_yds|00-0036264|Under|262.5|betmgm,nfl|2026_08_CAR_GB,2026-10-29,betmgm,-115,1.86957,1.04031,,0,0,0.5,,,,0.155,False
+NFL,Props,Pass Yds,Under,nfl|props|2026_08_CAR_GB|props|pass_yds|00-0039150|Under|256.5|fanduel,nfl|2026_08_CAR_GB,2026-10-29,fanduel,-114,1.87719,2.17633,,0,0,0.5,,,,0.232875,False
+NFL,Props,Reception Yds,Under,nfl|props|2026_08_CAR_GB|props|reception_yds|00-0038124|Under|72.5|betrivers,nfl|2026_08_CAR_GB,2026-10-29,betrivers,-114,1.87719,0.170218,,0,0,0.496651,,,,0.177808,False
+NFL,Props,Reception Yds,Under,nfl|props|2026_08_CAR_GB|props|reception_yds|00-0039491|Under|64.5|betmgm,nfl|2026_08_CAR_GB,2026-10-29,betmgm,-115,1.86957,0.357243,,0,0,0.5,,,,0.198,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_CAR_GB|props|receptions|00-0037005|Under|2.5|draftkings,nfl|2026_08_CAR_GB,2026-10-29,draftkings,-153,1.65359,0.323489,,0,0,0.577333,,,,0.154792,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_CAR_GB|props|receptions|00-0038124|Under|4.5|betmgm,nfl|2026_08_CAR_GB,2026-10-29,betmgm,105,2.05,0.240491,,0,0,0.450496,,,,0.195879,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_CAR_GB|props|receptions|00-0039491|Under|4.5|fanduel,nfl|2026_08_CAR_GB,2026-10-29,fanduel,120,2.2,0.313797,,0,0,0.416695,,,,0.21218,False
+NFL,Props,Rush Attempts,Under,nfl|props|2026_08_CAR_GB|props|rush_attempts|00-0035700|Under|14.5|betmgm,nfl|2026_08_CAR_GB,2026-10-29,betmgm,100,2,0.439323,,0,0,0.461338,,,,0.229787,False
+NFL,Props,Rush Yds,Under,nfl|props|2026_08_CAR_GB|props|rush_yds|00-0035700|Under|59.5|betrivers,nfl|2026_08_CAR_GB,2026-10-29,betrivers,-115,1.86957,0.360216,,0,0,0.5,,,,0.198403,False
+NFL,Props,Rush Yds,Under,nfl|props|2026_08_CAR_GB|props|rush_yds|00-0036555|Under|69.5|fanduel,nfl|2026_08_CAR_GB,2026-10-29,fanduel,-114,1.87719,0.078796,,0,0,0.5,,,,0.151002,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_ARI_DAL|props|anytime_td|00-0038559|Yes|0.5|fanatics,nfl|2026_08_ARI_DAL,2026-11-01,fanatics,240,3.4,0.563131,,0,0,,,,,0.108007,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_ARI_DAL|props|anytime_td|00-0039410|Yes|0.5|fanatics,nfl|2026_08_ARI_DAL,2026-11-01,fanatics,420,5.2,0.331231,,0,0,,,,,0.0726923,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_ATL_TB|props|anytime_td|00-0041048|Yes|0.5|bovada,nfl|2026_08_ATL_TB,2026-11-01,bovada,380,4.8,0.183823,,0,0,,,,,0.0395417,False
+NFL,Props,Receptions,Over,nfl|props|2026_08_ATL_TB|props|receptions|00-0039361|Over|2.5|bovada,nfl|2026_08_ATL_TB,2026-11-01,bovada,125,2.25,0.283974,,0,0,0.407847,,,,0.202903,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_BAL_BUF|props|anytime_td|00-0039901|Yes|0.5|draftkings,nfl|2026_08_BAL_BUF,2026-11-01,draftkings,425,5.25,0.468715,,0,0,,,,,0.103098,False
+NFL,Props,Pass Attempts,Under,nfl|props|2026_08_BAL_BUF|props|pass_attempts|00-0034796|Under|30.5|draftkings,nfl|2026_08_BAL_BUF,2026-11-01,draftkings,-108,1.92593,1.13768,,0,0,0.488639,,,,0.154986,False
+NFL,Props,Pass Completions,Under,nfl|props|2026_08_BAL_BUF|props|pass_completions|00-0034796|Under|20.5|draftkings,nfl|2026_08_BAL_BUF,2026-11-01,draftkings,-107,1.93458,1.46869,,0,0,0.486366,,,,0.180134,False
+NFL,Props,Reception Yds,Under,nfl|props|2026_08_BAL_BUF|props|reception_yds|00-0034827|Under|56.5|bovada,nfl|2026_08_BAL_BUF,2026-11-01,bovada,-115,1.86957,1.17187,,0,0,0.5,,,,0.308375,False
+NFL,Props,Reception Yds,Under,nfl|props|2026_08_BAL_BUF|props|reception_yds|00-0035537|Under|15.5|draftkings,nfl|2026_08_BAL_BUF,2026-11-01,draftkings,-109,1.91743,0.843701,,0,0,0.493137,,,,0.239363,False
+NFL,Props,Reception Yds,Under,nfl|props|2026_08_BAL_BUF|props|reception_yds|00-0039792|Under|4.5|betonlineag,nfl|2026_08_BAL_BUF,2026-11-01,betonlineag,-114,1.87719,0.179792,,0,0,0.5,,,,0.16475,False
+NFL,Props,Reception Yds,Over,nfl|props|2026_08_BAL_BUF|props|reception_yds|00-0039901|Over|29.5|fanduel,nfl|2026_08_BAL_BUF,2026-11-01,fanduel,-114,1.87719,0.246826,,0,0,0.5,,,,0.173875,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_BAL_BUF|props|receptions|00-0034753|Under|3.5|fanduel,nfl|2026_08_BAL_BUF,2026-11-01,fanduel,-122,1.81967,0.421845,,0,0,0.51569,,,,0.20056,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_BAL_BUF|props|receptions|00-0034827|Under|4.5|fanduel,nfl|2026_08_BAL_BUF,2026-11-01,fanduel,-154,1.64935,1.73773,,0,0,0.574208,,,,0.336917,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_BAL_BUF|props|receptions|00-0035537|Under|2.5|draftkings,nfl|2026_08_BAL_BUF,2026-11-01,draftkings,-162,1.61728,1.03939,,0,0,0.591525,,,,0.230475,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_BAL_BUF|props|receptions|00-0036550|Under|2.5|fanduel,nfl|2026_08_BAL_BUF,2026-11-01,fanduel,-114,1.87719,0.455275,,0,0,0.5,,,,0.20225,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_BAL_BUF|props|receptions|00-0039064|Under|5.5|fanduel,nfl|2026_08_BAL_BUF,2026-11-01,fanduel,104,2.04,0.0472467,,0,0,0.453579,,,,0.164046,False
+NFL,Props,Rush Attempts,Over,nfl|props|2026_08_BAL_BUF|props|rush_attempts|00-0032764|Over|18.5|bovada,nfl|2026_08_BAL_BUF,2026-11-01,bovada,-110,1.90909,0.143643,,0,0,0.488796,,,,0.170079,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_CLE_PIT|props|anytime_td|00-0036139|Yes|0.5|betmgm,nfl|2026_08_CLE_PIT,2026-11-01,betmgm,290,3.9,0.260289,,0,0,,,,,0.0525897,False
+NFL,Props,Pass Completions,Over,nfl|props|2026_08_IND_JAX|props|pass_completions|00-0035710|Over|19.5|draftkings,nfl|2026_08_IND_JAX,2026-11-01,draftkings,101,2.01,0.711096,,0,0,0.466094,,,,0.127406,False
+NFL,Props,Pass Rush Yds,Over,nfl|props|2026_08_IND_JAX|props|pass_rush_yds|00-0035710|Over|202.5|fanduel,nfl|2026_08_IND_JAX,2026-11-01,fanduel,-114,1.87719,1.10336,,0,0,0.5,,,,0.154958,False
+NFL,Props,Reception Yds,Over,nfl|props|2026_08_IND_JAX|props|reception_yds|00-0040128|Over|36.5|fanduel,nfl|2026_08_IND_JAX,2026-11-01,fanduel,-114,1.87719,0.302841,,0,0,0.5,,,,0.1815,False
+NFL,Props,Reception Yds,Under,nfl|props|2026_08_IND_JAX|props|reception_yds|00-0040719|Under|17.5|bovada,nfl|2026_08_IND_JAX,2026-11-01,bovada,-115,1.86957,0.684755,,0,0,0.5,,,,0.242375,False
+NFL,Props,Receptions,Over,nfl|props|2026_08_IND_JAX|props|receptions|00-0040128|Over|4.5|draftkings,nfl|2026_08_IND_JAX,2026-11-01,draftkings,113,2.13,0.542801,,0,0,0.437856,,,,0.219519,False
+NFL,Props,Receptions,Alt Over,nfl|props|2026_08_IND_JAX|props|receptions|00-0040128|Over|5.5|betrivers,nfl|2026_08_IND_JAX,2026-11-01,betrivers,240,3.4,1.32907,,0,0,,,,,0.205382,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_IND_JAX|props|receptions|00-0040719|Under|2.5|draftkings,nfl|2026_08_IND_JAX,2026-11-01,draftkings,-132,1.75758,0.727429,,0,0,0.540549,,,,0.213201,False
+NFL,Props,Rush Yds,Over,nfl|props|2026_08_IND_JAX|props|rush_yds|00-0035710|Over|8.5|betrivers,nfl|2026_08_IND_JAX,2026-11-01,betrivers,-110,1.90909,0.115416,,0,0,0.487717,,,,0.17079,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_KC_DEN|props|anytime_td|00-0034348|Yes|0.5|betmgm,nfl|2026_08_KC_DEN,2026-11-01,betmgm,280,3.8,0.159668,,0,0,,,,,0.0319671,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_KC_DEN|props|anytime_td|00-0036158|Yes|0.5|bovada,nfl|2026_08_KC_DEN,2026-11-01,bovada,235,3.35,0.123252,,0,0,,,,,0.0234925,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_KC_DEN|props|anytime_td|00-0038134|Yes|0.5|draftkings,nfl|2026_08_KC_DEN,2026-11-01,draftkings,-130,1.76923,0.732756,,0,0,,,,,0.0432826,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_KC_DEN|props|anytime_td|00-0040730|Yes|0.5|bovada,nfl|2026_08_KC_DEN,2026-11-01,bovada,400,5,0.10466,,0,0,,,,,0.02275,False
+NFL,Props,Reception Yds,Alt Over,nfl|props|2026_08_KC_DEN|props|reception_yds|00-0041496|Over|19.5|betrivers,nfl|2026_08_KC_DEN,2026-11-01,betrivers,340,4.4,1.10265,,0,0,,,,,0.186529,False
+NFL,Props,Reception Yds,Over,nfl|props|2026_08_KC_DEN|props|reception_yds|00-0041496|Over|7.5|betrivers,nfl|2026_08_KC_DEN,2026-11-01,betrivers,-120,1.83333,0.0384541,,0,0,0.508901,,,,0.161849,False
+NFL,Props,Rush Attempts,Alt Over,nfl|props|2026_08_KC_DEN|props|rush_attempts|00-0036158|Over|9.5|betrivers,nfl|2026_08_KC_DEN,2026-11-01,betrivers,280,3.8,2.42605,,0,0,,,,,0.391342,False
+NFL,Props,Rush Yds,Over,nfl|props|2026_08_KC_DEN|props|rush_yds|00-0036158|Over|23.5|bovada,nfl|2026_08_KC_DEN,2026-11-01,bovada,-115,1.86957,0.670916,,0,0,0.5,,,,0.2405,False
+NFL,Props,Rush Yds,Alt Over,nfl|props|2026_08_KC_DEN|props|rush_yds|00-0036158|Over|39.5|draftkings,nfl|2026_08_KC_DEN,2026-11-01,draftkings,296,3.96,1.66572,,0,0,,,,,0.272571,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_LAC_LA|props|anytime_td|00-0040666|Yes|0.5|bovada,nfl|2026_08_LAC_LA,2026-11-01,bovada,215,3.15,0.149172,,0,0,,,,,0.0276647,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_LV_NYJ|props|anytime_td|00-0037291|Yes|0.5|fanatics,nfl|2026_08_LV_NYJ,2026-11-01,fanatics,700,8,0.259201,,0,0,,,,,0.061625,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_LV_NYJ|props|anytime_td|00-0038563|Yes|0.5|fanatics,nfl|2026_08_LV_NYJ,2026-11-01,fanatics,310,4.1,0.2329,,0,0,,,,,0.0478476,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_MIN_DET|props|anytime_td|00-0036259|Yes|0.5|betrivers,nfl|2026_08_MIN_DET,2026-11-01,betrivers,700,8,0.227656,,0,0,,,,,0.054125,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_MIN_DET|props|anytime_td|00-0036322|Yes|0.5|fanduel,nfl|2026_08_MIN_DET,2026-11-01,fanduel,175,2.75,0.31651,,0,0,,,,,0.0273636,False
+NFL,Props,Anytime TD,Yes,nfl|props|2026_08_MIN_DET|props|anytime_td|00-0038994|Yes|0.5|fanduel,nfl|2026_08_MIN_DET,2026-11-01,fanduel,310,4.1,0.248112,,0,0,,,,,0.0509726,False
+NFL,Props,Receptions,Over,nfl|props|2026_08_MIN_DET|props|receptions|00-0036259|Over|1.5|betonlineag,nfl|2026_08_MIN_DET,2026-11-01,betonlineag,124,2.24,0.221861,,0,0,0.412052,,,,0.183198,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_MIN_DET|props|receptions|00-0036963|Under|6.5|betmgm,nfl|2026_08_MIN_DET,2026-11-01,betmgm,105,2.05,0.0679103,,0,0,0.450496,,,,0.170129,False
+NFL,Props,Reception Yds,Under,nfl|props|2026_08_NE_MIA|props|reception_yds|00-0040198|Under|10.5|bovada,nfl|2026_08_NE_MIA,2026-11-01,bovada,-120,1.83333,0.535561,,0,0,0.511204,,,,0.217796,False
+NFL,Props,Reception Yds,Under,nfl|props|2026_08_NE_MIA|props|reception_yds|00-0040563|Under|20.5|betonlineag,nfl|2026_08_NE_MIA,2026-11-01,betonlineag,-110,1.90909,0.387246,,0,0,0.490975,,,,0.194525,False
+NFL,Props,Pass Attempts,Under,nfl|props|2026_08_TEN_CIN|props|pass_attempts|00-0040676|Under|32.5|bovada,nfl|2026_08_TEN_CIN,2026-11-01,bovada,-105,1.95238,0.962603,,0,0,0.477574,,,,0.152176,False
+NFL,Props,Pass Yds,Under,nfl|props|2026_08_TEN_CIN|props|pass_yds|00-0040676|Under|203.5|betrivers,nfl|2026_08_TEN_CIN,2026-11-01,betrivers,-114,1.87719,0.999807,,0,0,0.496651,,,,0.155099,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_TEN_CIN|props|receptions|00-0036900|Under|6.5|bovada,nfl|2026_08_TEN_CIN,2026-11-01,bovada,110,2.1,0.122016,,0,0,0.440173,,,,0.173077,False
+NFL,Props,Reception Yds,Under,nfl|props|2026_08_CHI_SEA|props|reception_yds|00-0032464|Under|24.5|betmgm,nfl|2026_08_CHI_SEA,2026-11-02,betmgm,-115,1.86957,0.515925,,0,0,0.5,,,,0.2195,False
+NFL,Props,Reception Yds,Under,nfl|props|2026_08_CHI_SEA|props|reception_yds|00-0040735|Under|52.5|betonlineag,nfl|2026_08_CHI_SEA,2026-11-02,betonlineag,-114,1.87719,0.758306,,0,0,0.5,,,,0.2435,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_CHI_SEA|props|receptions|00-0032464|Under|2.5|draftkings,nfl|2026_08_CHI_SEA,2026-11-02,draftkings,-127,1.7874,0.42099,,0,0,0.530619,,,,0.177756,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_CHI_SEA|props|receptions|00-0038543|Under|7.5|betmgm,nfl|2026_08_CHI_SEA,2026-11-02,betmgm,-125,1.8,0.348533,,0,0,0.522426,,,,0.187199,False
+NFL,Props,Receptions,Under,nfl|props|2026_08_CHI_SEA|props|receptions|00-0040735|Under|4.5|betmgm,nfl|2026_08_CHI_SEA,2026-11-02,betmgm,-135,1.74074,0.222125,,0,0,0.538662,,,,0.181088,False
 WNBA,Mainlines,Spread,Favorite,wnba|g|2026-06-16|Indiana Fever|Toronto Tempo|home_ats,wnba|2026-06-16|Indiana Fever|Toronto Tempo,2026-06-16,mybookieag,-110,1.90909,3.22,W,0.909091,2.92727,0.5,,,,0.322,True
 WNBA,Mainlines,Moneyline,Favorite,wnba|g|2026-06-16|Indiana Fever|Toronto Tempo|home_ml,wnba|2026-06-16|Indiana Fever|Toronto Tempo,2026-06-16,betrivers,-295,1.33898,2.12637,W,0.338983,0.720804,0.711363,0.732184,0.0208213,0.0292696,0.212637,True
 WNBA,Mainlines,Spread,Underdog,wnba|g|2026-06-17|Chicago Sky|New York Liberty|home_ats,wnba|2026-06-17|Chicago Sky|New York Liberty,2026-06-17,bovada,-110,1.90909,3.1296,W,0.909091,2.84509,0.5,0.510834,0.0108342,0.0216685,0.31296,True
