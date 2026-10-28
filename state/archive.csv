@@ -1481,6 +1481,7 @@ MLB,K Props,Strikeouts,Over,k|2026-09-27|702275,mlb|2026-09-27|ATL-MIA,2026-09-2
 MLB,K Props,Strikeouts,Under,k|2026-09-30|686613,mlb|2026-09-30|CWS-HOU,2026-09-30,mybookieag,-145,1.68966,1.97,W,0.689655,1.35862,0.559487,,,,0.1142,False
 MLB,K Props,Strikeouts,Under,k|2026-10-03|543037,mlb|2026-10-03|NYY-TB,2026-10-03,draftkings,-155,1.64516,3.09,W,0.645161,1.99355,0.573257,,,,0.1558,False
 MLB,K Props,Strikeouts,Over,k|2026-10-23|607259,mlb|2026-10-23|MIL-TB,2026-10-23,fanduel,136,2.36,1,W,1.36,1.36,0.401736,,,,0.0815,False
+MLB,K Props,Strikeouts,Over,k|2026-10-27|643377,mlb|2026-10-27|MIL-TB,2026-10-27,draftkings,-110,1.90909,1.67,W,0.909091,1.51818,0.493766,,,,0.1096,False
 NFL,Derivatives,H1 Spread,Favorite,nfl|derivatives|2026_03_ATL_GB|period|spreads_h1|GB|-3.0|williamhill_us,nfl|2026_03_ATL_GB,2026-09-24,williamhill_us,-113,1.88496,1.94408,L,-1,-1.94408,0.506961,0.50578,-0.0011811,-0.00232957,0.147009,True
 NFL,Derivatives,H1 Spread,Favorite,nfl|derivatives|2026_03_ATL_GB|period|spreads_h1|home|-3.0|williamhill_us,nfl|2026_03_ATL_GB,2026-09-24,williamhill_us,-113,1.88496,1.94408,L,-1,-1.94408,0.506961,0.50578,-0.0011811,-0.00232977,0.147009,False
 NFL,Derivatives,Team Total,Under,nfl|derivatives|2026_03_ATL_GB|period|team_totals:ATL|Under|19.5|fanduel,nfl|2026_03_ATL_GB,2026-09-24,fanduel,-115,1.86957,1.45309,L,-1,-1.45309,0.504543,0.515909,0.0113659,0.022527,0.121757,True
@@ -3751,3 +3752,9 @@ WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-10-24|1631009|rebounds|over,wnba|2026-
 WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-10-24|1631044|rebounds|over,wnba|2026-10-24|Atlanta Dream|Golden State Valkyries,2026-10-24,draftkings,116,2.16,2.96923,W,1.16,3.44431,0.430517,,,,0.296923,False
 WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-10-24|201886|rebounds|over,wnba|2026-10-24|Atlanta Dream|Golden State Valkyries,2026-10-24,fanduel,-148,1.67568,1.1571,L,-1,-1.1571,0.55853,,,,0.11571,False
 WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-10-24|204329|rebounds|under,wnba|2026-10-24|Atlanta Dream|Golden State Valkyries,2026-10-24,fanduel,-120,1.83333,1.60679,L,-1,-1.60679,0.510121,,,,0.160679,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-10-26|1628886|rebounds|over,wnba|2026-10-26|Golden State Valkyries|Atlanta Dream,2026-10-26,fanduel,-125,1.8,1.44127,W,0.8,1.15301,0.519153,0.519153,0,0,0.144127,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-10-26|1630097|rebounds|over,wnba|2026-10-26|Golden State Valkyries|Atlanta Dream,2026-10-26,fanduel,-114,1.87719,1.8492,L,-1,-1.8492,0.5,0.5,0,0,0.18492,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-10-26|1631007|rebounds|over,wnba|2026-10-26|Golden State Valkyries|Atlanta Dream,2026-10-26,fanduel,110,2.1,2.73512,W,1.1,3.00863,0.445168,0.445168,0,0,0.273512,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-10-26|1631009|rebounds|over,wnba|2026-10-26|Golden State Valkyries|Atlanta Dream,2026-10-26,draftkings,113,2.13,1.83149,W,1.13,2.06958,0.436411,0.436411,5.55112e-17,2.22045e-16,0.183149,False
+WNBA,Rebounds,Rebounds,Over,wnba|reb|2026-10-26|1631044|rebounds|over,wnba|2026-10-26|Golden State Valkyries|Atlanta Dream,2026-10-26,draftkings,-109,1.91743,3,W,0.917431,2.75229,0.485099,0.477384,-0.00771537,-0.0159047,0.303501,False
+WNBA,Rebounds,Rebounds,Under,wnba|reb|2026-10-26|204329|rebounds|under,wnba|2026-10-26|Golden State Valkyries|Atlanta Dream,2026-10-26,williamhill_us,-130,1.76923,1.56843,W,0.769231,1.20649,0.526957,0.526957,0,0,0.156843,False
