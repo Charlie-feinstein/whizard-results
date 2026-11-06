@@ -2807,19 +2807,19 @@ NFL,Props,Receptions,Under,nfl|props|2026_08_CHI_SEA|props|receptions|00-0032464
 NFL,Props,Receptions,Under,nfl|props|2026_08_CHI_SEA|props|receptions|00-0038543|Under|7.5|betmgm,nfl|2026_08_CHI_SEA,2026-11-02,betmgm,-125,1.8,0.348533,W,0.8,0.278827,0.522426,,,,0.187199,False
 NFL,Props,Receptions,Under,nfl|props|2026_08_CHI_SEA|props|receptions|00-0040735|Under|4.5|betmgm,nfl|2026_08_CHI_SEA,2026-11-02,betmgm,-135,1.74074,0.222125,L,-1,-0.222125,0.538662,,,,0.181088,False
 NFL,Props,Anytime TD,Yes,nfl|props|2026_09_JAX_BAL|props|anytime_td|00-0039893|Yes|0.5|fanatics,nfl|2026_09_JAX_BAL,2026-11-05,fanatics,600,7,0.203492,,0,0,,,,,0.0473929,False
-NFL,Props,Pass Completions,Over,nfl|props|2026_09_JAX_BAL|props|pass_completions|00-0040981|Over|15.5|betonlineag,nfl|2026_09_JAX_BAL,2026-11-05,betonlineag,-102,1.98039,2.13244,,0,0,0.471854,0.538151,0.0662976,0.140505,0.239771,False
+NFL,Props,Pass Completions,Over,nfl|props|2026_09_JAX_BAL|props|pass_completions|00-0040981|Over|15.5|betonlineag,nfl|2026_09_JAX_BAL,2026-11-05,betonlineag,-102,1.98039,2.13244,L,-1,-2.13244,0.471854,0.538151,0.0662976,0.140505,0.239771,False
 NFL,Props,Pass Completions,Over,nfl|props|2026_09_JAX_BAL|props|pass_completions|00-0040981|Over|15.5|fanatics,nfl|2026_09_JAX_BAL,2026-11-05,fanatics,-110,1.90909,1.93545,,0,0,0.488796,,,,0.223329,False
-NFL,Props,Pass Rush Yds,Over,nfl|props|2026_09_JAX_BAL|props|pass_rush_yds|00-0036971|Over|246.5|betmgm,nfl|2026_09_JAX_BAL,2026-11-05,betmgm,-115,1.86957,0.626109,,0,0,0.5,,,,0.125061,False
-NFL,Props,Pass TDs,Over,nfl|props|2026_09_JAX_BAL|props|pass_tds|00-0040981|Over|0.5|betmgm,nfl|2026_09_JAX_BAL,2026-11-05,betmgm,-125,1.8,1.02879,,0,0,0.522426,0.549504,0.0270781,0.0518314,0.146849,False
-NFL,Props,Pass Yds,Over,nfl|props|2026_09_JAX_BAL|props|pass_yds|00-0040981|Over|155.5|draftkings,nfl|2026_09_JAX_BAL,2026-11-05,draftkings,-112,1.89286,1.03,,0,0,0.5,,,,0.14025,False
-NFL,Props,Reception Yds,Over,nfl|props|2026_09_JAX_BAL|props|reception_yds|00-0036550|Over|14.5|draftkings,nfl|2026_09_JAX_BAL,2026-11-05,draftkings,-111,1.9009,0.392538,,0,0,0.497712,0.516908,0.0191957,0.0385679,0.175788,False
+NFL,Props,Pass Rush Yds,Over,nfl|props|2026_09_JAX_BAL|props|pass_rush_yds|00-0036971|Over|246.5|betmgm,nfl|2026_09_JAX_BAL,2026-11-05,betmgm,-115,1.86957,0.626109,L,-1,-0.626109,0.5,,,,0.125061,False
+NFL,Props,Pass TDs,Over,nfl|props|2026_09_JAX_BAL|props|pass_tds|00-0040981|Over|0.5|betmgm,nfl|2026_09_JAX_BAL,2026-11-05,betmgm,-125,1.8,1.02879,L,-1,-1.02879,0.522426,0.549504,0.0270781,0.0518314,0.146849,False
+NFL,Props,Pass Yds,Over,nfl|props|2026_09_JAX_BAL|props|pass_yds|00-0040981|Over|155.5|draftkings,nfl|2026_09_JAX_BAL,2026-11-05,draftkings,-112,1.89286,1.03,L,-1,-1.03,0.5,,,,0.14025,False
+NFL,Props,Reception Yds,Over,nfl|props|2026_09_JAX_BAL|props|reception_yds|00-0036550|Over|14.5|draftkings,nfl|2026_09_JAX_BAL,2026-11-05,draftkings,-111,1.9009,0.392538,L,-1,-0.392538,0.497712,0.516908,0.0191957,0.0385679,0.175788,False
 NFL,Props,Reception Yds,Over,nfl|props|2026_09_JAX_BAL|props|reception_yds|00-0039893|Over|12.5|bovada,nfl|2026_09_JAX_BAL,2026-11-05,bovada,-110,1.90909,0.511296,,0,0,0.488796,,,,0.221079,False
 NFL,Props,Reception Yds,Alt Over,nfl|props|2026_09_JAX_BAL|props|reception_yds|00-0039893|Over|24.5|draftkings,nfl|2026_09_JAX_BAL,2026-11-05,draftkings,227,3.27,1.51799,,0,0,,,,,0.23069,False
 NFL,Props,Reception Yds,Under,nfl|props|2026_09_JAX_BAL|props|reception_yds|00-0040887|Under|9.5|betmgm,nfl|2026_09_JAX_BAL,2026-11-05,betmgm,-120,1.83333,0.0763903,,0,0,0.510049,,,,0.161951,False
 NFL,Props,Receptions,Over,nfl|props|2026_09_JAX_BAL|props|receptions|00-0036550|Over|1.5|betonlineag,nfl|2026_09_JAX_BAL,2026-11-05,betonlineag,100,2,0.390372,,0,0,0.466316,,,,0.201309,False
-NFL,Props,Receptions,Over,nfl|props|2026_09_JAX_BAL|props|receptions|00-0036550|Over|1.5|draftkings,nfl|2026_09_JAX_BAL,2026-11-05,draftkings,-103,1.97087,0.487163,,0,0,0.47726,0.43302,-0.0442398,-0.0926953,0.199115,False
-NFL,Props,Receptions,Alt Over,nfl|props|2026_09_JAX_BAL|props|receptions|00-0036550|Over|2.5|betrivers,nfl|2026_09_JAX_BAL,2026-11-05,betrivers,300,4,1.12904,,0,0,,,,,0.185375,False
-NFL,Props,Rush Attempts,Over,nfl|props|2026_09_JAX_BAL|props|rush_attempts|00-0036971|Over|3.5|bovada,nfl|2026_09_JAX_BAL,2026-11-05,bovada,110,2.1,0,,0,0,0.440173,0.488796,0.048623,0.110463,0.154077,False
+NFL,Props,Receptions,Over,nfl|props|2026_09_JAX_BAL|props|receptions|00-0036550|Over|1.5|draftkings,nfl|2026_09_JAX_BAL,2026-11-05,draftkings,-103,1.97087,0.487163,L,-1,-0.487163,0.47726,0.43302,-0.0442398,-0.0926953,0.199115,False
+NFL,Props,Receptions,Alt Over,nfl|props|2026_09_JAX_BAL|props|receptions|00-0036550|Over|2.5|betrivers,nfl|2026_09_JAX_BAL,2026-11-05,betrivers,300,4,1.12904,L,-1,-1.12904,,,,,0.185375,False
+NFL,Props,Rush Attempts,Over,nfl|props|2026_09_JAX_BAL|props|rush_attempts|00-0036971|Over|3.5|bovada,nfl|2026_09_JAX_BAL,2026-11-05,bovada,110,2.1,0,L,-1,-0,0.440173,0.488796,0.048623,0.110463,0.154077,False
 NFL,Props,Anytime TD,Yes,nfl|props|2026_09_ARI_SEA|props|anytime_td|00-0037744|Yes|0.5|betrivers,nfl|2026_09_ARI_SEA,2026-11-08,betrivers,215,3.15,0.209159,,0,0,,,,,0.0387897,False
 NFL,Props,Anytime TD,Yes,nfl|props|2026_09_ARI_SEA|props|anytime_td|00-0037744|Yes|0.5|fanatics,nfl|2026_09_ARI_SEA,2026-11-08,fanatics,200,3,0.385516,,0,0,,,,,0.0349167,False
 NFL,Props,Anytime TD,Yes,nfl|props|2026_09_ARI_SEA|props|anytime_td|00-0038559|Yes|0.5|betrivers,nfl|2026_09_ARI_SEA,2026-11-08,betrivers,295,3.95,0.281928,,0,0,,,,,0.0572104,False
