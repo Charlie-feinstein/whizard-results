@@ -1842,36 +1842,36 @@ NFL,Derivatives,Q2 Total,Under,nfl|derivatives|2026_09_CIN_ATL|period|totals_q2|
 NFL,Derivatives,Q3 Total,Under,nfl|derivatives|2026_09_CIN_ATL|period|totals_q3|Under|10.5|draftkings,nfl|2026_09_CIN_ATL,2026-11-08,draftkings,-135,1.74074,0.182287,,0,0,0.544689,0.555168,0.0104793,0.0192392,0.0754781,False
 NFL,Derivatives,Q4 Total,Under,nfl|derivatives|2026_09_CIN_ATL|period|totals_q4|Under|14.5|draftkings,nfl|2026_09_CIN_ATL,2026-11-08,draftkings,-115,1.86957,0.277572,,0,0,0.5,0.488796,-0.011204,-0.022408,0.0927667,False
 NFL,Derivatives,H1 Spread,Favorite,nfl|derivatives|2026_09_CLE_NO|period|spreads_h1|home|-1.5|fanduel,nfl|2026_09_CLE_NO,2026-11-08,fanduel,115,2.15,1.3282,,0,0,0.444283,0.5,0.0557173,0.125409,0.117351,False
-NFL,Derivatives,Q2 Spread,Favorite,nfl|derivatives|2026_09_CLE_NO|period|spreads_q2|home|-1.5|fanduel,nfl|2026_09_CLE_NO,2026-11-08,fanduel,124,2.24,0.405789,,0,0,0.42147,0.450617,0.0291463,0.0691537,0.0889963,False
-NFL,Derivatives,H1 Total,Over,nfl|derivatives|2026_09_CLE_NO|period|totals_h1|Over|20.5|fanduel,nfl|2026_09_CLE_NO,2026-11-08,fanduel,-115,1.86957,1.05212,,0,0,0.511604,0.476771,-0.0348335,-0.0680868,0.0897622,False
+NFL,Derivatives,Q2 Spread,Favorite,nfl|derivatives|2026_09_CLE_NO|period|spreads_q2|home|-1.5|fanduel,nfl|2026_09_CLE_NO,2026-11-08,fanduel,124,2.24,0.405789,,0,0,0.42147,0.463492,0.042022,0.0997033,0.0889963,False
+NFL,Derivatives,H1 Total,Over,nfl|derivatives|2026_09_CLE_NO|period|totals_h1|Over|20.5|fanduel,nfl|2026_09_CLE_NO,2026-11-08,fanduel,-115,1.86957,1.05212,,0,0,0.511604,0.5,-0.0116045,-0.0226825,0.0897622,False
 NFL,Derivatives,H1 Spread,Underdog,nfl|derivatives|2026_09_DAL_IND|period|spreads_h1|home|3.5|betrivers,nfl|2026_09_DAL_IND,2026-11-08,betrivers,-105,1.95238,1.64532,,0,0,0.485072,,,,0.136162,False
-NFL,Derivatives,Q2 Spread,Underdog,nfl|derivatives|2026_09_DAL_IND|period|spreads_q2|home|1.5|fanduel,nfl|2026_09_DAL_IND,2026-11-08,fanduel,-110,1.90909,0.158503,,0,0,0.5,0.511522,0.011522,0.0230439,0.0782333,False
+NFL,Derivatives,Q2 Spread,Underdog,nfl|derivatives|2026_09_DAL_IND|period|spreads_q2|home|1.5|fanduel,nfl|2026_09_DAL_IND,2026-11-08,fanduel,-110,1.90909,0.158503,,0,0,0.5,0.516135,0.0161351,0.0322703,0.0782333,False
 NFL,Derivatives,Team Total,Under,nfl|derivatives|2026_09_DAL_IND|period|team_totals:DAL|Under|28.5|fanduel,nfl|2026_09_DAL_IND,2026-11-08,fanduel,-111,1.9009,0.896147,,0,0,0.495457,0.515909,0.0204523,0.0412796,0.0883099,False
 NFL,Derivatives,Team Total,Over,nfl|derivatives|2026_09_DAL_IND|period|team_totals:IND|Over|23.5|fanduel,nfl|2026_09_DAL_IND,2026-11-08,fanduel,-106,1.9434,0.960884,,0,0,0.484091,0.5,0.0159091,0.0328638,0.0938424,False
-NFL,Derivatives,H1 Spread,Underdog,nfl|derivatives|2026_09_DEN_CAR|period|spreads_h1|home|1.5|draftkings,nfl|2026_09_DEN_CAR,2026-11-08,draftkings,-108,1.92593,0.895177,,0,0,0.495359,0.511604,0.0162451,0.0327946,0.0823407,False
-NFL,Derivatives,H2 Spread,Favorite,nfl|derivatives|2026_09_DEN_CAR|period|spreads_h2|away|-1.5|fanduel,nfl|2026_09_DEN_CAR,2026-11-08,fanduel,105,2.05,1.15678,,0,0,0.465414,0.465414,0,0,0.102886,False
+NFL,Derivatives,H1 Spread,Underdog,nfl|derivatives|2026_09_DEN_CAR|period|spreads_h1|home|1.5|draftkings,nfl|2026_09_DEN_CAR,2026-11-08,draftkings,-108,1.92593,0.895177,,0,0,0.495359,0.5,0.00464066,0.00936827,0.0823407,False
+NFL,Derivatives,H2 Spread,Favorite,nfl|derivatives|2026_09_DEN_CAR|period|spreads_h2|away|-1.5|fanduel,nfl|2026_09_DEN_CAR,2026-11-08,fanduel,105,2.05,1.15678,,0,0,0.465414,0.454597,-0.0108165,-0.0232406,0.102886,False
 NFL,Derivatives,Team Total,Under,nfl|derivatives|2026_09_DET_MIA|period|team_totals:DET|Under|29.5|fanduel,nfl|2026_09_DET_MIA,2026-11-08,fanduel,-113,1.88496,0.97493,,0,0,0.5,,,,0.0927,False
 NFL,Derivatives,H1 Total,Under,nfl|derivatives|2026_09_DET_MIA|period|totals_h1|Under|25.5|bovada,nfl|2026_09_DET_MIA,2026-11-08,bovada,-110,1.90909,0.771926,,0,0,0.5,0.5,0,0,0.0826667,False
 NFL,Derivatives,Q1 Total,Under,nfl|derivatives|2026_09_DET_MIA|period|totals_q1|Under|10.0|bovada,nfl|2026_09_DET_MIA,2026-11-08,bovada,-125,1.8,0.687797,,0,0,0.522426,0.522426,0,0,0.084146,False
 NFL,Derivatives,Team Total,Under,nfl|derivatives|2026_09_GB_NE|period|team_totals:NE|Under|24.5|fanduel,nfl|2026_09_GB_NE,2026-11-08,fanduel,-120,1.83333,1.10459,,0,0,0.515909,,,,0.0977576,False
 NFL,Derivatives,H1 Total,Under,nfl|derivatives|2026_09_GB_NE|period|totals_h1|Under|23.5|betonlineag,nfl|2026_09_GB_NE,2026-11-08,betonlineag,-110,1.90909,0.393192,,0,0,0.5,,,,0.0834667,False
 NFL,Derivatives,H2 Total,Under,nfl|derivatives|2026_09_GB_NE|period|totals_h2|Under|23.5|betrivers,nfl|2026_09_GB_NE,2026-11-08,betrivers,-113,1.88496,1.87459,,0,0,0.503443,,,,0.158423,False
-NFL,Derivatives,Q3 Total,Under,nfl|derivatives|2026_09_GB_NE|period|totals_q3|Under|9.5|fanduel,nfl|2026_09_GB_NE,2026-11-08,fanduel,102,2.02,0.728793,,0,0,0.470043,0.5,0.0299566,0.0637315,0.104623,False
+NFL,Derivatives,Q3 Total,Under,nfl|derivatives|2026_09_GB_NE|period|totals_q3|Under|9.5|fanduel,nfl|2026_09_GB_NE,2026-11-08,fanduel,102,2.02,0.728793,,0,0,0.470043,0.495359,0.0253159,0.0538587,0.104623,False
 NFL,Derivatives,Q4 Total,Under,nfl|derivatives|2026_09_GB_NE|period|totals_q4|Under|13.5|fanduel,nfl|2026_09_GB_NE,2026-11-08,fanduel,-118,1.84746,0.581528,,0,0,0.518575,,,,0.112025,False
 NFL,Derivatives,H1 Spread,Underdog,nfl|derivatives|2026_09_HOU_LAC|period|spreads_h1|home|3.5|betrivers,nfl|2026_09_HOU_LAC,2026-11-08,betrivers,-117,1.8547,0.922628,,0,0,0.51263,,,,0.0843033,False
 NFL,Derivatives,Team Total,Over,nfl|derivatives|2026_09_HOU_LAC|period|team_totals:LAC|Over|17.5|fanduel,nfl|2026_09_HOU_LAC,2026-11-08,fanduel,-106,1.9434,1.37837,,0,0,0.484091,0.473931,-0.0101597,-0.0209872,0.121376,False
-NFL,Derivatives,H1 Spread,Underdog,nfl|derivatives|2026_09_LA_WAS|period|spreads_h1|home|3.0|bovada,nfl|2026_09_LA_WAS,2026-11-08,bovada,-103,1.97087,1.1977,,0,0,0.483749,0.511604,0.0278552,0.0575819,0.103796,False
-NFL,Derivatives,Team Total,Under,nfl|derivatives|2026_09_LA_WAS|period|team_totals:LA|Under|26.5|fanduel,nfl|2026_09_LA_WAS,2026-11-08,fanduel,104,2.04,2.2943,,0,0,0.459451,0.473931,0.0144801,0.0315161,0.189649,False
-NFL,Derivatives,H2 Total,Under,nfl|derivatives|2026_09_LA_WAS|period|totals_h2|Under|23.5|fanduel,nfl|2026_09_LA_WAS,2026-11-08,fanduel,-105,1.95238,1.09131,,0,0,0.488396,0.488396,0,0,0.118604,False
-NFL,Derivatives,Q3 Total,Under,nfl|derivatives|2026_09_LA_WAS|period|totals_q3|Under|9.5|fanduel,nfl|2026_09_LA_WAS,2026-11-08,fanduel,108,2.08,0.475842,,0,0,0.454826,0.461149,0.0063234,0.0139029,0.087174,False
-NFL,Derivatives,Q4 Total,Under,nfl|derivatives|2026_09_LA_WAS|period|totals_q4|Under|13.5|fanduel,nfl|2026_09_LA_WAS,2026-11-08,fanduel,-110,1.90909,0.297912,,0,0,0.5,0.488478,-0.011522,-0.0230439,0.0874667,False
+NFL,Derivatives,H1 Spread,Underdog,nfl|derivatives|2026_09_LA_WAS|period|spreads_h1|home|3.0|bovada,nfl|2026_09_LA_WAS,2026-11-08,bovada,-103,1.97087,1.1977,,0,0,0.483749,0.516251,0.0325015,0.0671866,0.103796,False
+NFL,Derivatives,Team Total,Under,nfl|derivatives|2026_09_LA_WAS|period|team_totals:LA|Under|26.5|fanduel,nfl|2026_09_LA_WAS,2026-11-08,fanduel,104,2.04,2.2943,,0,0,0.459451,0.468353,0.00890164,0.0193745,0.189649,False
+NFL,Derivatives,H2 Total,Under,nfl|derivatives|2026_09_LA_WAS|period|totals_h2|Under|23.5|fanduel,nfl|2026_09_LA_WAS,2026-11-08,fanduel,-105,1.95238,1.09131,,0,0,0.488396,0.476771,-0.0116246,-0.0238016,0.118604,False
+NFL,Derivatives,Q3 Total,Under,nfl|derivatives|2026_09_LA_WAS|period|totals_q3|Under|9.5|fanduel,nfl|2026_09_LA_WAS,2026-11-08,fanduel,108,2.08,0.475842,,0,0,0.454826,0.456831,0.00200467,0.00440756,0.087174,False
+NFL,Derivatives,Q4 Total,Under,nfl|derivatives|2026_09_LA_WAS|period|totals_q4|Under|13.5|fanduel,nfl|2026_09_LA_WAS,2026-11-08,fanduel,-110,1.90909,0.297912,,0,0,0.5,0.479247,-0.0207527,-0.0415054,0.0874667,False
 NFL,Derivatives,H1 Spread,Favorite,nfl|derivatives|2026_09_LV_SF|period|spreads_h1|home|-6.5|betrivers,nfl|2026_09_LV_SF,2026-11-08,betrivers,-106,1.9434,0.713727,,0,0,0.486269,0.496557,0.010287,0.021155,0.0753638,False
 NFL,Derivatives,H2 Spread,Underdog,nfl|derivatives|2026_09_LV_SF|period|spreads_h2|away|4.5|fanduel,nfl|2026_09_LV_SF,2026-11-08,fanduel,-110,1.90909,1.0556,,0,0,0.5,0.5,0,0,0.0921,False
 NFL,Derivatives,H1 Total,Under,nfl|derivatives|2026_09_NYG_PHI|period|totals_h1|Under|20.0|betonlineag,nfl|2026_09_NYG_PHI,2026-11-08,betonlineag,-105,1.95238,1.53264,,0,0,0.488396,,,,0.12537,False
-NFL,Derivatives,Q1 Total,Under,nfl|derivatives|2026_09_NYG_PHI|period|totals_q1|Under|7.0|bovada,nfl|2026_09_NYG_PHI,2026-11-08,bovada,100,2,0.191401,,0,0,0.466316,0.477574,0.0112577,0.0241417,0.0804018,False
+NFL,Derivatives,Q1 Total,Under,nfl|derivatives|2026_09_NYG_PHI|period|totals_q1|Under|7.0|bovada,nfl|2026_09_NYG_PHI,2026-11-08,bovada,100,2,0.191401,,0,0,0.466316,0.5,0.0336835,0.0722331,0.0804018,False
 NFL,Derivatives,Q2 Total,Under,nfl|derivatives|2026_09_NYG_PHI|period|totals_q2|Under|12.5|fanduel,nfl|2026_09_NYG_PHI,2026-11-08,fanduel,-108,1.92593,0.496503,,0,0,0.493088,,,,0.0841119,False
 NFL,Derivatives,Q1 Spread,Underdog,nfl|derivatives|2026_09_TB_CHI|period|spreads_q1|away|2.5|draftkings,nfl|2026_09_TB_CHI,2026-11-08,draftkings,-105,1.95238,0.953221,,0,0,0.488396,,,,0.0869711,False
-NFL,Derivatives,Team Total,Over,nfl|derivatives|2026_09_TB_CHI|period|team_totals:TB|Over|20.5|fanduel,nfl|2026_09_TB_CHI,2026-11-08,fanduel,102,2.02,0.876331,,0,0,0.463858,0.484091,0.0202333,0.0436196,0.091309,False
+NFL,Derivatives,Team Total,Over,nfl|derivatives|2026_09_TB_CHI|period|team_totals:TB|Over|20.5|fanduel,nfl|2026_09_TB_CHI,2026-11-08,fanduel,102,2.02,0.876331,,0,0,0.463858,0.479538,0.0156807,0.0338049,0.091309,False
 NFL,Mainlines,Total,Under,nfl|main|2026_03_ATL_GB|totals|under|44.5|lowvig,nfl|2026_03_ATL_GB,2026-09-24,lowvig,-104,1.96154,2.38001,L,-1,-2.38001,0.492886,0.54386,0.0509741,0.10342,0.175739,True
 NFL,Mainlines,Spread,Favorite,nfl|main|2026_03_ARI_SF|spreads|home|-9.0|lowvig,nfl|2026_03_ARI_SF,2026-09-27,lowvig,105,2.05,1.65069,L,-1,-1.65069,0.475099,,,,0.127802,True
 NFL,Mainlines,Total,Under,nfl|main|2026_03_BAL_DAL|totals|under|52.5|bovada,nfl|2026_03_BAL_DAL,2026-09-27,bovada,-105,1.95238,0.827938,L,-1,-0.827938,0.488396,,,,0.0787795,True
@@ -1983,24 +1983,24 @@ NFL,Mainlines,Total,Under,nfl|main|2026_08_NE_MIA|totals|under|44.5|betrivers,nf
 NFL,Mainlines,Moneyline,Favorite,nfl|main|2026_08_PHI_WAS|h2h|home|0.0|draftkings,nfl|2026_08_PHI_WAS,2026-11-01,draftkings,-198,1.50505,0.519735,W,0.505051,0.262492,0.645864,0.692511,0.0466474,0.0722249,0.0896491,False
 NFL,Mainlines,Spread,Favorite,nfl|main|2026_08_PHI_WAS|spreads|home|-4.0|williamhill_us,nfl|2026_08_PHI_WAS,2026-11-01,williamhill_us,-107,1.93458,1.03471,W,0.934579,0.967016,0.493039,0.566116,0.0730775,0.148219,0.0917788,False
 NFL,Mainlines,Spread,Favorite,nfl|main|2026_08_CHI_SEA|spreads|home|-3.0|bovada,nfl|2026_08_CHI_SEA,2026-11-02,bovada,-110,1.90909,1.06501,L,-1,-1.06501,0.5,0.503331,0.00333053,0.00666105,0.092709,False
-NFL,Mainlines,Moneyline,Underdog,nfl|main|2026_09_ARI_SEA|h2h|away|0.0|mybookieag,nfl|2026_09_ARI_SEA,2026-11-08,mybookieag,480,5.8,0.149942,,0,0,0.136276,0.206533,0.0702577,0.515556,0.0867137,False
+NFL,Mainlines,Moneyline,Underdog,nfl|main|2026_09_ARI_SEA|h2h|away|0.0|mybookieag,nfl|2026_09_ARI_SEA,2026-11-08,mybookieag,480,5.8,0.149942,,0,0,0.136276,0.200072,0.0637967,0.468145,0.0867137,False
 NFL,Mainlines,Spread,Underdog,nfl|main|2026_09_ARI_SEA|spreads|away|11.5|betrivers,nfl|2026_09_ARI_SEA,2026-11-08,betrivers,-112,1.89286,1.29204,,0,0,0.503468,,,,0.107632,False
 NFL,Mainlines,Total,Under,nfl|main|2026_09_CIN_ATL|totals|under|53.0|mybookieag,nfl|2026_09_CIN_ATL,2026-11-08,mybookieag,-110,1.90909,2.56823,,0,0,0.5,,,,0.189958,False
-NFL,Mainlines,Moneyline,Favorite,nfl|main|2026_09_CLE_NO|h2h|home|0.0|betonlineag,nfl|2026_09_CLE_NO,2026-11-08,betonlineag,-120,1.83333,0.448597,,0,0,0.523229,0.62882,0.105591,0.201807,0.105332,False
+NFL,Mainlines,Moneyline,Favorite,nfl|main|2026_09_CLE_NO|h2h|home|0.0|betonlineag,nfl|2026_09_CLE_NO,2026-11-08,betonlineag,-120,1.83333,0.448597,,0,0,0.523229,0.642389,0.11916,0.227739,0.105332,False
 NFL,Mainlines,Spread,Favorite,nfl|main|2026_09_CLE_NO|spreads|home|-1.0|bovada,nfl|2026_09_CLE_NO,2026-11-08,bovada,-112,1.89286,1.29737,,0,0,0.504641,,,,0.106801,False
-NFL,Mainlines,Total,Over,nfl|main|2026_09_CLE_NO|totals|over|43.0|betmgm,nfl|2026_09_CLE_NO,2026-11-08,betmgm,-108,1.92593,0.933454,,0,0,0.497663,,,,0.0825371,False
-NFL,Mainlines,Moneyline,Underdog,nfl|main|2026_09_DAL_IND|h2h|home|0.0|betrivers,nfl|2026_09_DAL_IND,2026-11-08,betrivers,225,3.25,0.513857,,0,0,0.27797,0.315814,0.0378441,0.136144,0.174714,False
+NFL,Mainlines,Total,Over,nfl|main|2026_09_CLE_NO|totals|over|43.0|betmgm,nfl|2026_09_CLE_NO,2026-11-08,betmgm,-108,1.92593,0.933454,,0,0,0.497663,0.497663,0,0,0.0825371,False
+NFL,Mainlines,Moneyline,Underdog,nfl|main|2026_09_DAL_IND|h2h|home|0.0|betrivers,nfl|2026_09_DAL_IND,2026-11-08,betrivers,225,3.25,0.513857,,0,0,0.27797,0.339743,0.0617724,0.222227,0.174714,False
 NFL,Mainlines,Spread,Underdog,nfl|main|2026_09_DAL_IND|spreads|home|6.0|betmgm,nfl|2026_09_DAL_IND,2026-11-08,betmgm,-108,1.92593,2.30253,,0,0,0.497663,,,,0.171959,False
 NFL,Mainlines,Total,Under,nfl|main|2026_09_DET_MIA|totals|under|50.5|draftkings,nfl|2026_09_DET_MIA,2026-11-08,draftkings,-105,1.95238,1.17516,,0,0,0.488396,,,,0.101679,False
 NFL,Mainlines,Total,Under,nfl|main|2026_09_GB_NE|totals|under|47.0|betrivers,nfl|2026_09_GB_NE,2026-11-08,betrivers,-107,1.93458,2.24597,,0,0,0.491907,,,,0.172407,False
-NFL,Mainlines,Moneyline,Underdog,nfl|main|2026_09_HOU_LAC|h2h|home|0.0|betrivers,nfl|2026_09_HOU_LAC,2026-11-08,betrivers,185,2.85,0.324571,,0,0,0.317324,0.297584,-0.0197399,-0.0622074,0.119423,False
+NFL,Mainlines,Moneyline,Underdog,nfl|main|2026_09_HOU_LAC|h2h|home|0.0|betrivers,nfl|2026_09_HOU_LAC,2026-11-08,betrivers,185,2.85,0.324571,,0,0,0.317324,0.295393,-0.0219308,-0.0691116,0.119423,False
 NFL,Mainlines,Spread,Underdog,nfl|main|2026_09_HOU_LAC|spreads|home|5.0|betrivers,nfl|2026_09_HOU_LAC,2026-11-08,betrivers,-110,1.90909,1.5553,,0,0,0.497696,,,,0.126731,False
-NFL,Mainlines,Total,Over,nfl|main|2026_09_HOU_LAC|totals|over|40.5|betrivers,nfl|2026_09_HOU_LAC,2026-11-08,betrivers,-110,1.90909,0.694665,,0,0,0.497696,0.504608,0.00691145,0.0138869,0.0710538,False
-NFL,Mainlines,Moneyline,Underdog,nfl|main|2026_09_LA_WAS|h2h|home|0.0|betus,nfl|2026_09_LA_WAS,2026-11-08,betus,210,3.1,0.362067,,0,0,0.30057,0.312773,0.0122031,0.0405999,0.121976,False
+NFL,Mainlines,Total,Over,nfl|main|2026_09_HOU_LAC|totals|over|40.5|betrivers,nfl|2026_09_HOU_LAC,2026-11-08,betrivers,-110,1.90909,0.694665,,0,0,0.497696,0.497696,0,0,0.0710538,False
+NFL,Mainlines,Moneyline,Underdog,nfl|main|2026_09_LA_WAS|h2h|home|0.0|betus,nfl|2026_09_LA_WAS,2026-11-08,betus,210,3.1,0.362067,,0,0,0.30057,0.323089,0.0225185,0.0749193,0.121976,False
 NFL,Mainlines,Spread,Underdog,nfl|main|2026_09_LA_WAS|spreads|home|6.0|mybookieag,nfl|2026_09_LA_WAS,2026-11-08,mybookieag,-110,1.90909,1.86417,,0,0,0.5,,,,0.14441,False
-NFL,Mainlines,Total,Under,nfl|main|2026_09_LA_WAS|totals|under|47.5|fanduel,nfl|2026_09_LA_WAS,2026-11-08,fanduel,-108,1.92593,1.63734,,0,0,0.495359,0.488396,-0.0069638,-0.0140581,0.130816,False
+NFL,Mainlines,Total,Under,nfl|main|2026_09_LA_WAS|totals|under|47.5|fanduel,nfl|2026_09_LA_WAS,2026-11-08,fanduel,-108,1.92593,1.63734,,0,0,0.495359,0.476771,-0.0185884,-0.0375251,0.130816,False
 NFL,Mainlines,Total,Under,nfl|main|2026_09_NYG_PHI|totals|under|40.5|mybookieag,nfl|2026_09_NYG_PHI,2026-11-08,mybookieag,-110,1.90909,1.16496,,0,0,0.5,,,,0.099175,False
-NFL,Mainlines,Moneyline,Underdog,nfl|main|2026_09_TB_CHI|h2h|away|0.0|draftkings,nfl|2026_09_TB_CHI,2026-11-08,draftkings,230,3.3,0.309916,,0,0,0.276578,0.291233,0.0146549,0.0529863,0.114488,False
+NFL,Mainlines,Moneyline,Underdog,nfl|main|2026_09_TB_CHI|h2h|away|0.0|draftkings,nfl|2026_09_TB_CHI,2026-11-08,draftkings,230,3.3,0.309916,,0,0,0.276578,0.286943,0.0103645,0.037474,0.114488,False
 NFL,Mainlines,Spread,Underdog,nfl|main|2026_09_TB_CHI|spreads|away|6.5|fanduel,nfl|2026_09_TB_CHI,2026-11-08,fanduel,-114,1.87719,1.48327,,0,0,0.509283,0.523229,0.0139464,0.0273845,0.117592,False
 NFL,Props,Anytime TD,Yes,nfl|props|2026_03_ATL_GB|props|anytime_td|00-0039811|Yes|0.5|betmgm,nfl|2026_03_ATL_GB,2026-09-24,betmgm,220,3.2,0.126486,L,-1,-0.126486,,,,,0.0238161,True
 NFL,Props,Pass Yds,Under,nfl|props|2026_03_ATL_GB|props|pass_yds|00-0039917|Under|209.5|betonlineag,nfl|2026_03_ATL_GB,2026-09-24,betonlineag,-110,1.90909,1.26965,L,-1,-1.26965,0.490975,0.490975,0,0,0.115626,True
