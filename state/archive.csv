@@ -3063,10 +3063,10 @@ NFL,Props,Anytime TD,Yes,nfl|props|2026_10_WAS_NYG|props|anytime_td|00-0035250|Y
 NFL,Props,Anytime TD,Yes,nfl|props|2026_10_WAS_NYG|props|anytime_td|00-0035250|Yes|0.5|fanduel,nfl|2026_10_WAS_NYG,2026-11-12,fanduel,270,3.7,0.291156,,0,0,,,,,0.0577297,False
 NFL,Props,Reception Yds,Under,nfl|props|2026_10_WAS_NYG|props|reception_yds|00-0037742|Under|31.5|fanduel,nfl|2026_10_WAS_NYG,2026-11-12,fanduel,-114,1.87719,0.343245,,0,0,0.5,,,,0.187,False
 NFL,Props,Reception Yds,Under,nfl|props|2026_10_WAS_NYG|props|reception_yds|00-0037809|Under|35.5|betonlineag,nfl|2026_10_WAS_NYG,2026-11-12,betonlineag,-109,1.91743,0.128719,,0,0,0.488718,,,,0.158657,False
-NFL,Props,Reception Yds,Under,nfl|props|2026_10_WAS_NYG|props|reception_yds|00-0037809|Under|35.5|draftkings,nfl|2026_10_WAS_NYG,2026-11-12,draftkings,-110,1.90909,0.273752,,0,0,0.495425,,,,0.1597,False
+NFL,Props,Reception Yds,Under,nfl|props|2026_10_WAS_NYG|props|reception_yds|00-0037809|Under|35.5|draftkings,nfl|2026_10_WAS_NYG,2026-11-12,draftkings,-110,1.90909,0.273752,,0,0,0.495425,0.495425,0,0,0.1597,False
 NFL,Props,Receptions,Under,nfl|props|2026_10_WAS_NYG|props|receptions|00-0031588|Under|3.5|betmgm,nfl|2026_10_WAS_NYG,2026-11-12,betmgm,125,2.25,0.260803,,0,0,0.407847,,,,0.199153,False
-NFL,Props,Receptions,Under,nfl|props|2026_10_WAS_NYG|props|receptions|00-0031588|Under|3.5|betonlineag,nfl|2026_10_WAS_NYG,2026-11-12,betonlineag,128,2.28,0.330565,,0,0,0.403521,,,,0.204479,False
-NFL,Props,Receptions,Under,nfl|props|2026_10_WAS_NYG|props|receptions|00-0037809|Under|3.5|betmgm,nfl|2026_10_WAS_NYG,2026-11-12,betmgm,120,2.2,0.29649,,0,0,0.416695,0.425953,0.00925808,0.0222179,0.20943,False
+NFL,Props,Receptions,Under,nfl|props|2026_10_WAS_NYG|props|receptions|00-0031588|Under|3.5|betonlineag,nfl|2026_10_WAS_NYG,2026-11-12,betonlineag,128,2.28,0.330565,,0,0,0.403521,0.400169,-0.00335175,-0.00830626,0.204479,False
+NFL,Props,Receptions,Under,nfl|props|2026_10_WAS_NYG|props|receptions|00-0037809|Under|3.5|betmgm,nfl|2026_10_WAS_NYG,2026-11-12,betmgm,120,2.2,0.29649,,0,0,0.416695,0.450496,0.0338012,0.0811173,0.20943,False
 NFL,Props,Receptions,Under,nfl|props|2026_10_WAS_NYG|props|receptions|00-0037809|Under|3.5|bovada,nfl|2026_10_WAS_NYG,2026-11-12,bovada,125,2.25,0.42841,,0,0,0.407847,,,,0.226278,False
 NFL,Props,Receptions,Under,nfl|props|2026_10_WAS_NYG|props|receptions|00-0037838|Under|4.5|bovada,nfl|2026_10_WAS_NYG,2026-11-12,bovada,105,2.05,0.136338,,0,0,0.455311,,,,0.159689,False
 NFL,Props,Receptions,Under,nfl|props|2026_10_WAS_NYG|props|receptions|00-0041040|Under|3.5|betonlineag,nfl|2026_10_WAS_NYG,2026-11-12,betonlineag,113,2.13,0.0210152,,0,0,0.435115,,,,0.150635,False
