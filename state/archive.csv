@@ -1976,8 +1976,8 @@ NFL,Derivatives,Q2 Total,Over,nfl|derivatives|2026_10_MIA_IND|period|totals_q2|O
 NFL,Derivatives,H2 Spread,Underdog,nfl|derivatives|2026_10_MIN_GB|period|spreads_h2|away|3.5|fanduel,nfl|2026_10_MIN_GB,2026-11-15,fanduel,-120,1.83333,1.7885,,0,0,0.523229,,,,0.132671,False
 NFL,Derivatives,Q3 Spread,Underdog,nfl|derivatives|2026_10_MIN_GB|period|spreads_q3|away|1.5|fanduel,nfl|2026_10_MIN_GB,2026-11-15,fanduel,-110,1.90909,1.32868,,0,0,0.5,,,,0.109767,False
 NFL,Derivatives,Q4 Spread,Underdog,nfl|derivatives|2026_10_MIN_GB|period|spreads_q4|away|1.5|fanduel,nfl|2026_10_MIN_GB,2026-11-15,fanduel,-128,1.78125,0.824476,,0,0,0.538851,,,,0.0801827,False
-NFL,Derivatives,H1 Spread,Underdog,nfl|derivatives|2026_10_NE_DET|period|spreads_h1|away|2.5|betrivers,nfl|2026_10_NE_DET,2026-11-15,betrivers,-110,1.90909,0.904629,,0,0,0.497696,,,,0.0846371,False
-NFL,Derivatives,Team Total,Under,nfl|derivatives|2026_10_NE_DET|period|team_totals:DET|Under|26.5|fanduel,nfl|2026_10_NE_DET,2026-11-15,fanduel,100,2,1.57372,,0,0,0.468353,,,,0.138547,False
+NFL,Derivatives,H1 Spread,Underdog,nfl|derivatives|2026_10_NE_DET|period|spreads_h1|away|2.5|betrivers,nfl|2026_10_NE_DET,2026-11-15,betrivers,-110,1.90909,0.904629,,0,0,0.497696,0.497696,0,0,0.0846371,False
+NFL,Derivatives,Team Total,Under,nfl|derivatives|2026_10_NE_DET|period|team_totals:DET|Under|26.5|fanduel,nfl|2026_10_NE_DET,2026-11-15,fanduel,100,2,1.57372,,0,0,0.468353,0.504543,0.0361905,0.0772718,0.138547,False
 NFL,Derivatives,H1 Total,Under,nfl|derivatives|2026_10_NE_DET|period|totals_h1|Under|26.5|bovada,nfl|2026_10_NE_DET,2026-11-15,bovada,-105,1.95238,2.01652,,0,0,0.488396,,,,0.157438,False
 NFL,Derivatives,Q2 Total,Under,nfl|derivatives|2026_10_NE_DET|period|totals_q2|Under|15.5|fanduel,nfl|2026_10_NE_DET,2026-11-15,fanduel,-104,1.96154,0.328566,,0,0,0.486073,,,,0.108594,False
 NFL,Derivatives,H1 Spread,Underdog,nfl|derivatives|2026_10_SEA_LV|period|spreads_h1|home|2.5|betonlineag,nfl|2026_10_SEA_LV,2026-11-15,betonlineag,100,2,2.0502,,0,0,0.476771,,,,0.162496,False
